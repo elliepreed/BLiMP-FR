@@ -21,31 +21,19 @@ def compute_score(data, model, mode):
     elif mode == 'mlm':
         score = model.sequence_score(data, reduction=lambda x: x.sum(0).item(), PLL_metric='within_word_l2r')
     return score
+    
+def load_sentences_from_df(df):
+    sentence_pairs = []
+    for _, row in df.iterrows():
+        good_sentence = row['sentence_good']
+        bad_sentence = row['sentence_bad']
+        sentence_pairs.append([good_sentence, bad_sentence])
+    return sentence_pairs
 
 def process_files(model, mode, model_name, output_folder):
     file_names = [
-        "argument_structure_ditransitive_baseline.csv",
-        "argument_structure_ditransitive_ken.csv",
-        "argument_structure_ditransitive_dik.csv",
-        "argument_structure_ditransitive_inca.csv",
-        "argument_structure_ditransitive_OSV.csv",
-        "argument_structure_ditransitive_OVS.csv",
-        "argument_structure_ditransitive_finite.csv",
-        "argument_structure_ditransitive_SOV.csv",
-        "argument_structure_ditransitive_SVO.csv",
-        "argument_structure_ditransitive_VOS.csv",
-        "argument_structure_ditransitive_VSO.csv",
-        "argument_structure_transitive_baseline.csv",
-        "argument_structure_transitive_ken.csv",
-        "argument_structure_transitive_dik.csv",
-        "argument_structure_transitive_inca.csv",
-        "argument_structure_transitive_OSV.csv",
-        "argument_structure_transitive_OVS.csv",
-        "argument_structure_transitive_finite.csv",
-        "argument_structure_transitive_SOV.csv",
-        "argument_structure_transitive_SVO.csv",
-        "argument_structure_transitive_VOS.csv",
-        "argument_structure_transitive_VSO.csv"
+       'hf_cache/fr-00000-of-00001.parquet',
+        'hf_cache/en-00000-of-00001.parquet'
     ]
 
     os.makedirs(output_folder, exist_ok=True)
