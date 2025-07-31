@@ -90,10 +90,13 @@ def process_files(model, mode, model_name, output_folder):
             print(f"❌ Error processing {file_path}: {str(e)}")
             continue
 
+
+ilm_model_names = ['meta-llama/Llama-3.1-8B']
+mlm_model_names = ['croissantllm/CroissantLLMBase']
+
 # === Run the scoring ===
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 mode = 'mlm'
-mlm_model_names = ["croissantllm/CroissantLLMBase"]
 model_name = mlm_model_names[0]
 
 model = scorer.MaskedLMScorer(model_name, device)
