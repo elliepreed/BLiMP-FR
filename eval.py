@@ -91,7 +91,7 @@ def process_files(model, mode, model_name, output_folder):
             continue
 
 
-ilm_model_names = ['meta-llama/Llama-3.1-8B']
+ilm_model_names = ['RobertaConfig']
 mlm_model_names = ['croissantllm/CroissantLLMBase']
 
 # === Run the scoring ===
