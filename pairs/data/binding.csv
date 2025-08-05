@@ -1,0 +1,12 @@
+good_sentence;bad_sentence;good_cue;bad_cue;critical_region;phenomenon
+John dit que Marie l’aime;John dit que Marie s'aime bien;l';s';aime;binding
+Carlos a dit que Lori l’a aidé; Carlos a dit que Lori s’est aidé elle-même;l';s'est;aidé;binding
+Jean a dit que Marie l’avait blessé;Jean a dit que Marie avait blessé elle-même;l';elle-même;blessé;binding
+Marc a déclaré que Julie l’avait critiqué;Marc a déclaré que Julie avait critiqué elle-même;l';elle-même;critiqué;binding
+Thomas pense que Claire l’a défendu;Thomas pense que Claire a défendu elle-même;l';elle-même;défendu;binding
+Luc a dit que Sophie l’admirait;Luc a dit que Sophie admirait elle-même;l';elle-même;admirait;binding
+Sophie a pensé que Lorraine va l’aider;Sophie a pensé que Lorraine va s’aider;l';s';aider;binding
+Sophie voulait que Lorraine lui apprenne le français;Sophie voulait que Lorraine s'apprenne le francais;lui;s';apprenne;binding
+Charlotte croit qu'elle est intelligente; Charlotte croit que s'est intelligente;elle;se;est;binding
+Juliette souhaite qu'elle soit plus agée; Juliette souhaite que se soit plus agée;elle;se;soit;binding
+  
