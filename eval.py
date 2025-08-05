@@ -1,12 +1,12 @@
-from minicons import scorer
-import torch
-import numpy as np
-import csv
+
 import os
 import argparse
 import pandas as pd
+import csv
+import torch
+from minicons import scorer
 
-# ⬇️ Add argument parsing
+# Parse arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('--data_dir', type=str, required=True, help='Path to directory containing .parquet files')
 parser.add_argument('--model_name', type=str, required=True, help='Model name to evaluate')
@@ -20,7 +20,7 @@ def load_sentences(filepath):
         sentence_pairs.append([row['sentence_good'], row['sentence_bad']])
     return sentence_pairs
 
-def compute_score(data, model, mode):
+def compute_score(data, model, mode='ilm'):
     if mode == 'ilm':
         score = model.sequence_score(data, reduction=lambda x: x.sum(0).item())
     elif mode == 'mlm':
@@ -40,8 +40,8 @@ def process_files(model, mode, model_name, output_folder):
             full_path = os.path.join(args.data_dir, file_name)
             pairs = load_sentences(full_path)
             results = []
-            differences = 0
-            accuracy = 0
+            total_difference = 0
+            correct_count = 0
 
             for pair in pairs:
                 score = compute_score(pair, model, mode)
@@ -53,15 +53,17 @@ def process_files(model, mode, model_name, output_folder):
                     'difference': score[0] - score[1],
                     'correct': score[0] > score[1]
                 })
-
                 if score[0] > score[1]:
-                    accuracy += 1
-                differences += score[0] - score[1]
+                    correct_count += 1
+                total_difference += score[0] - score[1]
 
-            mean_difference = differences / len(pairs)
-            accuracy = accuracy / len(pairs)
+            mean_difference = total_difference / len(pairs)
+            accuracy = correct_count / len(pairs)
 
-            output_file = os.path.join(output_folder, f"{model_name.replace('/', '_')}_{file_name.replace('.parquet', '.csv')}")
+            output_file = os.path.join(
+                output_folder,
+                f"{model_name.replace('/', '_')}_{file_name.replace('.parquet', '.csv')}"
+            )
             with open(output_file, 'w', encoding='utf-8', newline='') as f:
                 writer = csv.DictWriter(f, fieldnames=results[0].keys())
                 writer.writeheader()
@@ -73,7 +75,6 @@ def process_files(model, mode, model_name, output_folder):
 
         except Exception as e:
             print(f"❌ Error processing {file_name}: {str(e)}")
-            continue
 
 # Main execution
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
