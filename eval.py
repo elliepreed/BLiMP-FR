@@ -3,6 +3,11 @@ import torch
 import numpy as np
 import csv
 import os
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--data_dir', type=str, required=True, help='Path to directory containing parquet files')
+args = parser.parse_args()
 
 def load_sentences(filepath):
     sentence_pairs = []
@@ -32,15 +37,15 @@ def load_sentences_from_df(df):
 
 def process_files(model, mode, model_name, output_folder):
     file_names = [
-       'hf_cache/fr-00000-of-00001.parquet',
-        'hf_cache/en-00000-of-00001.parquet'
+        'fr-00000-of-00001.parquet',
+        'en-00000-of-00001.parquet'
     ]
 
     os.makedirs(output_folder, exist_ok=True)
 
     for file_path in file_names:
         try:
-            full_path = os.path.join("BLiMP-FR", "data", file_path)
+            full_path = os.path.join(args.data_dir, file_path)
             pairs = load_sentences(full_path)
             results = []
             differences = 0
