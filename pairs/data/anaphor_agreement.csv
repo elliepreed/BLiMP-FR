@@ -1,0 +1,11 @@
+good_sentence;bad_sentence;good_cue;bad_cue;critical_region;phenomenon
+beaucoup de filles s'insultent;beaucoup de filles l'insultent;s';l';insultent;anaphor_agreement
+ils s'aiment;ils aiment eux-mêmes; s';eux-mêmes;aiment;anaphor_agreement
+Jean pense que Marie l’admire;Jean pense que Marie s’admire;l';s';admire;anaphor_agreement
+Claire croit que Marc l’a blessée;Claire croit que Marc s’est blessé;l';s';blessée;anaphor_agreement
+Thomas affirme que Julie l’a soutenu;Thomas affirme que Julie s'est soutenue;l';s';soutenue;anaphor_agreement
+Lucie pense que Paul l’a complimentée;Lucie pense que Paul s'est complimenté;l';s';complimentée;anaphor_agreement
+Marie croit que Luc l’a comprise;Marie croit que Luc s'est comprise;l';s';comprise;anaphor_agreement
+Julie dit que Maxime l’a encouragée;Julie dit que Maxime s'est encouragée;l';s';encouragée;anaphor_agreement
+Antoine pense que Chloé l’aime;Antoine pense que Chloé s'aime;l';s';aime;anaphor_agreement
+Élodie a dit que Martin l’avait soutenue;Élodie a dit que Martin s'était soutenu;l';s';soutenue;anaphor_agreement
