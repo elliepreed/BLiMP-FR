@@ -4,20 +4,20 @@ import numpy as np
 import csv
 import os
 import argparse
+import pandas as pd
 
+# ⬇️ Add argument parsing
 parser = argparse.ArgumentParser()
-parser.add_argument('--data_dir', type=str, required=True, help='Path to directory containing parquet files')
+parser.add_argument('--data_dir', type=str, required=True, help='Path to directory containing .parquet files')
+parser.add_argument('--model_name', type=str, required=True, help='Model name to evaluate')
+parser.add_argument('--results_dir', type=str, default='model_scores', help='Output folder for results')
 args = parser.parse_args()
 
 def load_sentences(filepath):
     sentence_pairs = []
-    with open(filepath, 'r', encoding='utf-8') as file:
-        reader = csv.reader(file, delimiter=';')
-        next(reader)  # skip header
-        for row in reader:
-            good_sentence = row[0]
-            bad_sentence = row[1]
-            sentence_pairs.append([good_sentence, bad_sentence])
+    df = pd.read_parquet(filepath)
+    for _, row in df.iterrows():
+        sentence_pairs.append([row['sentence_good'], row['sentence_bad']])
     return sentence_pairs
 
 def compute_score(data, model, mode):
@@ -26,26 +26,18 @@ def compute_score(data, model, mode):
     elif mode == 'mlm':
         score = model.sequence_score(data, reduction=lambda x: x.sum(0).item(), PLL_metric='within_word_l2r')
     return score
-    
-def load_sentences_from_df(df):
-    sentence_pairs = []
-    for _, row in df.iterrows():
-        good_sentence = row['sentence_good']
-        bad_sentence = row['sentence_bad']
-        sentence_pairs.append([good_sentence, bad_sentence])
-    return sentence_pairs
 
 def process_files(model, mode, model_name, output_folder):
     file_names = [
-        'fr-00000-of-00001.parquet',
-        'en-00000-of-00001.parquet'
+       'fr-00000-of-00001.parquet',
+       'en-00000-of-00001.parquet'
     ]
 
     os.makedirs(output_folder, exist_ok=True)
 
-    for file_path in file_names:
+    for file_name in file_names:
         try:
-            full_path = os.path.join(args.data_dir, file_path)
+            full_path = os.path.join(args.data_dir, file_name)
             pairs = load_sentences(full_path)
             results = []
             differences = 0
@@ -69,33 +61,28 @@ def process_files(model, mode, model_name, output_folder):
             mean_difference = differences / len(pairs)
             accuracy = accuracy / len(pairs)
 
-            output_file = os.path.join(output_folder, f"{model_name.replace('/', '_')}_{file_path}")
+            output_file = os.path.join(output_folder, f"{model_name.replace('/', '_')}_{file_name.replace('.parquet', '.csv')}")
             with open(output_file, 'w', encoding='utf-8', newline='') as f:
                 writer = csv.DictWriter(f, fieldnames=results[0].keys())
                 writer.writeheader()
                 writer.writerows(results)
 
-            print(f"✅ Processed {file_path}:")
+            print(f"✅ Processed {file_name}:")
             print(f"  → Mean difference: {mean_difference:.4f}")
             print(f"  → Accuracy: {accuracy:.4f}")
 
         except Exception as e:
-            print(f"❌ Error processing {file_path}: {str(e)}")
+            print(f"❌ Error processing {file_name}: {str(e)}")
             continue
 
-ilm_model_names = ['croissantllm/CroissantLLMBase']
-mlm_model_names = ['RobertaConfig']  # or any other masked LM
-
+# Main execution
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 mode = 'ilm'
-model_name = ilm_model_names[0]
-
-model = scorer.IncrementalLMScorer(model_name, device)
+model = scorer.IncrementalLMScorer(args.model_name, device)
 
 process_files(
     model=model,
     mode=mode,
-    model_name=model_name,
-    output_folder='model_scores'
+    model_name=args.model_name,
+    output_folder=args.results_dir
 )
-
