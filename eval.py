@@ -1,4 +1,3 @@
-
 import os
 import argparse
 import pandas as pd
@@ -13,11 +12,15 @@ parser.add_argument('--model_name', type=str, required=True, help='Model name to
 parser.add_argument('--results_dir', type=str, default='model_scores', help='Output folder for results')
 args = parser.parse_args()
 
+print("🔹 Parsed arguments:", args)
+
 def load_sentences(filepath):
+    print(f"🔹 Loading sentences from {filepath}")
     sentence_pairs = []
     df = pd.read_parquet(filepath)
     for _, row in df.iterrows():
         sentence_pairs.append([row['sentence_good'], row['sentence_bad']])
+    print(f"🔹 Loaded {len(sentence_pairs)} sentence pairs from {filepath}")
     return sentence_pairs
 
 def compute_score(data, model, mode='ilm'):
@@ -43,7 +46,9 @@ def process_files(model, mode, model_name, output_folder):
             total_difference = 0
             correct_count = 0
 
-            for pair in pairs:
+            for idx, pair in enumerate(pairs):
+                if idx % 50 == 0:
+                    print(f"🔹 Scoring sentence pair {idx + 1}/{len(pairs)}")
                 score = compute_score(pair, model, mode)
                 results.append({
                     'good_sentence': pair[0],
@@ -64,6 +69,7 @@ def process_files(model, mode, model_name, output_folder):
                 output_folder,
                 f"{model_name.replace('/', '_')}_{file_name.replace('.parquet', '.csv')}"
             )
+            print(f"🔹 Writing results to {output_file}")
             with open(output_file, 'w', encoding='utf-8', newline='') as f:
                 writer = csv.DictWriter(f, fieldnames=results[0].keys())
                 writer.writeheader()
@@ -76,9 +82,12 @@ def process_files(model, mode, model_name, output_folder):
         except Exception as e:
             print(f"❌ Error processing {file_name}: {str(e)}")
 
+    print("✅ Finished processing all files.")
+
 # Main execution
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 mode = 'ilm'
+print(f"🔹 Using device: {device}")
 model = scorer.IncrementalLMScorer(args.model_name, device)
 
 process_files(
@@ -87,3 +96,5 @@ process_files(
     model_name=args.model_name,
     output_folder=args.results_dir
 )
+
+
