@@ -1,0 +1,11 @@
+good_sentence;bad_sentence;good_cue;bad_cue;critical_region;phenomenon
+Elle est partie.;Elle est parti.;partie;parti;partie;auxiliary_agreement
+Ils sont arrivés.;Ils sont arrivé.;arrivés;arrivé;arrivés;auxiliary_agreement
+Nous sommes venus.;Nous sommes venue.;venus;venue;venus;auxiliary_agreement
+Tu es resté.;Tu es restée.;resté;restée;resté;auxiliary_agreement
+Elles sont nées.;Elles sont nés.;nées;nés;nées;auxiliary_agreement
+Je suis allé.;Je suis allée.;allé;allée;allé;auxiliary_agreement
+Vous êtes entrés.;Vous êtes entrée.;entrés;entrée;entrés;auxiliary_agreement
+Il est monté.;Il est montée.;monté;montée;monté;auxiliary_agreement
+Elles sont descendues.;Elles sont descendu.;descendues;descendu;descendues;auxiliary_agreement
+Nous sommes partis.;Nous sommes parties.;partis;parties;partis;auxiliary_agreement
