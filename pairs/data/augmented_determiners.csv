@@ -1,0 +1,1001 @@
+good_sentence;bad_sentence;good_cue;bad_cue;critical_region;phenomenon
+La robe est dans le placard;Les robe est dans le placard;la;les;robe;determiner_noun_agreement
+Les chiens est très mignons;Le chiens est très mignons;les;le;determiner_noun_agreement
+La voiture est rouge;Le voiture est rouge;la;le;voiture;determiner_noun_agreement
+Les enfants jouent dans le jardin;L’enfant jouent dans le jardin;les;l’;enfant;determiner_noun_agreement
+Un homme parle à la foule;Une homme parle à la foule;un;une;homme;determiner_noun_agreement
+Une fille chante bien;Un fille chante bien;une;un;fille;determiner_noun_agreement
+Le chat est noir;La chat est noir;le;la;chat;determiner_noun_agreement
+Les pommes sont vertes;La pommes sont vertes;les;la;pommes;determiner_noun_agreement
+Cette robe est chère;Ce robe est chère;cette;ce;robe;determiner_noun_agreement
+ce chat est sur la table.;cette chat est sur la table.;ce;cette;ce;determiner_noun_agreement
+ce chat est sur la table.;ces chat est sur la table.;ce;ces;ce;determiner_noun_agreement
+ce chat est sur la table.;ces chat est sur la table.;ce;ces;ce;determiner_noun_agreement
+cette voiture est sur la table.;ce voiture est sur la table.;cette;ce;cette;determiner_noun_agreement
+cette voiture est sur la table.;ces voiture est sur la table.;cette;ces;cette;determiner_noun_agreement
+cette voiture est sur la table.;ces voiture est sur la table.;cette;ces;cette;determiner_noun_agreement
+ces livres est sur la table.;ce livres est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces livres est sur la table.;cette livres est sur la table.;ces;cette;ces;determiner_noun_agreement
+ces maisons est sur la table.;ce maisons est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces maisons est sur la table.;cette maisons est sur la table.;ces;cette;ces;determiner_noun_agreement
+ce chien est sur la table.;cette chien est sur la table.;ce;cette;ce;determiner_noun_agreement
+ce chien est sur la table.;ces chien est sur la table.;ce;ces;ce;determiner_noun_agreement
+ce chien est sur la table.;ces chien est sur la table.;ce;ces;ce;determiner_noun_agreement
+cette chaise est sur la table.;ce chaise est sur la table.;cette;ce;cette;determiner_noun_agreement
+cette chaise est sur la table.;ces chaise est sur la table.;cette;ces;cette;determiner_noun_agreement
+cette chaise est sur la table.;ces chaise est sur la table.;cette;ces;cette;determiner_noun_agreement
+ces stylos est sur la table.;ce stylos est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces stylos est sur la table.;cette stylos est sur la table.;ces;cette;ces;determiner_noun_agreement
+ces fenêtres est sur la table.;ce fenêtres est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces fenêtres est sur la table.;cette fenêtres est sur la table.;ces;cette;ces;determiner_noun_agreement
+ce bureau est sur la table.;cette bureau est sur la table.;ce;cette;ce;determiner_noun_agreement
+ce bureau est sur la table.;ces bureau est sur la table.;ce;ces;ce;determiner_noun_agreement
+ce bureau est sur la table.;ces bureau est sur la table.;ce;ces;ce;determiner_noun_agreement
+cette lampe est sur la table.;ce lampe est sur la table.;cette;ce;cette;determiner_noun_agreement
+cette lampe est sur la table.;ces lampe est sur la table.;cette;ces;cette;determiner_noun_agreement
+cette lampe est sur la table.;ces lampe est sur la table.;cette;ces;cette;determiner_noun_agreement
+ces ordinateurs est sur la table.;ce ordinateurs est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces ordinateurs est sur la table.;cette ordinateurs est sur la table.;ces;cette;ces;determiner_noun_agreement
+ces tables est sur la table.;ce tables est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces tables est sur la table.;cette tables est sur la table.;ces;cette;ces;determiner_noun_agreement
+ce canapé est sur la table.;cette canapé est sur la table.;ce;cette;ce;determiner_noun_agreement
+ce canapé est sur la table.;ces canapé est sur la table.;ce;ces;ce;determiner_noun_agreement
+ce canapé est sur la table.;ces canapé est sur la table.;ce;ces;ce;determiner_noun_agreement
+cette télévision est sur la table.;ce télévision est sur la table.;cette;ce;cette;determiner_noun_agreement
+cette télévision est sur la table.;ces télévision est sur la table.;cette;ces;cette;determiner_noun_agreement
+cette télévision est sur la table.;ces télévision est sur la table.;cette;ces;cette;determiner_noun_agreement
+ces vélos est sur la table.;ce vélos est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces vélos est sur la table.;cette vélos est sur la table.;ces;cette;ces;determiner_noun_agreement
+ces robes est sur la table.;ce robes est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces robes est sur la table.;cette robes est sur la table.;ces;cette;ces;determiner_noun_agreement
+ce mur est sur la table.;cette mur est sur la table.;ce;cette;ce;determiner_noun_agreement
+ce mur est sur la table.;ces mur est sur la table.;ce;ces;ce;determiner_noun_agreement
+ce mur est sur la table.;ces mur est sur la table.;ce;ces;ce;determiner_noun_agreement
+cette porte est sur la table.;ce porte est sur la table.;cette;ce;cette;determiner_noun_agreement
+cette porte est sur la table.;ces porte est sur la table.;cette;ces;cette;determiner_noun_agreement
+cette porte est sur la table.;ces porte est sur la table.;cette;ces;cette;determiner_noun_agreement
+ces rideaux est sur la table.;ce rideaux est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces rideaux est sur la table.;cette rideaux est sur la table.;ces;cette;ces;determiner_noun_agreement
+ces chaussures est sur la table.;ce chaussures est sur la table.;ces;ce;ces;determiner_noun_agreement
+ces chaussures est sur la table.;cette chaussures est sur la table.;ces;cette;ces;determiner_noun_agreement
+Je vois ce chat tous les jours.;Je vois cette chat tous les jours.;ce;cette;ce;determiner_noun_agreement
+Je vois ce chat tous les jours.;Je vois ces chat tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois ce chat tous les jours.;Je vois ces chat tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois cette voiture tous les jours.;Je vois ce voiture tous les jours.;cette;ce;cette;determiner_noun_agreement
+Je vois cette voiture tous les jours.;Je vois ces voiture tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois cette voiture tous les jours.;Je vois ces voiture tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois ces livres tous les jours.;Je vois ce livres tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces livres tous les jours.;Je vois cette livres tous les jours.;ces;cette;ces;determiner_noun_agreement
+Je vois ces maisons tous les jours.;Je vois ce maisons tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces maisons tous les jours.;Je vois cette maisons tous les jours.;ces;cette;ces;determiner_noun_agreement
+Je vois ce chien tous les jours.;Je vois cette chien tous les jours.;ce;cette;ce;determiner_noun_agreement
+Je vois ce chien tous les jours.;Je vois ces chien tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois ce chien tous les jours.;Je vois ces chien tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois cette chaise tous les jours.;Je vois ce chaise tous les jours.;cette;ce;cette;determiner_noun_agreement
+Je vois cette chaise tous les jours.;Je vois ces chaise tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois cette chaise tous les jours.;Je vois ces chaise tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois ces stylos tous les jours.;Je vois ce stylos tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces stylos tous les jours.;Je vois cette stylos tous les jours.;ces;cette;ces;determiner_noun_agreement
+Je vois ces fenêtres tous les jours.;Je vois ce fenêtres tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces fenêtres tous les jours.;Je vois cette fenêtres tous les jours.;ces;cette;ces;determiner_noun_agreement
+Je vois ce bureau tous les jours.;Je vois cette bureau tous les jours.;ce;cette;ce;determiner_noun_agreement
+Je vois ce bureau tous les jours.;Je vois ces bureau tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois ce bureau tous les jours.;Je vois ces bureau tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois cette lampe tous les jours.;Je vois ce lampe tous les jours.;cette;ce;cette;determiner_noun_agreement
+Je vois cette lampe tous les jours.;Je vois ces lampe tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois cette lampe tous les jours.;Je vois ces lampe tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois ces ordinateurs tous les jours.;Je vois ce ordinateurs tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces ordinateurs tous les jours.;Je vois cette ordinateurs tous les jours.;ces;cette;ces;determiner_noun_agreement
+Je vois ces tables tous les jours.;Je vois ce tables tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces tables tous les jours.;Je vois cette tables tous les jours.;ces;cette;ces;determiner_noun_agreement
+Je vois ce canapé tous les jours.;Je vois cette canapé tous les jours.;ce;cette;ce;determiner_noun_agreement
+Je vois ce canapé tous les jours.;Je vois ces canapé tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois ce canapé tous les jours.;Je vois ces canapé tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois cette télévision tous les jours.;Je vois ce télévision tous les jours.;cette;ce;cette;determiner_noun_agreement
+Je vois cette télévision tous les jours.;Je vois ces télévision tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois cette télévision tous les jours.;Je vois ces télévision tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois ces vélos tous les jours.;Je vois ce vélos tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces vélos tous les jours.;Je vois cette vélos tous les jours.;ces;cette;ces;determiner_noun_agreement
+Je vois ces robes tous les jours.;Je vois ce robes tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces robes tous les jours.;Je vois cette robes tous les jours.;ces;cette;ces;determiner_noun_agreement
+Je vois ce mur tous les jours.;Je vois cette mur tous les jours.;ce;cette;ce;determiner_noun_agreement
+Je vois ce mur tous les jours.;Je vois ces mur tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois ce mur tous les jours.;Je vois ces mur tous les jours.;ce;ces;ce;determiner_noun_agreement
+Je vois cette porte tous les jours.;Je vois ce porte tous les jours.;cette;ce;cette;determiner_noun_agreement
+Je vois cette porte tous les jours.;Je vois ces porte tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois cette porte tous les jours.;Je vois ces porte tous les jours.;cette;ces;cette;determiner_noun_agreement
+Je vois ces rideaux tous les jours.;Je vois ce rideaux tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces rideaux tous les jours.;Je vois cette rideaux tous les jours.;ces;cette;ces;determiner_noun_agreement
+Je vois ces chaussures tous les jours.;Je vois ce chaussures tous les jours.;ces;ce;ces;determiner_noun_agreement
+Je vois ces chaussures tous les jours.;Je vois cette chaussures tous les jours.;ces;cette;ces;determiner_noun_agreement
+ce chat semble important.;cette chat semble important.;ce;cette;ce;determiner_noun_agreement
+ce chat semble important.;ces chat semble important.;ce;ces;ce;determiner_noun_agreement
+ce chat semble important.;ces chat semble important.;ce;ces;ce;determiner_noun_agreement
+cette voiture semble important.;ce voiture semble important.;cette;ce;cette;determiner_noun_agreement
+cette voiture semble important.;ces voiture semble important.;cette;ces;cette;determiner_noun_agreement
+cette voiture semble important.;ces voiture semble important.;cette;ces;cette;determiner_noun_agreement
+ces livres semble important.;ce livres semble important.;ces;ce;ces;determiner_noun_agreement
+ces livres semble important.;cette livres semble important.;ces;cette;ces;determiner_noun_agreement
+ces maisons semble important.;ce maisons semble important.;ces;ce;ces;determiner_noun_agreement
+ces maisons semble important.;cette maisons semble important.;ces;cette;ces;determiner_noun_agreement
+ce chien semble important.;cette chien semble important.;ce;cette;ce;determiner_noun_agreement
+ce chien semble important.;ces chien semble important.;ce;ces;ce;determiner_noun_agreement
+ce chien semble important.;ces chien semble important.;ce;ces;ce;determiner_noun_agreement
+cette chaise semble important.;ce chaise semble important.;cette;ce;cette;determiner_noun_agreement
+cette chaise semble important.;ces chaise semble important.;cette;ces;cette;determiner_noun_agreement
+cette chaise semble important.;ces chaise semble important.;cette;ces;cette;determiner_noun_agreement
+ces stylos semble important.;ce stylos semble important.;ces;ce;ces;determiner_noun_agreement
+ces stylos semble important.;cette stylos semble important.;ces;cette;ces;determiner_noun_agreement
+ces fenêtres semble important.;ce fenêtres semble important.;ces;ce;ces;determiner_noun_agreement
+ces fenêtres semble important.;cette fenêtres semble important.;ces;cette;ces;determiner_noun_agreement
+ce bureau semble important.;cette bureau semble important.;ce;cette;ce;determiner_noun_agreement
+ce bureau semble important.;ces bureau semble important.;ce;ces;ce;determiner_noun_agreement
+ce bureau semble important.;ces bureau semble important.;ce;ces;ce;determiner_noun_agreement
+cette lampe semble important.;ce lampe semble important.;cette;ce;cette;determiner_noun_agreement
+cette lampe semble important.;ces lampe semble important.;cette;ces;cette;determiner_noun_agreement
+cette lampe semble important.;ces lampe semble important.;cette;ces;cette;determiner_noun_agreement
+ces ordinateurs semble important.;ce ordinateurs semble important.;ces;ce;ces;determiner_noun_agreement
+ces ordinateurs semble important.;cette ordinateurs semble important.;ces;cette;ces;determiner_noun_agreement
+ces tables semble important.;ce tables semble important.;ces;ce;ces;determiner_noun_agreement
+ces tables semble important.;cette tables semble important.;ces;cette;ces;determiner_noun_agreement
+ce canapé semble important.;cette canapé semble important.;ce;cette;ce;determiner_noun_agreement
+ce canapé semble important.;ces canapé semble important.;ce;ces;ce;determiner_noun_agreement
+ce canapé semble important.;ces canapé semble important.;ce;ces;ce;determiner_noun_agreement
+cette télévision semble important.;ce télévision semble important.;cette;ce;cette;determiner_noun_agreement
+cette télévision semble important.;ces télévision semble important.;cette;ces;cette;determiner_noun_agreement
+cette télévision semble important.;ces télévision semble important.;cette;ces;cette;determiner_noun_agreement
+ces vélos semble important.;ce vélos semble important.;ces;ce;ces;determiner_noun_agreement
+ces vélos semble important.;cette vélos semble important.;ces;cette;ces;determiner_noun_agreement
+ces robes semble important.;ce robes semble important.;ces;ce;ces;determiner_noun_agreement
+ces robes semble important.;cette robes semble important.;ces;cette;ces;determiner_noun_agreement
+ce mur semble important.;cette mur semble important.;ce;cette;ce;determiner_noun_agreement
+ce mur semble important.;ces mur semble important.;ce;ces;ce;determiner_noun_agreement
+ce mur semble important.;ces mur semble important.;ce;ces;ce;determiner_noun_agreement
+cette porte semble important.;ce porte semble important.;cette;ce;cette;determiner_noun_agreement
+cette porte semble important.;ces porte semble important.;cette;ces;cette;determiner_noun_agreement
+cette porte semble important.;ces porte semble important.;cette;ces;cette;determiner_noun_agreement
+ces rideaux semble important.;ce rideaux semble important.;ces;ce;ces;determiner_noun_agreement
+ces rideaux semble important.;cette rideaux semble important.;ces;cette;ces;determiner_noun_agreement
+ces chaussures semble important.;ce chaussures semble important.;ces;ce;ces;determiner_noun_agreement
+ces chaussures semble important.;cette chaussures semble important.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ce chat.;Hier, nous avons acheté cette chat.;ce;cette;ce;determiner_noun_agreement
+Hier, nous avons acheté ce chat.;Hier, nous avons acheté ces chat.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté ce chat.;Hier, nous avons acheté ces chat.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté cette voiture.;Hier, nous avons acheté ce voiture.;cette;ce;cette;determiner_noun_agreement
+Hier, nous avons acheté cette voiture.;Hier, nous avons acheté ces voiture.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté cette voiture.;Hier, nous avons acheté ces voiture.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté ces livres.;Hier, nous avons acheté ce livres.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces livres.;Hier, nous avons acheté cette livres.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ces maisons.;Hier, nous avons acheté ce maisons.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces maisons.;Hier, nous avons acheté cette maisons.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ce chien.;Hier, nous avons acheté cette chien.;ce;cette;ce;determiner_noun_agreement
+Hier, nous avons acheté ce chien.;Hier, nous avons acheté ces chien.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté ce chien.;Hier, nous avons acheté ces chien.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté cette chaise.;Hier, nous avons acheté ce chaise.;cette;ce;cette;determiner_noun_agreement
+Hier, nous avons acheté cette chaise.;Hier, nous avons acheté ces chaise.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté cette chaise.;Hier, nous avons acheté ces chaise.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté ces stylos.;Hier, nous avons acheté ce stylos.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces stylos.;Hier, nous avons acheté cette stylos.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ces fenêtres.;Hier, nous avons acheté ce fenêtres.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces fenêtres.;Hier, nous avons acheté cette fenêtres.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ce bureau.;Hier, nous avons acheté cette bureau.;ce;cette;ce;determiner_noun_agreement
+Hier, nous avons acheté ce bureau.;Hier, nous avons acheté ces bureau.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté ce bureau.;Hier, nous avons acheté ces bureau.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté cette lampe.;Hier, nous avons acheté ce lampe.;cette;ce;cette;determiner_noun_agreement
+Hier, nous avons acheté cette lampe.;Hier, nous avons acheté ces lampe.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté cette lampe.;Hier, nous avons acheté ces lampe.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté ces ordinateurs.;Hier, nous avons acheté ce ordinateurs.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces ordinateurs.;Hier, nous avons acheté cette ordinateurs.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ces tables.;Hier, nous avons acheté ce tables.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces tables.;Hier, nous avons acheté cette tables.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ce canapé.;Hier, nous avons acheté cette canapé.;ce;cette;ce;determiner_noun_agreement
+Hier, nous avons acheté ce canapé.;Hier, nous avons acheté ces canapé.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté ce canapé.;Hier, nous avons acheté ces canapé.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté cette télévision.;Hier, nous avons acheté ce télévision.;cette;ce;cette;determiner_noun_agreement
+Hier, nous avons acheté cette télévision.;Hier, nous avons acheté ces télévision.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté cette télévision.;Hier, nous avons acheté ces télévision.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté ces vélos.;Hier, nous avons acheté ce vélos.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces vélos.;Hier, nous avons acheté cette vélos.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ces robes.;Hier, nous avons acheté ce robes.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces robes.;Hier, nous avons acheté cette robes.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ce mur.;Hier, nous avons acheté cette mur.;ce;cette;ce;determiner_noun_agreement
+Hier, nous avons acheté ce mur.;Hier, nous avons acheté ces mur.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté ce mur.;Hier, nous avons acheté ces mur.;ce;ces;ce;determiner_noun_agreement
+Hier, nous avons acheté cette porte.;Hier, nous avons acheté ce porte.;cette;ce;cette;determiner_noun_agreement
+Hier, nous avons acheté cette porte.;Hier, nous avons acheté ces porte.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté cette porte.;Hier, nous avons acheté ces porte.;cette;ces;cette;determiner_noun_agreement
+Hier, nous avons acheté ces rideaux.;Hier, nous avons acheté ce rideaux.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces rideaux.;Hier, nous avons acheté cette rideaux.;ces;cette;ces;determiner_noun_agreement
+Hier, nous avons acheté ces chaussures.;Hier, nous avons acheté ce chaussures.;ces;ce;ces;determiner_noun_agreement
+Hier, nous avons acheté ces chaussures.;Hier, nous avons acheté cette chaussures.;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce chat?;Pourquoi avez-vous déplacé cette chat?;ce;cette;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce chat?;Pourquoi avez-vous déplacé ces chat?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce chat?;Pourquoi avez-vous déplacé ces chat?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette voiture?;Pourquoi avez-vous déplacé ce voiture?;cette;ce;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette voiture?;Pourquoi avez-vous déplacé ces voiture?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette voiture?;Pourquoi avez-vous déplacé ces voiture?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces livres?;Pourquoi avez-vous déplacé ce livres?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces livres?;Pourquoi avez-vous déplacé cette livres?;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces maisons?;Pourquoi avez-vous déplacé ce maisons?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces maisons?;Pourquoi avez-vous déplacé cette maisons?;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce chien?;Pourquoi avez-vous déplacé cette chien?;ce;cette;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce chien?;Pourquoi avez-vous déplacé ces chien?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce chien?;Pourquoi avez-vous déplacé ces chien?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette chaise?;Pourquoi avez-vous déplacé ce chaise?;cette;ce;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette chaise?;Pourquoi avez-vous déplacé ces chaise?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette chaise?;Pourquoi avez-vous déplacé ces chaise?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces stylos?;Pourquoi avez-vous déplacé ce stylos?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces stylos?;Pourquoi avez-vous déplacé cette stylos?;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces fenêtres?;Pourquoi avez-vous déplacé ce fenêtres?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces fenêtres?;Pourquoi avez-vous déplacé cette fenêtres?;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce bureau?;Pourquoi avez-vous déplacé cette bureau?;ce;cette;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce bureau?;Pourquoi avez-vous déplacé ces bureau?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce bureau?;Pourquoi avez-vous déplacé ces bureau?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette lampe?;Pourquoi avez-vous déplacé ce lampe?;cette;ce;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette lampe?;Pourquoi avez-vous déplacé ces lampe?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette lampe?;Pourquoi avez-vous déplacé ces lampe?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces ordinateurs?;Pourquoi avez-vous déplacé ce ordinateurs?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces ordinateurs?;Pourquoi avez-vous déplacé cette ordinateurs?;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces tables?;Pourquoi avez-vous déplacé ce tables?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces tables?;Pourquoi avez-vous déplacé cette tables?;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce canapé?;Pourquoi avez-vous déplacé cette canapé?;ce;cette;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce canapé?;Pourquoi avez-vous déplacé ces canapé?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce canapé?;Pourquoi avez-vous déplacé ces canapé?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette télévision?;Pourquoi avez-vous déplacé ce télévision?;cette;ce;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette télévision?;Pourquoi avez-vous déplacé ces télévision?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette télévision?;Pourquoi avez-vous déplacé ces télévision?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces vélos?;Pourquoi avez-vous déplacé ce vélos?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces vélos?;Pourquoi avez-vous déplacé cette vélos?;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces robes?;Pourquoi avez-vous déplacé ce robes?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces robes?;Pourquoi avez-vous déplacé cette robes?;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce mur?;Pourquoi avez-vous déplacé cette mur?;ce;cette;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce mur?;Pourquoi avez-vous déplacé ces mur?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé ce mur?;Pourquoi avez-vous déplacé ces mur?;ce;ces;ce;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette porte?;Pourquoi avez-vous déplacé ce porte?;cette;ce;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette porte?;Pourquoi avez-vous déplacé ces porte?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé cette porte?;Pourquoi avez-vous déplacé ces porte?;cette;ces;cette;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces rideaux?;Pourquoi avez-vous déplacé ce rideaux?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces rideaux?;Pourquoi avez-vous déplacé cette rideaux?;ces;cette;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces chaussures?;Pourquoi avez-vous déplacé ce chaussures?;ces;ce;ces;determiner_noun_agreement
+Pourquoi avez-vous déplacé ces chaussures?;Pourquoi avez-vous déplacé cette chaussures?;ces;cette;ces;determiner_noun_agreement
+ce chat coûte cher.;cette chat coûte cher.;ce;cette;ce;determiner_noun_agreement
+ce chat coûte cher.;ces chat coûte cher.;ce;ces;ce;determiner_noun_agreement
+ce chat coûte cher.;ces chat coûte cher.;ce;ces;ce;determiner_noun_agreement
+cette voiture coûte cher.;ce voiture coûte cher.;cette;ce;cette;determiner_noun_agreement
+cette voiture coûte cher.;ces voiture coûte cher.;cette;ces;cette;determiner_noun_agreement
+cette voiture coûte cher.;ces voiture coûte cher.;cette;ces;cette;determiner_noun_agreement
+ces livres coûte cher.;ce livres coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces livres coûte cher.;cette livres coûte cher.;ces;cette;ces;determiner_noun_agreement
+ces maisons coûte cher.;ce maisons coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces maisons coûte cher.;cette maisons coûte cher.;ces;cette;ces;determiner_noun_agreement
+ce chien coûte cher.;cette chien coûte cher.;ce;cette;ce;determiner_noun_agreement
+ce chien coûte cher.;ces chien coûte cher.;ce;ces;ce;determiner_noun_agreement
+ce chien coûte cher.;ces chien coûte cher.;ce;ces;ce;determiner_noun_agreement
+cette chaise coûte cher.;ce chaise coûte cher.;cette;ce;cette;determiner_noun_agreement
+cette chaise coûte cher.;ces chaise coûte cher.;cette;ces;cette;determiner_noun_agreement
+cette chaise coûte cher.;ces chaise coûte cher.;cette;ces;cette;determiner_noun_agreement
+ces stylos coûte cher.;ce stylos coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces stylos coûte cher.;cette stylos coûte cher.;ces;cette;ces;determiner_noun_agreement
+ces fenêtres coûte cher.;ce fenêtres coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces fenêtres coûte cher.;cette fenêtres coûte cher.;ces;cette;ces;determiner_noun_agreement
+ce bureau coûte cher.;cette bureau coûte cher.;ce;cette;ce;determiner_noun_agreement
+ce bureau coûte cher.;ces bureau coûte cher.;ce;ces;ce;determiner_noun_agreement
+ce bureau coûte cher.;ces bureau coûte cher.;ce;ces;ce;determiner_noun_agreement
+cette lampe coûte cher.;ce lampe coûte cher.;cette;ce;cette;determiner_noun_agreement
+cette lampe coûte cher.;ces lampe coûte cher.;cette;ces;cette;determiner_noun_agreement
+cette lampe coûte cher.;ces lampe coûte cher.;cette;ces;cette;determiner_noun_agreement
+ces ordinateurs coûte cher.;ce ordinateurs coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces ordinateurs coûte cher.;cette ordinateurs coûte cher.;ces;cette;ces;determiner_noun_agreement
+ces tables coûte cher.;ce tables coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces tables coûte cher.;cette tables coûte cher.;ces;cette;ces;determiner_noun_agreement
+ce canapé coûte cher.;cette canapé coûte cher.;ce;cette;ce;determiner_noun_agreement
+ce canapé coûte cher.;ces canapé coûte cher.;ce;ces;ce;determiner_noun_agreement
+ce canapé coûte cher.;ces canapé coûte cher.;ce;ces;ce;determiner_noun_agreement
+cette télévision coûte cher.;ce télévision coûte cher.;cette;ce;cette;determiner_noun_agreement
+cette télévision coûte cher.;ces télévision coûte cher.;cette;ces;cette;determiner_noun_agreement
+cette télévision coûte cher.;ces télévision coûte cher.;cette;ces;cette;determiner_noun_agreement
+ces vélos coûte cher.;ce vélos coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces vélos coûte cher.;cette vélos coûte cher.;ces;cette;ces;determiner_noun_agreement
+ces robes coûte cher.;ce robes coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces robes coûte cher.;cette robes coûte cher.;ces;cette;ces;determiner_noun_agreement
+ce mur coûte cher.;cette mur coûte cher.;ce;cette;ce;determiner_noun_agreement
+ce mur coûte cher.;ces mur coûte cher.;ce;ces;ce;determiner_noun_agreement
+ce mur coûte cher.;ces mur coûte cher.;ce;ces;ce;determiner_noun_agreement
+cette porte coûte cher.;ce porte coûte cher.;cette;ce;cette;determiner_noun_agreement
+cette porte coûte cher.;ces porte coûte cher.;cette;ces;cette;determiner_noun_agreement
+cette porte coûte cher.;ces porte coûte cher.;cette;ces;cette;determiner_noun_agreement
+ces rideaux coûte cher.;ce rideaux coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces rideaux coûte cher.;cette rideaux coûte cher.;ces;cette;ces;determiner_noun_agreement
+ces chaussures coûte cher.;ce chaussures coûte cher.;ces;ce;ces;determiner_noun_agreement
+ces chaussures coûte cher.;cette chaussures coûte cher.;ces;cette;ces;determiner_noun_agreement
+Regarde ce chat là-bas!;Regarde cette chat là-bas!;ce;cette;ce;determiner_noun_agreement
+Regarde ce chat là-bas!;Regarde ces chat là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde ce chat là-bas!;Regarde ces chat là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde cette voiture là-bas!;Regarde ce voiture là-bas!;cette;ce;cette;determiner_noun_agreement
+Regarde cette voiture là-bas!;Regarde ces voiture là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde cette voiture là-bas!;Regarde ces voiture là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde ces livres là-bas!;Regarde ce livres là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces livres là-bas!;Regarde cette livres là-bas!;ces;cette;ces;determiner_noun_agreement
+Regarde ces maisons là-bas!;Regarde ce maisons là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces maisons là-bas!;Regarde cette maisons là-bas!;ces;cette;ces;determiner_noun_agreement
+Regarde ce chien là-bas!;Regarde cette chien là-bas!;ce;cette;ce;determiner_noun_agreement
+Regarde ce chien là-bas!;Regarde ces chien là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde ce chien là-bas!;Regarde ces chien là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde cette chaise là-bas!;Regarde ce chaise là-bas!;cette;ce;cette;determiner_noun_agreement
+Regarde cette chaise là-bas!;Regarde ces chaise là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde cette chaise là-bas!;Regarde ces chaise là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde ces stylos là-bas!;Regarde ce stylos là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces stylos là-bas!;Regarde cette stylos là-bas!;ces;cette;ces;determiner_noun_agreement
+Regarde ces fenêtres là-bas!;Regarde ce fenêtres là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces fenêtres là-bas!;Regarde cette fenêtres là-bas!;ces;cette;ces;determiner_noun_agreement
+Regarde ce bureau là-bas!;Regarde cette bureau là-bas!;ce;cette;ce;determiner_noun_agreement
+Regarde ce bureau là-bas!;Regarde ces bureau là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde ce bureau là-bas!;Regarde ces bureau là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde cette lampe là-bas!;Regarde ce lampe là-bas!;cette;ce;cette;determiner_noun_agreement
+Regarde cette lampe là-bas!;Regarde ces lampe là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde cette lampe là-bas!;Regarde ces lampe là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde ces ordinateurs là-bas!;Regarde ce ordinateurs là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces ordinateurs là-bas!;Regarde cette ordinateurs là-bas!;ces;cette;ces;determiner_noun_agreement
+Regarde ces tables là-bas!;Regarde ce tables là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces tables là-bas!;Regarde cette tables là-bas!;ces;cette;ces;determiner_noun_agreement
+Regarde ce canapé là-bas!;Regarde cette canapé là-bas!;ce;cette;ce;determiner_noun_agreement
+Regarde ce canapé là-bas!;Regarde ces canapé là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde ce canapé là-bas!;Regarde ces canapé là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde cette télévision là-bas!;Regarde ce télévision là-bas!;cette;ce;cette;determiner_noun_agreement
+Regarde cette télévision là-bas!;Regarde ces télévision là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde cette télévision là-bas!;Regarde ces télévision là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde ces vélos là-bas!;Regarde ce vélos là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces vélos là-bas!;Regarde cette vélos là-bas!;ces;cette;ces;determiner_noun_agreement
+Regarde ces robes là-bas!;Regarde ce robes là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces robes là-bas!;Regarde cette robes là-bas!;ces;cette;ces;determiner_noun_agreement
+Regarde ce mur là-bas!;Regarde cette mur là-bas!;ce;cette;ce;determiner_noun_agreement
+Regarde ce mur là-bas!;Regarde ces mur là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde ce mur là-bas!;Regarde ces mur là-bas!;ce;ces;ce;determiner_noun_agreement
+Regarde cette porte là-bas!;Regarde ce porte là-bas!;cette;ce;cette;determiner_noun_agreement
+Regarde cette porte là-bas!;Regarde ces porte là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde cette porte là-bas!;Regarde ces porte là-bas!;cette;ces;cette;determiner_noun_agreement
+Regarde ces rideaux là-bas!;Regarde ce rideaux là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces rideaux là-bas!;Regarde cette rideaux là-bas!;ces;cette;ces;determiner_noun_agreement
+Regarde ces chaussures là-bas!;Regarde ce chaussures là-bas!;ces;ce;ces;determiner_noun_agreement
+Regarde ces chaussures là-bas!;Regarde cette chaussures là-bas!;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ce chat soigneusement.;Ils ont nettoyé cette chat soigneusement.;ce;cette;ce;determiner_noun_agreement
+Ils ont nettoyé ce chat soigneusement.;Ils ont nettoyé ces chat soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé ce chat soigneusement.;Ils ont nettoyé ces chat soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé cette voiture soigneusement.;Ils ont nettoyé ce voiture soigneusement.;cette;ce;cette;determiner_noun_agreement
+Ils ont nettoyé cette voiture soigneusement.;Ils ont nettoyé ces voiture soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé cette voiture soigneusement.;Ils ont nettoyé ces voiture soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé ces livres soigneusement.;Ils ont nettoyé ce livres soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces livres soigneusement.;Ils ont nettoyé cette livres soigneusement.;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ces maisons soigneusement.;Ils ont nettoyé ce maisons soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces maisons soigneusement.;Ils ont nettoyé cette maisons soigneusement.;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ce chien soigneusement.;Ils ont nettoyé cette chien soigneusement.;ce;cette;ce;determiner_noun_agreement
+Ils ont nettoyé ce chien soigneusement.;Ils ont nettoyé ces chien soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé ce chien soigneusement.;Ils ont nettoyé ces chien soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé cette chaise soigneusement.;Ils ont nettoyé ce chaise soigneusement.;cette;ce;cette;determiner_noun_agreement
+Ils ont nettoyé cette chaise soigneusement.;Ils ont nettoyé ces chaise soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé cette chaise soigneusement.;Ils ont nettoyé ces chaise soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé ces stylos soigneusement.;Ils ont nettoyé ce stylos soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces stylos soigneusement.;Ils ont nettoyé cette stylos soigneusement.;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ces fenêtres soigneusement.;Ils ont nettoyé ce fenêtres soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces fenêtres soigneusement.;Ils ont nettoyé cette fenêtres soigneusement.;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ce bureau soigneusement.;Ils ont nettoyé cette bureau soigneusement.;ce;cette;ce;determiner_noun_agreement
+Ils ont nettoyé ce bureau soigneusement.;Ils ont nettoyé ces bureau soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé ce bureau soigneusement.;Ils ont nettoyé ces bureau soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé cette lampe soigneusement.;Ils ont nettoyé ce lampe soigneusement.;cette;ce;cette;determiner_noun_agreement
+Ils ont nettoyé cette lampe soigneusement.;Ils ont nettoyé ces lampe soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé cette lampe soigneusement.;Ils ont nettoyé ces lampe soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé ces ordinateurs soigneusement.;Ils ont nettoyé ce ordinateurs soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces ordinateurs soigneusement.;Ils ont nettoyé cette ordinateurs soigneusement.;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ces tables soigneusement.;Ils ont nettoyé ce tables soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces tables soigneusement.;Ils ont nettoyé cette tables soigneusement.;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ce canapé soigneusement.;Ils ont nettoyé cette canapé soigneusement.;ce;cette;ce;determiner_noun_agreement
+Ils ont nettoyé ce canapé soigneusement.;Ils ont nettoyé ces canapé soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé ce canapé soigneusement.;Ils ont nettoyé ces canapé soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé cette télévision soigneusement.;Ils ont nettoyé ce télévision soigneusement.;cette;ce;cette;determiner_noun_agreement
+Ils ont nettoyé cette télévision soigneusement.;Ils ont nettoyé ces télévision soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé cette télévision soigneusement.;Ils ont nettoyé ces télévision soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé ces vélos soigneusement.;Ils ont nettoyé ce vélos soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces vélos soigneusement.;Ils ont nettoyé cette vélos soigneusement.;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ces robes soigneusement.;Ils ont nettoyé ce robes soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces robes soigneusement.;Ils ont nettoyé cette robes soigneusement.;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ce mur soigneusement.;Ils ont nettoyé cette mur soigneusement.;ce;cette;ce;determiner_noun_agreement
+Ils ont nettoyé ce mur soigneusement.;Ils ont nettoyé ces mur soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé ce mur soigneusement.;Ils ont nettoyé ces mur soigneusement.;ce;ces;ce;determiner_noun_agreement
+Ils ont nettoyé cette porte soigneusement.;Ils ont nettoyé ce porte soigneusement.;cette;ce;cette;determiner_noun_agreement
+Ils ont nettoyé cette porte soigneusement.;Ils ont nettoyé ces porte soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé cette porte soigneusement.;Ils ont nettoyé ces porte soigneusement.;cette;ces;cette;determiner_noun_agreement
+Ils ont nettoyé ces rideaux soigneusement.;Ils ont nettoyé ce rideaux soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces rideaux soigneusement.;Ils ont nettoyé cette rideaux soigneusement.;ces;cette;ces;determiner_noun_agreement
+Ils ont nettoyé ces chaussures soigneusement.;Ils ont nettoyé ce chaussures soigneusement.;ces;ce;ces;determiner_noun_agreement
+Ils ont nettoyé ces chaussures soigneusement.;Ils ont nettoyé cette chaussures soigneusement.;ces;cette;ces;determiner_noun_agreement
+Elle aime ce chat plus que les autres.;Elle aime cette chat plus que les autres.;ce;cette;ce;determiner_noun_agreement
+Elle aime ce chat plus que les autres.;Elle aime ces chat plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime ce chat plus que les autres.;Elle aime ces chat plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime cette voiture plus que les autres.;Elle aime ce voiture plus que les autres.;cette;ce;cette;determiner_noun_agreement
+Elle aime cette voiture plus que les autres.;Elle aime ces voiture plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime cette voiture plus que les autres.;Elle aime ces voiture plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime ces livres plus que les autres.;Elle aime ce livres plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces livres plus que les autres.;Elle aime cette livres plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Elle aime ces maisons plus que les autres.;Elle aime ce maisons plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces maisons plus que les autres.;Elle aime cette maisons plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Elle aime ce chien plus que les autres.;Elle aime cette chien plus que les autres.;ce;cette;ce;determiner_noun_agreement
+Elle aime ce chien plus que les autres.;Elle aime ces chien plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime ce chien plus que les autres.;Elle aime ces chien plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime cette chaise plus que les autres.;Elle aime ce chaise plus que les autres.;cette;ce;cette;determiner_noun_agreement
+Elle aime cette chaise plus que les autres.;Elle aime ces chaise plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime cette chaise plus que les autres.;Elle aime ces chaise plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime ces stylos plus que les autres.;Elle aime ce stylos plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces stylos plus que les autres.;Elle aime cette stylos plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Elle aime ces fenêtres plus que les autres.;Elle aime ce fenêtres plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces fenêtres plus que les autres.;Elle aime cette fenêtres plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Elle aime ce bureau plus que les autres.;Elle aime cette bureau plus que les autres.;ce;cette;ce;determiner_noun_agreement
+Elle aime ce bureau plus que les autres.;Elle aime ces bureau plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime ce bureau plus que les autres.;Elle aime ces bureau plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime cette lampe plus que les autres.;Elle aime ce lampe plus que les autres.;cette;ce;cette;determiner_noun_agreement
+Elle aime cette lampe plus que les autres.;Elle aime ces lampe plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime cette lampe plus que les autres.;Elle aime ces lampe plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime ces ordinateurs plus que les autres.;Elle aime ce ordinateurs plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces ordinateurs plus que les autres.;Elle aime cette ordinateurs plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Elle aime ces tables plus que les autres.;Elle aime ce tables plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces tables plus que les autres.;Elle aime cette tables plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Elle aime ce canapé plus que les autres.;Elle aime cette canapé plus que les autres.;ce;cette;ce;determiner_noun_agreement
+Elle aime ce canapé plus que les autres.;Elle aime ces canapé plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime ce canapé plus que les autres.;Elle aime ces canapé plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime cette télévision plus que les autres.;Elle aime ce télévision plus que les autres.;cette;ce;cette;determiner_noun_agreement
+Elle aime cette télévision plus que les autres.;Elle aime ces télévision plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime cette télévision plus que les autres.;Elle aime ces télévision plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime ces vélos plus que les autres.;Elle aime ce vélos plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces vélos plus que les autres.;Elle aime cette vélos plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Elle aime ces robes plus que les autres.;Elle aime ce robes plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces robes plus que les autres.;Elle aime cette robes plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Elle aime ce mur plus que les autres.;Elle aime cette mur plus que les autres.;ce;cette;ce;determiner_noun_agreement
+Elle aime ce mur plus que les autres.;Elle aime ces mur plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime ce mur plus que les autres.;Elle aime ces mur plus que les autres.;ce;ces;ce;determiner_noun_agreement
+Elle aime cette porte plus que les autres.;Elle aime ce porte plus que les autres.;cette;ce;cette;determiner_noun_agreement
+Elle aime cette porte plus que les autres.;Elle aime ces porte plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime cette porte plus que les autres.;Elle aime ces porte plus que les autres.;cette;ces;cette;determiner_noun_agreement
+Elle aime ces rideaux plus que les autres.;Elle aime ce rideaux plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces rideaux plus que les autres.;Elle aime cette rideaux plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Elle aime ces chaussures plus que les autres.;Elle aime ce chaussures plus que les autres.;ces;ce;ces;determiner_noun_agreement
+Elle aime ces chaussures plus que les autres.;Elle aime cette chaussures plus que les autres.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ce chat immédiatement.;Nous avons besoin de cette chat immédiatement.;ce;cette;ce;determiner_noun_agreement
+Nous avons besoin de ce chat immédiatement.;Nous avons besoin de ces chat immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de ce chat immédiatement.;Nous avons besoin de ces chat immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de cette voiture immédiatement.;Nous avons besoin de ce voiture immédiatement.;cette;ce;cette;determiner_noun_agreement
+Nous avons besoin de cette voiture immédiatement.;Nous avons besoin de ces voiture immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de cette voiture immédiatement.;Nous avons besoin de ces voiture immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de ces livres immédiatement.;Nous avons besoin de ce livres immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces livres immédiatement.;Nous avons besoin de cette livres immédiatement.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ces maisons immédiatement.;Nous avons besoin de ce maisons immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces maisons immédiatement.;Nous avons besoin de cette maisons immédiatement.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ce chien immédiatement.;Nous avons besoin de cette chien immédiatement.;ce;cette;ce;determiner_noun_agreement
+Nous avons besoin de ce chien immédiatement.;Nous avons besoin de ces chien immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de ce chien immédiatement.;Nous avons besoin de ces chien immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de cette chaise immédiatement.;Nous avons besoin de ce chaise immédiatement.;cette;ce;cette;determiner_noun_agreement
+Nous avons besoin de cette chaise immédiatement.;Nous avons besoin de ces chaise immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de cette chaise immédiatement.;Nous avons besoin de ces chaise immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de ces stylos immédiatement.;Nous avons besoin de ce stylos immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces stylos immédiatement.;Nous avons besoin de cette stylos immédiatement.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ces fenêtres immédiatement.;Nous avons besoin de ce fenêtres immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces fenêtres immédiatement.;Nous avons besoin de cette fenêtres immédiatement.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ce bureau immédiatement.;Nous avons besoin de cette bureau immédiatement.;ce;cette;ce;determiner_noun_agreement
+Nous avons besoin de ce bureau immédiatement.;Nous avons besoin de ces bureau immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de ce bureau immédiatement.;Nous avons besoin de ces bureau immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de cette lampe immédiatement.;Nous avons besoin de ce lampe immédiatement.;cette;ce;cette;determiner_noun_agreement
+Nous avons besoin de cette lampe immédiatement.;Nous avons besoin de ces lampe immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de cette lampe immédiatement.;Nous avons besoin de ces lampe immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de ces ordinateurs immédiatement.;Nous avons besoin de ce ordinateurs immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces ordinateurs immédiatement.;Nous avons besoin de cette ordinateurs immédiatement.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ces tables immédiatement.;Nous avons besoin de ce tables immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces tables immédiatement.;Nous avons besoin de cette tables immédiatement.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ce canapé immédiatement.;Nous avons besoin de cette canapé immédiatement.;ce;cette;ce;determiner_noun_agreement
+Nous avons besoin de ce canapé immédiatement.;Nous avons besoin de ces canapé immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de ce canapé immédiatement.;Nous avons besoin de ces canapé immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de cette télévision immédiatement.;Nous avons besoin de ce télévision immédiatement.;cette;ce;cette;determiner_noun_agreement
+Nous avons besoin de cette télévision immédiatement.;Nous avons besoin de ces télévision immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de cette télévision immédiatement.;Nous avons besoin de ces télévision immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de ces vélos immédiatement.;Nous avons besoin de ce vélos immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces vélos immédiatement.;Nous avons besoin de cette vélos immédiatement.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ces robes immédiatement.;Nous avons besoin de ce robes immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces robes immédiatement.;Nous avons besoin de cette robes immédiatement.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ce mur immédiatement.;Nous avons besoin de cette mur immédiatement.;ce;cette;ce;determiner_noun_agreement
+Nous avons besoin de ce mur immédiatement.;Nous avons besoin de ces mur immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de ce mur immédiatement.;Nous avons besoin de ces mur immédiatement.;ce;ces;ce;determiner_noun_agreement
+Nous avons besoin de cette porte immédiatement.;Nous avons besoin de ce porte immédiatement.;cette;ce;cette;determiner_noun_agreement
+Nous avons besoin de cette porte immédiatement.;Nous avons besoin de ces porte immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de cette porte immédiatement.;Nous avons besoin de ces porte immédiatement.;cette;ces;cette;determiner_noun_agreement
+Nous avons besoin de ces rideaux immédiatement.;Nous avons besoin de ce rideaux immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces rideaux immédiatement.;Nous avons besoin de cette rideaux immédiatement.;ces;cette;ces;determiner_noun_agreement
+Nous avons besoin de ces chaussures immédiatement.;Nous avons besoin de ce chaussures immédiatement.;ces;ce;ces;determiner_noun_agreement
+Nous avons besoin de ces chaussures immédiatement.;Nous avons besoin de cette chaussures immédiatement.;ces;cette;ces;determiner_noun_agreement
+ce chat est tombé par terre.;cette chat est tombé par terre.;ce;cette;ce;determiner_noun_agreement
+ce chat est tombé par terre.;ces chat est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+ce chat est tombé par terre.;ces chat est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+cette voiture est tombé par terre.;ce voiture est tombé par terre.;cette;ce;cette;determiner_noun_agreement
+cette voiture est tombé par terre.;ces voiture est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+cette voiture est tombé par terre.;ces voiture est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+ces livres est tombé par terre.;ce livres est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces livres est tombé par terre.;cette livres est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+ces maisons est tombé par terre.;ce maisons est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces maisons est tombé par terre.;cette maisons est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+ce chien est tombé par terre.;cette chien est tombé par terre.;ce;cette;ce;determiner_noun_agreement
+ce chien est tombé par terre.;ces chien est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+ce chien est tombé par terre.;ces chien est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+cette chaise est tombé par terre.;ce chaise est tombé par terre.;cette;ce;cette;determiner_noun_agreement
+cette chaise est tombé par terre.;ces chaise est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+cette chaise est tombé par terre.;ces chaise est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+ces stylos est tombé par terre.;ce stylos est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces stylos est tombé par terre.;cette stylos est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+ces fenêtres est tombé par terre.;ce fenêtres est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces fenêtres est tombé par terre.;cette fenêtres est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+ce bureau est tombé par terre.;cette bureau est tombé par terre.;ce;cette;ce;determiner_noun_agreement
+ce bureau est tombé par terre.;ces bureau est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+ce bureau est tombé par terre.;ces bureau est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+cette lampe est tombé par terre.;ce lampe est tombé par terre.;cette;ce;cette;determiner_noun_agreement
+cette lampe est tombé par terre.;ces lampe est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+cette lampe est tombé par terre.;ces lampe est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+ces ordinateurs est tombé par terre.;ce ordinateurs est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces ordinateurs est tombé par terre.;cette ordinateurs est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+ces tables est tombé par terre.;ce tables est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces tables est tombé par terre.;cette tables est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+ce canapé est tombé par terre.;cette canapé est tombé par terre.;ce;cette;ce;determiner_noun_agreement
+ce canapé est tombé par terre.;ces canapé est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+ce canapé est tombé par terre.;ces canapé est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+cette télévision est tombé par terre.;ce télévision est tombé par terre.;cette;ce;cette;determiner_noun_agreement
+cette télévision est tombé par terre.;ces télévision est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+cette télévision est tombé par terre.;ces télévision est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+ces vélos est tombé par terre.;ce vélos est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces vélos est tombé par terre.;cette vélos est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+ces robes est tombé par terre.;ce robes est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces robes est tombé par terre.;cette robes est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+ce mur est tombé par terre.;cette mur est tombé par terre.;ce;cette;ce;determiner_noun_agreement
+ce mur est tombé par terre.;ces mur est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+ce mur est tombé par terre.;ces mur est tombé par terre.;ce;ces;ce;determiner_noun_agreement
+cette porte est tombé par terre.;ce porte est tombé par terre.;cette;ce;cette;determiner_noun_agreement
+cette porte est tombé par terre.;ces porte est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+cette porte est tombé par terre.;ces porte est tombé par terre.;cette;ces;cette;determiner_noun_agreement
+ces rideaux est tombé par terre.;ce rideaux est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces rideaux est tombé par terre.;cette rideaux est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+ces chaussures est tombé par terre.;ce chaussures est tombé par terre.;ces;ce;ces;determiner_noun_agreement
+ces chaussures est tombé par terre.;cette chaussures est tombé par terre.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ce chat hier.;Je n’ai pas vu cette chat hier.;ce;cette;ce;determiner_noun_agreement
+Je n’ai pas vu ce chat hier.;Je n’ai pas vu ces chat hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu ce chat hier.;Je n’ai pas vu ces chat hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu cette voiture hier.;Je n’ai pas vu ce voiture hier.;cette;ce;cette;determiner_noun_agreement
+Je n’ai pas vu cette voiture hier.;Je n’ai pas vu ces voiture hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu cette voiture hier.;Je n’ai pas vu ces voiture hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu ces livres hier.;Je n’ai pas vu ce livres hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces livres hier.;Je n’ai pas vu cette livres hier.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ces maisons hier.;Je n’ai pas vu ce maisons hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces maisons hier.;Je n’ai pas vu cette maisons hier.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ce chien hier.;Je n’ai pas vu cette chien hier.;ce;cette;ce;determiner_noun_agreement
+Je n’ai pas vu ce chien hier.;Je n’ai pas vu ces chien hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu ce chien hier.;Je n’ai pas vu ces chien hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu cette chaise hier.;Je n’ai pas vu ce chaise hier.;cette;ce;cette;determiner_noun_agreement
+Je n’ai pas vu cette chaise hier.;Je n’ai pas vu ces chaise hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu cette chaise hier.;Je n’ai pas vu ces chaise hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu ces stylos hier.;Je n’ai pas vu ce stylos hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces stylos hier.;Je n’ai pas vu cette stylos hier.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ces fenêtres hier.;Je n’ai pas vu ce fenêtres hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces fenêtres hier.;Je n’ai pas vu cette fenêtres hier.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ce bureau hier.;Je n’ai pas vu cette bureau hier.;ce;cette;ce;determiner_noun_agreement
+Je n’ai pas vu ce bureau hier.;Je n’ai pas vu ces bureau hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu ce bureau hier.;Je n’ai pas vu ces bureau hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu cette lampe hier.;Je n’ai pas vu ce lampe hier.;cette;ce;cette;determiner_noun_agreement
+Je n’ai pas vu cette lampe hier.;Je n’ai pas vu ces lampe hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu cette lampe hier.;Je n’ai pas vu ces lampe hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu ces ordinateurs hier.;Je n’ai pas vu ce ordinateurs hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces ordinateurs hier.;Je n’ai pas vu cette ordinateurs hier.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ces tables hier.;Je n’ai pas vu ce tables hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces tables hier.;Je n’ai pas vu cette tables hier.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ce canapé hier.;Je n’ai pas vu cette canapé hier.;ce;cette;ce;determiner_noun_agreement
+Je n’ai pas vu ce canapé hier.;Je n’ai pas vu ces canapé hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu ce canapé hier.;Je n’ai pas vu ces canapé hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu cette télévision hier.;Je n’ai pas vu ce télévision hier.;cette;ce;cette;determiner_noun_agreement
+Je n’ai pas vu cette télévision hier.;Je n’ai pas vu ces télévision hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu cette télévision hier.;Je n’ai pas vu ces télévision hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu ces vélos hier.;Je n’ai pas vu ce vélos hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces vélos hier.;Je n’ai pas vu cette vélos hier.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ces robes hier.;Je n’ai pas vu ce robes hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces robes hier.;Je n’ai pas vu cette robes hier.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ce mur hier.;Je n’ai pas vu cette mur hier.;ce;cette;ce;determiner_noun_agreement
+Je n’ai pas vu ce mur hier.;Je n’ai pas vu ces mur hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu ce mur hier.;Je n’ai pas vu ces mur hier.;ce;ces;ce;determiner_noun_agreement
+Je n’ai pas vu cette porte hier.;Je n’ai pas vu ce porte hier.;cette;ce;cette;determiner_noun_agreement
+Je n’ai pas vu cette porte hier.;Je n’ai pas vu ces porte hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu cette porte hier.;Je n’ai pas vu ces porte hier.;cette;ces;cette;determiner_noun_agreement
+Je n’ai pas vu ces rideaux hier.;Je n’ai pas vu ce rideaux hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces rideaux hier.;Je n’ai pas vu cette rideaux hier.;ces;cette;ces;determiner_noun_agreement
+Je n’ai pas vu ces chaussures hier.;Je n’ai pas vu ce chaussures hier.;ces;ce;ces;determiner_noun_agreement
+Je n’ai pas vu ces chaussures hier.;Je n’ai pas vu cette chaussures hier.;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ce chat utile?;As-tu trouvé cette chat utile?;ce;cette;ce;determiner_noun_agreement
+As-tu trouvé ce chat utile?;As-tu trouvé ces chat utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé ce chat utile?;As-tu trouvé ces chat utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé cette voiture utile?;As-tu trouvé ce voiture utile?;cette;ce;cette;determiner_noun_agreement
+As-tu trouvé cette voiture utile?;As-tu trouvé ces voiture utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé cette voiture utile?;As-tu trouvé ces voiture utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé ces livres utile?;As-tu trouvé ce livres utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces livres utile?;As-tu trouvé cette livres utile?;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ces maisons utile?;As-tu trouvé ce maisons utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces maisons utile?;As-tu trouvé cette maisons utile?;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ce chien utile?;As-tu trouvé cette chien utile?;ce;cette;ce;determiner_noun_agreement
+As-tu trouvé ce chien utile?;As-tu trouvé ces chien utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé ce chien utile?;As-tu trouvé ces chien utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé cette chaise utile?;As-tu trouvé ce chaise utile?;cette;ce;cette;determiner_noun_agreement
+As-tu trouvé cette chaise utile?;As-tu trouvé ces chaise utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé cette chaise utile?;As-tu trouvé ces chaise utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé ces stylos utile?;As-tu trouvé ce stylos utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces stylos utile?;As-tu trouvé cette stylos utile?;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ces fenêtres utile?;As-tu trouvé ce fenêtres utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces fenêtres utile?;As-tu trouvé cette fenêtres utile?;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ce bureau utile?;As-tu trouvé cette bureau utile?;ce;cette;ce;determiner_noun_agreement
+As-tu trouvé ce bureau utile?;As-tu trouvé ces bureau utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé ce bureau utile?;As-tu trouvé ces bureau utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé cette lampe utile?;As-tu trouvé ce lampe utile?;cette;ce;cette;determiner_noun_agreement
+As-tu trouvé cette lampe utile?;As-tu trouvé ces lampe utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé cette lampe utile?;As-tu trouvé ces lampe utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé ces ordinateurs utile?;As-tu trouvé ce ordinateurs utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces ordinateurs utile?;As-tu trouvé cette ordinateurs utile?;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ces tables utile?;As-tu trouvé ce tables utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces tables utile?;As-tu trouvé cette tables utile?;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ce canapé utile?;As-tu trouvé cette canapé utile?;ce;cette;ce;determiner_noun_agreement
+As-tu trouvé ce canapé utile?;As-tu trouvé ces canapé utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé ce canapé utile?;As-tu trouvé ces canapé utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé cette télévision utile?;As-tu trouvé ce télévision utile?;cette;ce;cette;determiner_noun_agreement
+As-tu trouvé cette télévision utile?;As-tu trouvé ces télévision utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé cette télévision utile?;As-tu trouvé ces télévision utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé ces vélos utile?;As-tu trouvé ce vélos utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces vélos utile?;As-tu trouvé cette vélos utile?;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ces robes utile?;As-tu trouvé ce robes utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces robes utile?;As-tu trouvé cette robes utile?;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ce mur utile?;As-tu trouvé cette mur utile?;ce;cette;ce;determiner_noun_agreement
+As-tu trouvé ce mur utile?;As-tu trouvé ces mur utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé ce mur utile?;As-tu trouvé ces mur utile?;ce;ces;ce;determiner_noun_agreement
+As-tu trouvé cette porte utile?;As-tu trouvé ce porte utile?;cette;ce;cette;determiner_noun_agreement
+As-tu trouvé cette porte utile?;As-tu trouvé ces porte utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé cette porte utile?;As-tu trouvé ces porte utile?;cette;ces;cette;determiner_noun_agreement
+As-tu trouvé ces rideaux utile?;As-tu trouvé ce rideaux utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces rideaux utile?;As-tu trouvé cette rideaux utile?;ces;cette;ces;determiner_noun_agreement
+As-tu trouvé ces chaussures utile?;As-tu trouvé ce chaussures utile?;ces;ce;ces;determiner_noun_agreement
+As-tu trouvé ces chaussures utile?;As-tu trouvé cette chaussures utile?;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ce chat.;On parle souvent de cette chat.;ce;cette;ce;determiner_noun_agreement
+On parle souvent de ce chat.;On parle souvent de ces chat.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de ce chat.;On parle souvent de ces chat.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de cette voiture.;On parle souvent de ce voiture.;cette;ce;cette;determiner_noun_agreement
+On parle souvent de cette voiture.;On parle souvent de ces voiture.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de cette voiture.;On parle souvent de ces voiture.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de ces livres.;On parle souvent de ce livres.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces livres.;On parle souvent de cette livres.;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ces maisons.;On parle souvent de ce maisons.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces maisons.;On parle souvent de cette maisons.;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ce chien.;On parle souvent de cette chien.;ce;cette;ce;determiner_noun_agreement
+On parle souvent de ce chien.;On parle souvent de ces chien.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de ce chien.;On parle souvent de ces chien.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de cette chaise.;On parle souvent de ce chaise.;cette;ce;cette;determiner_noun_agreement
+On parle souvent de cette chaise.;On parle souvent de ces chaise.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de cette chaise.;On parle souvent de ces chaise.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de ces stylos.;On parle souvent de ce stylos.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces stylos.;On parle souvent de cette stylos.;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ces fenêtres.;On parle souvent de ce fenêtres.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces fenêtres.;On parle souvent de cette fenêtres.;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ce bureau.;On parle souvent de cette bureau.;ce;cette;ce;determiner_noun_agreement
+On parle souvent de ce bureau.;On parle souvent de ces bureau.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de ce bureau.;On parle souvent de ces bureau.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de cette lampe.;On parle souvent de ce lampe.;cette;ce;cette;determiner_noun_agreement
+On parle souvent de cette lampe.;On parle souvent de ces lampe.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de cette lampe.;On parle souvent de ces lampe.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de ces ordinateurs.;On parle souvent de ce ordinateurs.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces ordinateurs.;On parle souvent de cette ordinateurs.;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ces tables.;On parle souvent de ce tables.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces tables.;On parle souvent de cette tables.;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ce canapé.;On parle souvent de cette canapé.;ce;cette;ce;determiner_noun_agreement
+On parle souvent de ce canapé.;On parle souvent de ces canapé.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de ce canapé.;On parle souvent de ces canapé.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de cette télévision.;On parle souvent de ce télévision.;cette;ce;cette;determiner_noun_agreement
+On parle souvent de cette télévision.;On parle souvent de ces télévision.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de cette télévision.;On parle souvent de ces télévision.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de ces vélos.;On parle souvent de ce vélos.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces vélos.;On parle souvent de cette vélos.;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ces robes.;On parle souvent de ce robes.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces robes.;On parle souvent de cette robes.;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ce mur.;On parle souvent de cette mur.;ce;cette;ce;determiner_noun_agreement
+On parle souvent de ce mur.;On parle souvent de ces mur.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de ce mur.;On parle souvent de ces mur.;ce;ces;ce;determiner_noun_agreement
+On parle souvent de cette porte.;On parle souvent de ce porte.;cette;ce;cette;determiner_noun_agreement
+On parle souvent de cette porte.;On parle souvent de ces porte.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de cette porte.;On parle souvent de ces porte.;cette;ces;cette;determiner_noun_agreement
+On parle souvent de ces rideaux.;On parle souvent de ce rideaux.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces rideaux.;On parle souvent de cette rideaux.;ces;cette;ces;determiner_noun_agreement
+On parle souvent de ces chaussures.;On parle souvent de ce chaussures.;ces;ce;ces;determiner_noun_agreement
+On parle souvent de ces chaussures.;On parle souvent de cette chaussures.;ces;cette;ces;determiner_noun_agreement
+ce chat était dans la boîte.;cette chat était dans la boîte.;ce;cette;ce;determiner_noun_agreement
+ce chat était dans la boîte.;ces chat était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+ce chat était dans la boîte.;ces chat était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+cette voiture était dans la boîte.;ce voiture était dans la boîte.;cette;ce;cette;determiner_noun_agreement
+cette voiture était dans la boîte.;ces voiture était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+cette voiture était dans la boîte.;ces voiture était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+ces livres était dans la boîte.;ce livres était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces livres était dans la boîte.;cette livres était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+ces maisons était dans la boîte.;ce maisons était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces maisons était dans la boîte.;cette maisons était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+ce chien était dans la boîte.;cette chien était dans la boîte.;ce;cette;ce;determiner_noun_agreement
+ce chien était dans la boîte.;ces chien était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+ce chien était dans la boîte.;ces chien était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+cette chaise était dans la boîte.;ce chaise était dans la boîte.;cette;ce;cette;determiner_noun_agreement
+cette chaise était dans la boîte.;ces chaise était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+cette chaise était dans la boîte.;ces chaise était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+ces stylos était dans la boîte.;ce stylos était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces stylos était dans la boîte.;cette stylos était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+ces fenêtres était dans la boîte.;ce fenêtres était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces fenêtres était dans la boîte.;cette fenêtres était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+ce bureau était dans la boîte.;cette bureau était dans la boîte.;ce;cette;ce;determiner_noun_agreement
+ce bureau était dans la boîte.;ces bureau était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+ce bureau était dans la boîte.;ces bureau était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+cette lampe était dans la boîte.;ce lampe était dans la boîte.;cette;ce;cette;determiner_noun_agreement
+cette lampe était dans la boîte.;ces lampe était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+cette lampe était dans la boîte.;ces lampe était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+ces ordinateurs était dans la boîte.;ce ordinateurs était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces ordinateurs était dans la boîte.;cette ordinateurs était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+ces tables était dans la boîte.;ce tables était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces tables était dans la boîte.;cette tables était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+ce canapé était dans la boîte.;cette canapé était dans la boîte.;ce;cette;ce;determiner_noun_agreement
+ce canapé était dans la boîte.;ces canapé était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+ce canapé était dans la boîte.;ces canapé était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+cette télévision était dans la boîte.;ce télévision était dans la boîte.;cette;ce;cette;determiner_noun_agreement
+cette télévision était dans la boîte.;ces télévision était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+cette télévision était dans la boîte.;ces télévision était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+ces vélos était dans la boîte.;ce vélos était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces vélos était dans la boîte.;cette vélos était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+ces robes était dans la boîte.;ce robes était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces robes était dans la boîte.;cette robes était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+ce mur était dans la boîte.;cette mur était dans la boîte.;ce;cette;ce;determiner_noun_agreement
+ce mur était dans la boîte.;ces mur était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+ce mur était dans la boîte.;ces mur était dans la boîte.;ce;ces;ce;determiner_noun_agreement
+cette porte était dans la boîte.;ce porte était dans la boîte.;cette;ce;cette;determiner_noun_agreement
+cette porte était dans la boîte.;ces porte était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+cette porte était dans la boîte.;ces porte était dans la boîte.;cette;ces;cette;determiner_noun_agreement
+ces rideaux était dans la boîte.;ce rideaux était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces rideaux était dans la boîte.;cette rideaux était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+ces chaussures était dans la boîte.;ce chaussures était dans la boîte.;ces;ce;ces;determiner_noun_agreement
+ces chaussures était dans la boîte.;cette chaussures était dans la boîte.;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ce chat, non?;Tu as déplacé cette chat, non?;ce;cette;ce;determiner_noun_agreement
+Tu as déplacé ce chat, non?;Tu as déplacé ces chat, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé ce chat, non?;Tu as déplacé ces chat, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé cette voiture, non?;Tu as déplacé ce voiture, non?;cette;ce;cette;determiner_noun_agreement
+Tu as déplacé cette voiture, non?;Tu as déplacé ces voiture, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé cette voiture, non?;Tu as déplacé ces voiture, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé ces livres, non?;Tu as déplacé ce livres, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces livres, non?;Tu as déplacé cette livres, non?;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ces maisons, non?;Tu as déplacé ce maisons, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces maisons, non?;Tu as déplacé cette maisons, non?;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ce chien, non?;Tu as déplacé cette chien, non?;ce;cette;ce;determiner_noun_agreement
+Tu as déplacé ce chien, non?;Tu as déplacé ces chien, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé ce chien, non?;Tu as déplacé ces chien, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé cette chaise, non?;Tu as déplacé ce chaise, non?;cette;ce;cette;determiner_noun_agreement
+Tu as déplacé cette chaise, non?;Tu as déplacé ces chaise, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé cette chaise, non?;Tu as déplacé ces chaise, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé ces stylos, non?;Tu as déplacé ce stylos, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces stylos, non?;Tu as déplacé cette stylos, non?;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ces fenêtres, non?;Tu as déplacé ce fenêtres, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces fenêtres, non?;Tu as déplacé cette fenêtres, non?;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ce bureau, non?;Tu as déplacé cette bureau, non?;ce;cette;ce;determiner_noun_agreement
+Tu as déplacé ce bureau, non?;Tu as déplacé ces bureau, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé ce bureau, non?;Tu as déplacé ces bureau, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé cette lampe, non?;Tu as déplacé ce lampe, non?;cette;ce;cette;determiner_noun_agreement
+Tu as déplacé cette lampe, non?;Tu as déplacé ces lampe, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé cette lampe, non?;Tu as déplacé ces lampe, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé ces ordinateurs, non?;Tu as déplacé ce ordinateurs, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces ordinateurs, non?;Tu as déplacé cette ordinateurs, non?;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ces tables, non?;Tu as déplacé ce tables, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces tables, non?;Tu as déplacé cette tables, non?;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ce canapé, non?;Tu as déplacé cette canapé, non?;ce;cette;ce;determiner_noun_agreement
+Tu as déplacé ce canapé, non?;Tu as déplacé ces canapé, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé ce canapé, non?;Tu as déplacé ces canapé, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé cette télévision, non?;Tu as déplacé ce télévision, non?;cette;ce;cette;determiner_noun_agreement
+Tu as déplacé cette télévision, non?;Tu as déplacé ces télévision, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé cette télévision, non?;Tu as déplacé ces télévision, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé ces vélos, non?;Tu as déplacé ce vélos, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces vélos, non?;Tu as déplacé cette vélos, non?;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ces robes, non?;Tu as déplacé ce robes, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces robes, non?;Tu as déplacé cette robes, non?;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ce mur, non?;Tu as déplacé cette mur, non?;ce;cette;ce;determiner_noun_agreement
+Tu as déplacé ce mur, non?;Tu as déplacé ces mur, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé ce mur, non?;Tu as déplacé ces mur, non?;ce;ces;ce;determiner_noun_agreement
+Tu as déplacé cette porte, non?;Tu as déplacé ce porte, non?;cette;ce;cette;determiner_noun_agreement
+Tu as déplacé cette porte, non?;Tu as déplacé ces porte, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé cette porte, non?;Tu as déplacé ces porte, non?;cette;ces;cette;determiner_noun_agreement
+Tu as déplacé ces rideaux, non?;Tu as déplacé ce rideaux, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces rideaux, non?;Tu as déplacé cette rideaux, non?;ces;cette;ces;determiner_noun_agreement
+Tu as déplacé ces chaussures, non?;Tu as déplacé ce chaussures, non?;ces;ce;ces;determiner_noun_agreement
+Tu as déplacé ces chaussures, non?;Tu as déplacé cette chaussures, non?;ces;cette;ces;determiner_noun_agreement
+Voici ce chat dont je t'ai parlé.;Voici cette chat dont je t'ai parlé.;ce;cette;ce;determiner_noun_agreement
+Voici ce chat dont je t'ai parlé.;Voici ces chat dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici ce chat dont je t'ai parlé.;Voici ces chat dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici cette voiture dont je t'ai parlé.;Voici ce voiture dont je t'ai parlé.;cette;ce;cette;determiner_noun_agreement
+Voici cette voiture dont je t'ai parlé.;Voici ces voiture dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici cette voiture dont je t'ai parlé.;Voici ces voiture dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici ces livres dont je t'ai parlé.;Voici ce livres dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces livres dont je t'ai parlé.;Voici cette livres dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+Voici ces maisons dont je t'ai parlé.;Voici ce maisons dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces maisons dont je t'ai parlé.;Voici cette maisons dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+Voici ce chien dont je t'ai parlé.;Voici cette chien dont je t'ai parlé.;ce;cette;ce;determiner_noun_agreement
+Voici ce chien dont je t'ai parlé.;Voici ces chien dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici ce chien dont je t'ai parlé.;Voici ces chien dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici cette chaise dont je t'ai parlé.;Voici ce chaise dont je t'ai parlé.;cette;ce;cette;determiner_noun_agreement
+Voici cette chaise dont je t'ai parlé.;Voici ces chaise dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici cette chaise dont je t'ai parlé.;Voici ces chaise dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici ces stylos dont je t'ai parlé.;Voici ce stylos dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces stylos dont je t'ai parlé.;Voici cette stylos dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+Voici ces fenêtres dont je t'ai parlé.;Voici ce fenêtres dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces fenêtres dont je t'ai parlé.;Voici cette fenêtres dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+Voici ce bureau dont je t'ai parlé.;Voici cette bureau dont je t'ai parlé.;ce;cette;ce;determiner_noun_agreement
+Voici ce bureau dont je t'ai parlé.;Voici ces bureau dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici ce bureau dont je t'ai parlé.;Voici ces bureau dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici cette lampe dont je t'ai parlé.;Voici ce lampe dont je t'ai parlé.;cette;ce;cette;determiner_noun_agreement
+Voici cette lampe dont je t'ai parlé.;Voici ces lampe dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici cette lampe dont je t'ai parlé.;Voici ces lampe dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici ces ordinateurs dont je t'ai parlé.;Voici ce ordinateurs dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces ordinateurs dont je t'ai parlé.;Voici cette ordinateurs dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+Voici ces tables dont je t'ai parlé.;Voici ce tables dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces tables dont je t'ai parlé.;Voici cette tables dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+Voici ce canapé dont je t'ai parlé.;Voici cette canapé dont je t'ai parlé.;ce;cette;ce;determiner_noun_agreement
+Voici ce canapé dont je t'ai parlé.;Voici ces canapé dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici ce canapé dont je t'ai parlé.;Voici ces canapé dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici cette télévision dont je t'ai parlé.;Voici ce télévision dont je t'ai parlé.;cette;ce;cette;determiner_noun_agreement
+Voici cette télévision dont je t'ai parlé.;Voici ces télévision dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici cette télévision dont je t'ai parlé.;Voici ces télévision dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici ces vélos dont je t'ai parlé.;Voici ce vélos dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces vélos dont je t'ai parlé.;Voici cette vélos dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+Voici ces robes dont je t'ai parlé.;Voici ce robes dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces robes dont je t'ai parlé.;Voici cette robes dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+Voici ce mur dont je t'ai parlé.;Voici cette mur dont je t'ai parlé.;ce;cette;ce;determiner_noun_agreement
+Voici ce mur dont je t'ai parlé.;Voici ces mur dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici ce mur dont je t'ai parlé.;Voici ces mur dont je t'ai parlé.;ce;ces;ce;determiner_noun_agreement
+Voici cette porte dont je t'ai parlé.;Voici ce porte dont je t'ai parlé.;cette;ce;cette;determiner_noun_agreement
+Voici cette porte dont je t'ai parlé.;Voici ces porte dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici cette porte dont je t'ai parlé.;Voici ces porte dont je t'ai parlé.;cette;ces;cette;determiner_noun_agreement
+Voici ces rideaux dont je t'ai parlé.;Voici ce rideaux dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces rideaux dont je t'ai parlé.;Voici cette rideaux dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+Voici ces chaussures dont je t'ai parlé.;Voici ce chaussures dont je t'ai parlé.;ces;ce;ces;determiner_noun_agreement
+Voici ces chaussures dont je t'ai parlé.;Voici cette chaussures dont je t'ai parlé.;ces;cette;ces;determiner_noun_agreement
+ce chat arrive bientôt.;cette chat arrive bientôt.;ce;cette;ce;determiner_noun_agreement
+ce chat arrive bientôt.;ces chat arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+ce chat arrive bientôt.;ces chat arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+cette voiture arrive bientôt.;ce voiture arrive bientôt.;cette;ce;cette;determiner_noun_agreement
+cette voiture arrive bientôt.;ces voiture arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+cette voiture arrive bientôt.;ces voiture arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+ces livres arrive bientôt.;ce livres arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces livres arrive bientôt.;cette livres arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+ces maisons arrive bientôt.;ce maisons arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces maisons arrive bientôt.;cette maisons arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+ce chien arrive bientôt.;cette chien arrive bientôt.;ce;cette;ce;determiner_noun_agreement
+ce chien arrive bientôt.;ces chien arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+ce chien arrive bientôt.;ces chien arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+cette chaise arrive bientôt.;ce chaise arrive bientôt.;cette;ce;cette;determiner_noun_agreement
+cette chaise arrive bientôt.;ces chaise arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+cette chaise arrive bientôt.;ces chaise arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+ces stylos arrive bientôt.;ce stylos arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces stylos arrive bientôt.;cette stylos arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+ces fenêtres arrive bientôt.;ce fenêtres arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces fenêtres arrive bientôt.;cette fenêtres arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+ce bureau arrive bientôt.;cette bureau arrive bientôt.;ce;cette;ce;determiner_noun_agreement
+ce bureau arrive bientôt.;ces bureau arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+ce bureau arrive bientôt.;ces bureau arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+cette lampe arrive bientôt.;ce lampe arrive bientôt.;cette;ce;cette;determiner_noun_agreement
+cette lampe arrive bientôt.;ces lampe arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+cette lampe arrive bientôt.;ces lampe arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+ces ordinateurs arrive bientôt.;ce ordinateurs arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces ordinateurs arrive bientôt.;cette ordinateurs arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+ces tables arrive bientôt.;ce tables arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces tables arrive bientôt.;cette tables arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+ce canapé arrive bientôt.;cette canapé arrive bientôt.;ce;cette;ce;determiner_noun_agreement
+ce canapé arrive bientôt.;ces canapé arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+ce canapé arrive bientôt.;ces canapé arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+cette télévision arrive bientôt.;ce télévision arrive bientôt.;cette;ce;cette;determiner_noun_agreement
+cette télévision arrive bientôt.;ces télévision arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+cette télévision arrive bientôt.;ces télévision arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+ces vélos arrive bientôt.;ce vélos arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces vélos arrive bientôt.;cette vélos arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+ces robes arrive bientôt.;ce robes arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces robes arrive bientôt.;cette robes arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+ce mur arrive bientôt.;cette mur arrive bientôt.;ce;cette;ce;determiner_noun_agreement
+ce mur arrive bientôt.;ces mur arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+ce mur arrive bientôt.;ces mur arrive bientôt.;ce;ces;ce;determiner_noun_agreement
+cette porte arrive bientôt.;ce porte arrive bientôt.;cette;ce;cette;determiner_noun_agreement
+cette porte arrive bientôt.;ces porte arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+cette porte arrive bientôt.;ces porte arrive bientôt.;cette;ces;cette;determiner_noun_agreement
+ces rideaux arrive bientôt.;ce rideaux arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces rideaux arrive bientôt.;cette rideaux arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+ces chaussures arrive bientôt.;ce chaussures arrive bientôt.;ces;ce;ces;determiner_noun_agreement
+ces chaussures arrive bientôt.;cette chaussures arrive bientôt.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ce chat demain.;Ils vont vendre cette chat demain.;ce;cette;ce;determiner_noun_agreement
+Ils vont vendre ce chat demain.;Ils vont vendre ces chat demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre ce chat demain.;Ils vont vendre ces chat demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre cette voiture demain.;Ils vont vendre ce voiture demain.;cette;ce;cette;determiner_noun_agreement
+Ils vont vendre cette voiture demain.;Ils vont vendre ces voiture demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre cette voiture demain.;Ils vont vendre ces voiture demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre ces livres demain.;Ils vont vendre ce livres demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces livres demain.;Ils vont vendre cette livres demain.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ces maisons demain.;Ils vont vendre ce maisons demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces maisons demain.;Ils vont vendre cette maisons demain.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ce chien demain.;Ils vont vendre cette chien demain.;ce;cette;ce;determiner_noun_agreement
+Ils vont vendre ce chien demain.;Ils vont vendre ces chien demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre ce chien demain.;Ils vont vendre ces chien demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre cette chaise demain.;Ils vont vendre ce chaise demain.;cette;ce;cette;determiner_noun_agreement
+Ils vont vendre cette chaise demain.;Ils vont vendre ces chaise demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre cette chaise demain.;Ils vont vendre ces chaise demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre ces stylos demain.;Ils vont vendre ce stylos demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces stylos demain.;Ils vont vendre cette stylos demain.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ces fenêtres demain.;Ils vont vendre ce fenêtres demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces fenêtres demain.;Ils vont vendre cette fenêtres demain.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ce bureau demain.;Ils vont vendre cette bureau demain.;ce;cette;ce;determiner_noun_agreement
+Ils vont vendre ce bureau demain.;Ils vont vendre ces bureau demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre ce bureau demain.;Ils vont vendre ces bureau demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre cette lampe demain.;Ils vont vendre ce lampe demain.;cette;ce;cette;determiner_noun_agreement
+Ils vont vendre cette lampe demain.;Ils vont vendre ces lampe demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre cette lampe demain.;Ils vont vendre ces lampe demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre ces ordinateurs demain.;Ils vont vendre ce ordinateurs demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces ordinateurs demain.;Ils vont vendre cette ordinateurs demain.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ces tables demain.;Ils vont vendre ce tables demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces tables demain.;Ils vont vendre cette tables demain.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ce canapé demain.;Ils vont vendre cette canapé demain.;ce;cette;ce;determiner_noun_agreement
+Ils vont vendre ce canapé demain.;Ils vont vendre ces canapé demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre ce canapé demain.;Ils vont vendre ces canapé demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre cette télévision demain.;Ils vont vendre ce télévision demain.;cette;ce;cette;determiner_noun_agreement
+Ils vont vendre cette télévision demain.;Ils vont vendre ces télévision demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre cette télévision demain.;Ils vont vendre ces télévision demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre ces vélos demain.;Ils vont vendre ce vélos demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces vélos demain.;Ils vont vendre cette vélos demain.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ces robes demain.;Ils vont vendre ce robes demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces robes demain.;Ils vont vendre cette robes demain.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ce mur demain.;Ils vont vendre cette mur demain.;ce;cette;ce;determiner_noun_agreement
+Ils vont vendre ce mur demain.;Ils vont vendre ces mur demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre ce mur demain.;Ils vont vendre ces mur demain.;ce;ces;ce;determiner_noun_agreement
+Ils vont vendre cette porte demain.;Ils vont vendre ce porte demain.;cette;ce;cette;determiner_noun_agreement
+Ils vont vendre cette porte demain.;Ils vont vendre ces porte demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre cette porte demain.;Ils vont vendre ces porte demain.;cette;ces;cette;determiner_noun_agreement
+Ils vont vendre ces rideaux demain.;Ils vont vendre ce rideaux demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces rideaux demain.;Ils vont vendre cette rideaux demain.;ces;cette;ces;determiner_noun_agreement
+Ils vont vendre ces chaussures demain.;Ils vont vendre ce chaussures demain.;ces;ce;ces;determiner_noun_agreement
+Ils vont vendre ces chaussures demain.;Ils vont vendre cette chaussures demain.;ces;cette;ces;determiner_noun_agreement
+Elle a repeint ce chat en rouge.;Elle a repeint cette chat en rouge.;ce;cette;ce;determiner_noun_agreement
+Elle a repeint ce chat en rouge.;Elle a repeint ces chat en rouge.;ce;ces;ce;determiner_noun_agreement
+Elle a repeint ce chat en rouge.;Elle a repeint ces chat en rouge.;ce;ces;ce;determiner_noun_agreement
+Elle a repeint cette voiture en rouge.;Elle a repeint ce voiture en rouge.;cette;ce;cette;determiner_noun_agreement
+Elle a repeint cette voiture en rouge.;Elle a repeint ces voiture en rouge.;cette;ces;cette;determiner_noun_agreement
+Elle a repeint cette voiture en rouge.;Elle a repeint ces voiture en rouge.;cette;ces;cette;determiner_noun_agreement
+Elle a repeint ces livres en rouge.;Elle a repeint ce livres en rouge.;ces;ce;ces;determiner_noun_agreement
+Elle a repeint ces livres en rouge.;Elle a repeint cette livres en rouge.;ces;cette;ces;determiner_noun_agreement
+Elle a repeint ces maisons en rouge.;Elle a repeint ce maisons en rouge.;ces;ce;ces;determiner_noun_agreement
+Elle a repeint ces maisons en rouge.;Elle a repeint cette maisons en rouge.;ces;cette;ces;determiner_noun_agreement
+Elle a repeint ce chien en rouge.;Elle a repeint cette chien en rouge.;ce;cette;ce;determiner_noun_agreement
+Elle a repeint ce chien en rouge.;Elle a repeint ces chien en rouge.;ce;ces;ce;determiner_noun_agreement
+Elle a repeint ce chien en rouge.;Elle a repeint ces chien en rouge.;ce;ces;ce;determiner_noun_agreement
+Elle a repeint cette chaise en rouge.;Elle a repeint ce chaise en rouge.;cette;ce;cette;determiner_noun_agreement
+Elle a repeint cette chaise en rouge.;Elle a repeint ces chaise en rouge.;cette;ces;cette;determiner_noun_agreement
+Elle a repeint cette chaise en rouge.;Elle a repeint ces chaise en rouge.;cette;ces;cette;determiner_noun_agreement
+Elle a repeint ces stylos en rouge.;Elle a repeint ce stylos en rouge.;ces;ce;ces;determiner_noun_agreement
+Elle a repeint ces stylos en rouge.;Elle a repeint cette stylos en rouge.;ces;cette;ces;determiner_noun_agreement
+Elle a repeint ces fenêtres en rouge.;Elle a repeint ce fenêtres en rouge.;ces;ce;ces;determiner_noun_agreement
+Elle a repeint ces fenêtres en rouge.;Elle a repeint cette fenêtres en rouge.;ces;cette;ces;determiner_noun_agreement
+Elle a repeint ce bureau en rouge.;Elle a repeint cette bureau en rouge.;ce;cette;ce;determiner_noun_agreement
+Elle a repeint ce bureau en rouge.;Elle a repeint ces bureau en rouge.;ce;ces;ce;determiner_noun_agreement
+Elle a repeint ce bureau en rouge.;Elle a repeint ces bureau en rouge.;ce;ces;ce;determiner_noun_agreement
+Elle a repeint cette lampe en rouge.;Elle a repeint ce lampe en rouge.;cette;ce;cette;determiner_noun_agreement
+Elle a repeint cette lampe en rouge.;Elle a repeint ces lampe en rouge.;cette;ces;cette;determiner_noun_agreement
+Elle a repeint cette lampe en rouge.;Elle a repeint ces lampe en rouge.;cette;ces;cette;determiner_noun_agreement
+Elle a repeint ces ordinateurs en rouge.;Elle a repeint ce ordinateurs en rouge.;ces;ce;ces;determiner_noun_agreement
+Elle a repeint ces ordinateurs en rouge.;Elle a repeint cette ordinateurs en rouge.;ces;cette;ces;determiner_noun_agreement
+Elle a repeint ces tables en rouge.;Elle a repeint ce tables en rouge.;ces;ce;ces;determiner_noun_agreement
+Elle a repeint ces tables en rouge.;Elle a repeint cette tables en rouge.;ces;cette;ces;determiner_noun_agreement
+Elle a repeint ce canapé en rouge.;Elle a repeint cette canapé en rouge.;ce;cette;ce;determiner_noun_agreement
+Elle a repeint ce canapé en rouge.;Elle a repeint ces canapé en rouge.;ce;ces;ce;determiner_noun_agreement
+Elle a repeint ce canapé en rouge.;Elle a repeint ces canapé en rouge.;ce;ces;ce;determiner_noun_agreement
+Elle a repeint cette télévision en rouge.;Elle a repeint ce télévision en rouge.;cette;ce;cette;determiner_noun_agreement
+Elle a repeint cette télévision en rouge.;Elle a repeint ces télévision en rouge.;cette;ces;cette;determiner_noun_agreement
+Elle a repeint cette télévision en rouge.;Elle a repeint ces télévision en rouge.;cette;ces;cette;determiner_noun_agreement
+Elle a repeint ces vélos en rouge.;Elle a repeint ce vélos en rouge.;ces;ce;ces;determiner_noun_agreement
+Elle a repeint ces vélos en rouge.;Elle a repeint cette vélos en rouge.;ces;cette;ces;determiner_noun_agreement
+Elle a repeint ces robes en rouge.;Elle a repeint ce robes en rouge.;ces;ce;ces;determiner_noun_agreement
+Elle a repeint ces robes en rouge.;Elle a repeint cette robes en rouge.;ces;cette;ces;determiner_noun_agreement
+Elle a repeint ce mur en rouge.;Elle a repeint cette mur en rouge.;ce;cette;ce;determiner_noun_agreement
