@@ -1,0 +1,1001 @@
+good_sentence;bad_sentence;good_cue;bad_cue;critical_region;phenomenon
+beaucoup de filles s'insultent;beaucoup de filles l'insultent;s';l';insultent;anaphor_agreement
+ils s'aiment;ils aiment eux-mêmes; s';eux-mêmes;aiment;anaphor_agreement
+Jean pense que Marie l’admire;Jean pense que Marie s’admire;l';s';admire;anaphor_agreement
+Claire croit que Marc l’a blessée;Claire croit que Marc s’est blessé;l';s';blessée;anaphor_agreement
+Thomas affirme que Julie l’a soutenu;Thomas affirme que Julie s'est soutenue;l';s';soutenue;anaphor_agreement
+Lucie pense que Paul l’a complimentée;Lucie pense que Paul s'est complimenté;l';s';complimentée;anaphor_agreement
+Marie croit que Luc l’a comprise;Marie croit que Luc s'est comprise;l';s';comprise;anaphor_agreement
+Julie dit que Maxime l’a encouragée;Julie dit que Maxime s'est encouragée;l';s';encouragée;anaphor_agreement
+Antoine pense que Chloé l’aime;Antoine pense que Chloé s'aime;l';s';aime;anaphor_agreement
+Élodie a dit que Martin l’avait soutenue;Élodie a dit que Martin s'était soutenu;l';s';soutenue;anaphor_agreement
+Je me regarde chaque matin.;Je vous regarde chaque matin.;me;vous;me;anaphor_agreement
+Tu te regardes chaque matin.;Tu vous regardes chaque matin.;te;vous;te;anaphor_agreement
+Il se regarde chaque matin.;Il vous regarde chaque matin.;se;vous;se;anaphor_agreement
+Elle se regarde chaque matin.;Elle vous regarde chaque matin.;se;vous;se;anaphor_agreement
+Nous nous regardons chaque matin.;Nous vous regardons chaque matin.;nous;vous;nous;anaphor_agreement
+Vous vous regardez chaque matin.;Vous te regardez chaque matin.;vous;te;vous;anaphor_agreement
+Ils se regardent chaque matin.;Ils vous regardent chaque matin.;se;vous;se;anaphor_agreement
+Elles se regardent chaque matin.;Elles vous regardent chaque matin.;se;vous;se;anaphor_agreement
+Souvent, Je me regarde avant le petit-déjeuner.;Souvent, Je vous regarde avant le petit-déjeuner.;me;vous;me;anaphor_agreement
+Souvent, Tu te regardes avant le petit-déjeuner.;Souvent, Tu vous regardes avant le petit-déjeuner.;te;vous;te;anaphor_agreement
+Souvent, Il se regarde avant le petit-déjeuner.;Souvent, Il vous regarde avant le petit-déjeuner.;se;vous;se;anaphor_agreement
+Souvent, Elle se regarde avant le petit-déjeuner.;Souvent, Elle vous regarde avant le petit-déjeuner.;se;vous;se;anaphor_agreement
+Souvent, Nous nous regardons avant le petit-déjeuner.;Souvent, Nous vous regardons avant le petit-déjeuner.;nous;vous;nous;anaphor_agreement
+Souvent, Vous vous regardez avant le petit-déjeuner.;Souvent, Vous te regardez avant le petit-déjeuner.;vous;te;vous;anaphor_agreement
+Souvent, Ils se regardent avant le petit-déjeuner.;Souvent, Ils vous regardent avant le petit-déjeuner.;se;vous;se;anaphor_agreement
+Souvent, Elles se regardent avant le petit-déjeuner.;Souvent, Elles vous regardent avant le petit-déjeuner.;se;vous;se;anaphor_agreement
+Aujourd'hui, Je me regarde.;Aujourd'hui, Je vous regarde.;me;vous;me;anaphor_agreement
+Aujourd'hui, Tu te regardes.;Aujourd'hui, Tu vous regardes.;te;vous;te;anaphor_agreement
+Aujourd'hui, Il se regarde.;Aujourd'hui, Il vous regarde.;se;vous;se;anaphor_agreement
+Aujourd'hui, Elle se regarde.;Aujourd'hui, Elle vous regarde.;se;vous;se;anaphor_agreement
+Aujourd'hui, Nous nous regardons.;Aujourd'hui, Nous vous regardons.;nous;vous;nous;anaphor_agreement
+Aujourd'hui, Vous vous regardez.;Aujourd'hui, Vous te regardez.;vous;te;vous;anaphor_agreement
+Aujourd'hui, Ils se regardent.;Aujourd'hui, Ils vous regardent.;se;vous;se;anaphor_agreement
+Aujourd'hui, Elles se regardent.;Aujourd'hui, Elles vous regardent.;se;vous;se;anaphor_agreement
+Je me regarde sans réfléchir.;Je vous regarde sans réfléchir.;me;vous;me;anaphor_agreement
+Tu te regardes sans réfléchir.;Tu vous regardes sans réfléchir.;te;vous;te;anaphor_agreement
+Il se regarde sans réfléchir.;Il vous regarde sans réfléchir.;se;vous;se;anaphor_agreement
+Elle se regarde sans réfléchir.;Elle vous regarde sans réfléchir.;se;vous;se;anaphor_agreement
+Nous nous regardons sans réfléchir.;Nous vous regardons sans réfléchir.;nous;vous;nous;anaphor_agreement
+Vous vous regardez sans réfléchir.;Vous te regardez sans réfléchir.;vous;te;vous;anaphor_agreement
+Ils se regardent sans réfléchir.;Ils vous regardent sans réfléchir.;se;vous;se;anaphor_agreement
+Elles se regardent sans réfléchir.;Elles vous regardent sans réfléchir.;se;vous;se;anaphor_agreement
+En général, Je me regarde tranquillement.;En général, Je vous regarde tranquillement.;me;vous;me;anaphor_agreement
+En général, Tu te regardes tranquillement.;En général, Tu vous regardes tranquillement.;te;vous;te;anaphor_agreement
+En général, Il se regarde tranquillement.;En général, Il vous regarde tranquillement.;se;vous;se;anaphor_agreement
+En général, Elle se regarde tranquillement.;En général, Elle vous regarde tranquillement.;se;vous;se;anaphor_agreement
+En général, Nous nous regardons tranquillement.;En général, Nous vous regardons tranquillement.;nous;vous;nous;anaphor_agreement
+En général, Vous vous regardez tranquillement.;En général, Vous te regardez tranquillement.;vous;te;vous;anaphor_agreement
+En général, Ils se regardent tranquillement.;En général, Ils vous regardent tranquillement.;se;vous;se;anaphor_agreement
+En général, Elles se regardent tranquillement.;En général, Elles vous regardent tranquillement.;se;vous;se;anaphor_agreement
+Je me regarde en silence.;Je vous regarde en silence.;me;vous;me;anaphor_agreement
+Tu te regardes en silence.;Tu vous regardes en silence.;te;vous;te;anaphor_agreement
+Il se regarde en silence.;Il vous regarde en silence.;se;vous;se;anaphor_agreement
+Elle se regarde en silence.;Elle vous regarde en silence.;se;vous;se;anaphor_agreement
+Nous nous regardons en silence.;Nous vous regardons en silence.;nous;vous;nous;anaphor_agreement
+Vous vous regardez en silence.;Vous te regardez en silence.;vous;te;vous;anaphor_agreement
+Ils se regardent en silence.;Ils vous regardent en silence.;se;vous;se;anaphor_agreement
+Elles se regardent en silence.;Elles vous regardent en silence.;se;vous;se;anaphor_agreement
+Parfois, Je me regarde devant le miroir.;Parfois, Je vous regarde devant le miroir.;me;vous;me;anaphor_agreement
+Parfois, Tu te regardes devant le miroir.;Parfois, Tu vous regardes devant le miroir.;te;vous;te;anaphor_agreement
+Parfois, Il se regarde devant le miroir.;Parfois, Il vous regarde devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Elle se regarde devant le miroir.;Parfois, Elle vous regarde devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Nous nous regardons devant le miroir.;Parfois, Nous vous regardons devant le miroir.;nous;vous;nous;anaphor_agreement
+Parfois, Vous vous regardez devant le miroir.;Parfois, Vous te regardez devant le miroir.;vous;te;vous;anaphor_agreement
+Parfois, Ils se regardent devant le miroir.;Parfois, Ils vous regardent devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Elles se regardent devant le miroir.;Parfois, Elles vous regardent devant le miroir.;se;vous;se;anaphor_agreement
+Avant de sortir, Je me regarde.;Avant de sortir, Je vous regarde.;me;vous;me;anaphor_agreement
+Avant de sortir, Tu te regardes.;Avant de sortir, Tu vous regardes.;te;vous;te;anaphor_agreement
+Avant de sortir, Il se regarde.;Avant de sortir, Il vous regarde.;se;vous;se;anaphor_agreement
+Avant de sortir, Elle se regarde.;Avant de sortir, Elle vous regarde.;se;vous;se;anaphor_agreement
+Avant de sortir, Nous nous regardons.;Avant de sortir, Nous vous regardons.;nous;vous;nous;anaphor_agreement
+Avant de sortir, Vous vous regardez.;Avant de sortir, Vous te regardez.;vous;te;vous;anaphor_agreement
+Avant de sortir, Ils se regardent.;Avant de sortir, Ils vous regardent.;se;vous;se;anaphor_agreement
+Avant de sortir, Elles se regardent.;Avant de sortir, Elles vous regardent.;se;vous;se;anaphor_agreement
+Le soir, Je me regarde dans la salle de bain.;Le soir, Je vous regarde dans la salle de bain.;me;vous;me;anaphor_agreement
+Le soir, Tu te regardes dans la salle de bain.;Le soir, Tu vous regardes dans la salle de bain.;te;vous;te;anaphor_agreement
+Le soir, Il se regarde dans la salle de bain.;Le soir, Il vous regarde dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Elle se regarde dans la salle de bain.;Le soir, Elle vous regarde dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Nous nous regardons dans la salle de bain.;Le soir, Nous vous regardons dans la salle de bain.;nous;vous;nous;anaphor_agreement
+Le soir, Vous vous regardez dans la salle de bain.;Le soir, Vous te regardez dans la salle de bain.;vous;te;vous;anaphor_agreement
+Le soir, Ils se regardent dans la salle de bain.;Le soir, Ils vous regardent dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Elles se regardent dans la salle de bain.;Le soir, Elles vous regardent dans la salle de bain.;se;vous;se;anaphor_agreement
+Normalement, Je me regarde rapidement.;Normalement, Je vous regarde rapidement.;me;vous;me;anaphor_agreement
+Normalement, Tu te regardes rapidement.;Normalement, Tu vous regardes rapidement.;te;vous;te;anaphor_agreement
+Normalement, Il se regarde rapidement.;Normalement, Il vous regarde rapidement.;se;vous;se;anaphor_agreement
+Normalement, Elle se regarde rapidement.;Normalement, Elle vous regarde rapidement.;se;vous;se;anaphor_agreement
+Normalement, Nous nous regardons rapidement.;Normalement, Nous vous regardons rapidement.;nous;vous;nous;anaphor_agreement
+Normalement, Vous vous regardez rapidement.;Normalement, Vous te regardez rapidement.;vous;te;vous;anaphor_agreement
+Normalement, Ils se regardent rapidement.;Normalement, Ils vous regardent rapidement.;se;vous;se;anaphor_agreement
+Normalement, Elles se regardent rapidement.;Normalement, Elles vous regardent rapidement.;se;vous;se;anaphor_agreement
+Souvent, Je me habille avant le petit-déjeuner.;Souvent, Je te habille avant le petit-déjeuner.;me;te;me;anaphor_agreement
+Souvent, Tu te habilles avant le petit-déjeuner.;Souvent, Tu vous habilles avant le petit-déjeuner.;te;vous;te;anaphor_agreement
+Souvent, Il se habille avant le petit-déjeuner.;Souvent, Il nous habille avant le petit-déjeuner.;se;nous;se;anaphor_agreement
+Souvent, Elle se habille avant le petit-déjeuner.;Souvent, Elle nous habille avant le petit-déjeuner.;se;nous;se;anaphor_agreement
+Souvent, Nous nous habillons avant le petit-déjeuner.;Souvent, Nous te habillons avant le petit-déjeuner.;nous;te;nous;anaphor_agreement
+Souvent, Vous vous habillez avant le petit-déjeuner.;Souvent, Vous te habillez avant le petit-déjeuner.;vous;te;vous;anaphor_agreement
+Souvent, Ils se habillent avant le petit-déjeuner.;Souvent, Ils nous habillent avant le petit-déjeuner.;se;nous;se;anaphor_agreement
+Souvent, Elles se habillent avant le petit-déjeuner.;Souvent, Elles vous habillent avant le petit-déjeuner.;se;vous;se;anaphor_agreement
+Souvent, Je me regarde avant le petit-déjeuner.;Souvent, Je vous regarde avant le petit-déjeuner.;me;vous;me;anaphor_agreement
+Souvent, Tu te regardes avant le petit-déjeuner.;Souvent, Tu me regardes avant le petit-déjeuner.;te;me;te;anaphor_agreement
+Souvent, Il se regarde avant le petit-déjeuner.;Souvent, Il te regarde avant le petit-déjeuner.;se;te;se;anaphor_agreement
+Souvent, Elle se regarde avant le petit-déjeuner.;Souvent, Elle te regarde avant le petit-déjeuner.;se;te;se;anaphor_agreement
+Souvent, Nous nous regardons avant le petit-déjeuner.;Souvent, Nous me regardons avant le petit-déjeuner.;nous;me;nous;anaphor_agreement
+Souvent, Vous vous regardez avant le petit-déjeuner.;Souvent, Vous me regardez avant le petit-déjeuner.;vous;me;vous;anaphor_agreement
+Souvent, Ils se regardent avant le petit-déjeuner.;Souvent, Ils vous regardent avant le petit-déjeuner.;se;vous;se;anaphor_agreement
+Souvent, Elles se regardent avant le petit-déjeuner.;Souvent, Elles te regardent avant le petit-déjeuner.;se;te;se;anaphor_agreement
+Souvent, Je me dépêche avant le petit-déjeuner.;Souvent, Je se dépêche avant le petit-déjeuner.;me;se;me;anaphor_agreement
+Souvent, Tu te dépêches avant le petit-déjeuner.;Souvent, Tu me dépêches avant le petit-déjeuner.;te;me;te;anaphor_agreement
+Souvent, Il se dépêche avant le petit-déjeuner.;Souvent, Il me dépêche avant le petit-déjeuner.;se;me;se;anaphor_agreement
+Souvent, Elle se dépêche avant le petit-déjeuner.;Souvent, Elle nous dépêche avant le petit-déjeuner.;se;nous;se;anaphor_agreement
+Souvent, Nous nous dépêchons avant le petit-déjeuner.;Souvent, Nous se dépêchons avant le petit-déjeuner.;nous;se;nous;anaphor_agreement
+Souvent, Vous vous dépêchez avant le petit-déjeuner.;Souvent, Vous te dépêchez avant le petit-déjeuner.;vous;te;vous;anaphor_agreement
+Souvent, Ils se dépêchent avant le petit-déjeuner.;Souvent, Ils me dépêchent avant le petit-déjeuner.;se;me;se;anaphor_agreement
+Souvent, Elles se dépêchent avant le petit-déjeuner.;Souvent, Elles me dépêchent avant le petit-déjeuner.;se;me;se;anaphor_agreement
+Aujourd'hui, Je me lave.;Aujourd'hui, Je te lave.;me;te;me;anaphor_agreement
+Aujourd'hui, Tu te laves.;Aujourd'hui, Tu me laves.;te;me;te;anaphor_agreement
+Aujourd'hui, Il se lave.;Aujourd'hui, Il nous lave.;se;nous;se;anaphor_agreement
+Aujourd'hui, Elle se lave.;Aujourd'hui, Elle te lave.;se;te;se;anaphor_agreement
+Aujourd'hui, Nous nous lavons.;Aujourd'hui, Nous vous lavons.;nous;vous;nous;anaphor_agreement
+Aujourd'hui, Vous vous lavez.;Aujourd'hui, Vous te lavez.;vous;te;vous;anaphor_agreement
+Aujourd'hui, Ils se lavent.;Aujourd'hui, Ils me lavent.;se;me;se;anaphor_agreement
+Aujourd'hui, Elles se lavent.;Aujourd'hui, Elles vous lavent.;se;vous;se;anaphor_agreement
+Aujourd'hui, Je me réveille.;Aujourd'hui, Je nous réveille.;me;nous;me;anaphor_agreement
+Aujourd'hui, Tu te réveilles.;Aujourd'hui, Tu vous réveilles.;te;vous;te;anaphor_agreement
+Aujourd'hui, Il se réveille.;Aujourd'hui, Il me réveille.;se;me;se;anaphor_agreement
+Aujourd'hui, Elle se réveille.;Aujourd'hui, Elle te réveille.;se;te;se;anaphor_agreement
+Aujourd'hui, Nous nous réveillons.;Aujourd'hui, Nous se réveillons.;nous;se;nous;anaphor_agreement
+Aujourd'hui, Vous vous réveillez.;Aujourd'hui, Vous te réveillez.;vous;te;vous;anaphor_agreement
+Aujourd'hui, Ils se réveillent.;Aujourd'hui, Ils vous réveillent.;se;vous;se;anaphor_agreement
+Aujourd'hui, Elles se réveillent.;Aujourd'hui, Elles me réveillent.;se;me;se;anaphor_agreement
+Aujourd'hui, Je me lève.;Aujourd'hui, Je vous lève.;me;vous;me;anaphor_agreement
+Aujourd'hui, Tu te lèves.;Aujourd'hui, Tu me lèves.;te;me;te;anaphor_agreement
+Aujourd'hui, Il se lève.;Aujourd'hui, Il vous lève.;se;vous;se;anaphor_agreement
+Aujourd'hui, Elle se lève.;Aujourd'hui, Elle te lève.;se;te;se;anaphor_agreement
+Aujourd'hui, Nous nous levons.;Aujourd'hui, Nous vous levons.;nous;vous;nous;anaphor_agreement
+Aujourd'hui, Vous vous levez.;Aujourd'hui, Vous se levez.;vous;se;vous;anaphor_agreement
+Aujourd'hui, Ils se lèvent.;Aujourd'hui, Ils vous lèvent.;se;vous;se;anaphor_agreement
+Aujourd'hui, Elles se lèvent.;Aujourd'hui, Elles vous lèvent.;se;vous;se;anaphor_agreement
+Aujourd'hui, Je me couche.;Aujourd'hui, Je vous couche.;me;vous;me;anaphor_agreement
+Aujourd'hui, Tu te couches.;Aujourd'hui, Tu me couches.;te;me;te;anaphor_agreement
+Aujourd'hui, Il se couche.;Aujourd'hui, Il te couche.;se;te;se;anaphor_agreement
+Aujourd'hui, Elle se couche.;Aujourd'hui, Elle vous couche.;se;vous;se;anaphor_agreement
+Aujourd'hui, Nous nous couchons.;Aujourd'hui, Nous vous couchons.;nous;vous;nous;anaphor_agreement
+Aujourd'hui, Vous vous couchez.;Aujourd'hui, Vous te couchez.;vous;te;vous;anaphor_agreement
+Aujourd'hui, Ils se couchent.;Aujourd'hui, Ils te couchent.;se;te;se;anaphor_agreement
+Aujourd'hui, Elles se couchent.;Aujourd'hui, Elles te couchent.;se;te;se;anaphor_agreement
+Aujourd'hui, Je me habille.;Aujourd'hui, Je te habille.;me;te;me;anaphor_agreement
+Aujourd'hui, Tu te habilles.;Aujourd'hui, Tu nous habilles.;te;nous;te;anaphor_agreement
+Aujourd'hui, Il se habille.;Aujourd'hui, Il me habille.;se;me;se;anaphor_agreement
+Aujourd'hui, Elle se habille.;Aujourd'hui, Elle nous habille.;se;nous;se;anaphor_agreement
+Aujourd'hui, Nous nous habillons.;Aujourd'hui, Nous te habillons.;nous;te;nous;anaphor_agreement
+Aujourd'hui, Vous vous habillez.;Aujourd'hui, Vous nous habillez.;vous;nous;vous;anaphor_agreement
+Aujourd'hui, Ils se habillent.;Aujourd'hui, Ils nous habillent.;se;nous;se;anaphor_agreement
+Aujourd'hui, Elles se habillent.;Aujourd'hui, Elles me habillent.;se;me;se;anaphor_agreement
+Aujourd'hui, Je me regarde.;Aujourd'hui, Je nous regarde.;me;nous;me;anaphor_agreement
+Aujourd'hui, Tu te regardes.;Aujourd'hui, Tu nous regardes.;te;nous;te;anaphor_agreement
+Aujourd'hui, Il se regarde.;Aujourd'hui, Il vous regarde.;se;vous;se;anaphor_agreement
+Aujourd'hui, Elle se regarde.;Aujourd'hui, Elle nous regarde.;se;nous;se;anaphor_agreement
+Aujourd'hui, Nous nous regardons.;Aujourd'hui, Nous se regardons.;nous;se;nous;anaphor_agreement
+Aujourd'hui, Vous vous regardez.;Aujourd'hui, Vous te regardez.;vous;te;vous;anaphor_agreement
+Aujourd'hui, Ils se regardent.;Aujourd'hui, Ils me regardent.;se;me;se;anaphor_agreement
+Aujourd'hui, Elles se regardent.;Aujourd'hui, Elles nous regardent.;se;nous;se;anaphor_agreement
+Aujourd'hui, Je me dépêche.;Aujourd'hui, Je nous dépêche.;me;nous;me;anaphor_agreement
+Aujourd'hui, Tu te dépêches.;Aujourd'hui, Tu vous dépêches.;te;vous;te;anaphor_agreement
+Aujourd'hui, Il se dépêche.;Aujourd'hui, Il me dépêche.;se;me;se;anaphor_agreement
+Aujourd'hui, Elle se dépêche.;Aujourd'hui, Elle nous dépêche.;se;nous;se;anaphor_agreement
+Aujourd'hui, Nous nous dépêchons.;Aujourd'hui, Nous se dépêchons.;nous;se;nous;anaphor_agreement
+Aujourd'hui, Vous vous dépêchez.;Aujourd'hui, Vous se dépêchez.;vous;se;vous;anaphor_agreement
+Aujourd'hui, Ils se dépêchent.;Aujourd'hui, Ils nous dépêchent.;se;nous;se;anaphor_agreement
+Aujourd'hui, Elles se dépêchent.;Aujourd'hui, Elles te dépêchent.;se;te;se;anaphor_agreement
+Je me lave sans réfléchir.;Je se lave sans réfléchir.;me;se;me;anaphor_agreement
+Tu te laves sans réfléchir.;Tu se laves sans réfléchir.;te;se;te;anaphor_agreement
+Il se lave sans réfléchir.;Il te lave sans réfléchir.;se;te;se;anaphor_agreement
+Elle se lave sans réfléchir.;Elle te lave sans réfléchir.;se;te;se;anaphor_agreement
+Nous nous lavons sans réfléchir.;Nous te lavons sans réfléchir.;nous;te;nous;anaphor_agreement
+Vous vous lavez sans réfléchir.;Vous me lavez sans réfléchir.;vous;me;vous;anaphor_agreement
+Ils se lavent sans réfléchir.;Ils nous lavent sans réfléchir.;se;nous;se;anaphor_agreement
+Elles se lavent sans réfléchir.;Elles me lavent sans réfléchir.;se;me;se;anaphor_agreement
+Je me réveille sans réfléchir.;Je vous réveille sans réfléchir.;me;vous;me;anaphor_agreement
+Tu te réveilles sans réfléchir.;Tu me réveilles sans réfléchir.;te;me;te;anaphor_agreement
+Il se réveille sans réfléchir.;Il te réveille sans réfléchir.;se;te;se;anaphor_agreement
+Elle se réveille sans réfléchir.;Elle me réveille sans réfléchir.;se;me;se;anaphor_agreement
+Nous nous réveillons sans réfléchir.;Nous me réveillons sans réfléchir.;nous;me;nous;anaphor_agreement
+Vous vous réveillez sans réfléchir.;Vous nous réveillez sans réfléchir.;vous;nous;vous;anaphor_agreement
+Ils se réveillent sans réfléchir.;Ils nous réveillent sans réfléchir.;se;nous;se;anaphor_agreement
+Elles se réveillent sans réfléchir.;Elles me réveillent sans réfléchir.;se;me;se;anaphor_agreement
+Je me lève sans réfléchir.;Je vous lève sans réfléchir.;me;vous;me;anaphor_agreement
+Tu te lèves sans réfléchir.;Tu nous lèves sans réfléchir.;te;nous;te;anaphor_agreement
+Il se lève sans réfléchir.;Il te lève sans réfléchir.;se;te;se;anaphor_agreement
+Elle se lève sans réfléchir.;Elle me lève sans réfléchir.;se;me;se;anaphor_agreement
+Nous nous levons sans réfléchir.;Nous te levons sans réfléchir.;nous;te;nous;anaphor_agreement
+Vous vous levez sans réfléchir.;Vous te levez sans réfléchir.;vous;te;vous;anaphor_agreement
+Ils se lèvent sans réfléchir.;Ils nous lèvent sans réfléchir.;se;nous;se;anaphor_agreement
+Elles se lèvent sans réfléchir.;Elles me lèvent sans réfléchir.;se;me;se;anaphor_agreement
+Je me couche sans réfléchir.;Je nous couche sans réfléchir.;me;nous;me;anaphor_agreement
+Tu te couches sans réfléchir.;Tu me couches sans réfléchir.;te;me;te;anaphor_agreement
+Il se couche sans réfléchir.;Il te couche sans réfléchir.;se;te;se;anaphor_agreement
+Elle se couche sans réfléchir.;Elle nous couche sans réfléchir.;se;nous;se;anaphor_agreement
+Nous nous couchons sans réfléchir.;Nous te couchons sans réfléchir.;nous;te;nous;anaphor_agreement
+Vous vous couchez sans réfléchir.;Vous me couchez sans réfléchir.;vous;me;vous;anaphor_agreement
+Ils se couchent sans réfléchir.;Ils te couchent sans réfléchir.;se;te;se;anaphor_agreement
+Elles se couchent sans réfléchir.;Elles te couchent sans réfléchir.;se;te;se;anaphor_agreement
+Je me habille sans réfléchir.;Je te habille sans réfléchir.;me;te;me;anaphor_agreement
+Tu te habilles sans réfléchir.;Tu se habilles sans réfléchir.;te;se;te;anaphor_agreement
+Il se habille sans réfléchir.;Il te habille sans réfléchir.;se;te;se;anaphor_agreement
+Elle se habille sans réfléchir.;Elle nous habille sans réfléchir.;se;nous;se;anaphor_agreement
+Nous nous habillons sans réfléchir.;Nous me habillons sans réfléchir.;nous;me;nous;anaphor_agreement
+Vous vous habillez sans réfléchir.;Vous me habillez sans réfléchir.;vous;me;vous;anaphor_agreement
+Ils se habillent sans réfléchir.;Ils te habillent sans réfléchir.;se;te;se;anaphor_agreement
+Elles se habillent sans réfléchir.;Elles vous habillent sans réfléchir.;se;vous;se;anaphor_agreement
+Je me regarde sans réfléchir.;Je nous regarde sans réfléchir.;me;nous;me;anaphor_agreement
+Tu te regardes sans réfléchir.;Tu vous regardes sans réfléchir.;te;vous;te;anaphor_agreement
+Il se regarde sans réfléchir.;Il vous regarde sans réfléchir.;se;vous;se;anaphor_agreement
+Elle se regarde sans réfléchir.;Elle me regarde sans réfléchir.;se;me;se;anaphor_agreement
+Nous nous regardons sans réfléchir.;Nous vous regardons sans réfléchir.;nous;vous;nous;anaphor_agreement
+Vous vous regardez sans réfléchir.;Vous me regardez sans réfléchir.;vous;me;vous;anaphor_agreement
+Ils se regardent sans réfléchir.;Ils nous regardent sans réfléchir.;se;nous;se;anaphor_agreement
+Elles se regardent sans réfléchir.;Elles vous regardent sans réfléchir.;se;vous;se;anaphor_agreement
+Je me dépêche sans réfléchir.;Je nous dépêche sans réfléchir.;me;nous;me;anaphor_agreement
+Tu te dépêches sans réfléchir.;Tu me dépêches sans réfléchir.;te;me;te;anaphor_agreement
+Il se dépêche sans réfléchir.;Il te dépêche sans réfléchir.;se;te;se;anaphor_agreement
+Elle se dépêche sans réfléchir.;Elle te dépêche sans réfléchir.;se;te;se;anaphor_agreement
+Nous nous dépêchons sans réfléchir.;Nous me dépêchons sans réfléchir.;nous;me;nous;anaphor_agreement
+Vous vous dépêchez sans réfléchir.;Vous nous dépêchez sans réfléchir.;vous;nous;vous;anaphor_agreement
+Ils se dépêchent sans réfléchir.;Ils vous dépêchent sans réfléchir.;se;vous;se;anaphor_agreement
+Elles se dépêchent sans réfléchir.;Elles nous dépêchent sans réfléchir.;se;nous;se;anaphor_agreement
+En général, Je me lave tranquillement.;En général, Je nous lave tranquillement.;me;nous;me;anaphor_agreement
+En général, Tu te laves tranquillement.;En général, Tu me laves tranquillement.;te;me;te;anaphor_agreement
+En général, Il se lave tranquillement.;En général, Il te lave tranquillement.;se;te;se;anaphor_agreement
+En général, Elle se lave tranquillement.;En général, Elle vous lave tranquillement.;se;vous;se;anaphor_agreement
+En général, Nous nous lavons tranquillement.;En général, Nous se lavons tranquillement.;nous;se;nous;anaphor_agreement
+En général, Vous vous lavez tranquillement.;En général, Vous me lavez tranquillement.;vous;me;vous;anaphor_agreement
+En général, Ils se lavent tranquillement.;En général, Ils me lavent tranquillement.;se;me;se;anaphor_agreement
+En général, Elles se lavent tranquillement.;En général, Elles te lavent tranquillement.;se;te;se;anaphor_agreement
+En général, Je me réveille tranquillement.;En général, Je te réveille tranquillement.;me;te;me;anaphor_agreement
+En général, Tu te réveilles tranquillement.;En général, Tu nous réveilles tranquillement.;te;nous;te;anaphor_agreement
+En général, Il se réveille tranquillement.;En général, Il nous réveille tranquillement.;se;nous;se;anaphor_agreement
+En général, Elle se réveille tranquillement.;En général, Elle nous réveille tranquillement.;se;nous;se;anaphor_agreement
+En général, Nous nous réveillons tranquillement.;En général, Nous se réveillons tranquillement.;nous;se;nous;anaphor_agreement
+En général, Vous vous réveillez tranquillement.;En général, Vous se réveillez tranquillement.;vous;se;vous;anaphor_agreement
+En général, Ils se réveillent tranquillement.;En général, Ils vous réveillent tranquillement.;se;vous;se;anaphor_agreement
+En général, Elles se réveillent tranquillement.;En général, Elles vous réveillent tranquillement.;se;vous;se;anaphor_agreement
+En général, Je me lève tranquillement.;En général, Je te lève tranquillement.;me;te;me;anaphor_agreement
+En général, Tu te lèves tranquillement.;En général, Tu me lèves tranquillement.;te;me;te;anaphor_agreement
+En général, Il se lève tranquillement.;En général, Il te lève tranquillement.;se;te;se;anaphor_agreement
+En général, Elle se lève tranquillement.;En général, Elle nous lève tranquillement.;se;nous;se;anaphor_agreement
+En général, Nous nous levons tranquillement.;En général, Nous se levons tranquillement.;nous;se;nous;anaphor_agreement
+En général, Vous vous levez tranquillement.;En général, Vous te levez tranquillement.;vous;te;vous;anaphor_agreement
+En général, Ils se lèvent tranquillement.;En général, Ils vous lèvent tranquillement.;se;vous;se;anaphor_agreement
+En général, Elles se lèvent tranquillement.;En général, Elles te lèvent tranquillement.;se;te;se;anaphor_agreement
+En général, Je me couche tranquillement.;En général, Je te couche tranquillement.;me;te;me;anaphor_agreement
+En général, Tu te couches tranquillement.;En général, Tu nous couches tranquillement.;te;nous;te;anaphor_agreement
+En général, Il se couche tranquillement.;En général, Il te couche tranquillement.;se;te;se;anaphor_agreement
+En général, Elle se couche tranquillement.;En général, Elle nous couche tranquillement.;se;nous;se;anaphor_agreement
+En général, Nous nous couchons tranquillement.;En général, Nous te couchons tranquillement.;nous;te;nous;anaphor_agreement
+En général, Vous vous couchez tranquillement.;En général, Vous te couchez tranquillement.;vous;te;vous;anaphor_agreement
+En général, Ils se couchent tranquillement.;En général, Ils vous couchent tranquillement.;se;vous;se;anaphor_agreement
+En général, Elles se couchent tranquillement.;En général, Elles vous couchent tranquillement.;se;vous;se;anaphor_agreement
+En général, Je me habille tranquillement.;En général, Je vous habille tranquillement.;me;vous;me;anaphor_agreement
+En général, Tu te habilles tranquillement.;En général, Tu vous habilles tranquillement.;te;vous;te;anaphor_agreement
+En général, Il se habille tranquillement.;En général, Il nous habille tranquillement.;se;nous;se;anaphor_agreement
+En général, Elle se habille tranquillement.;En général, Elle te habille tranquillement.;se;te;se;anaphor_agreement
+En général, Nous nous habillons tranquillement.;En général, Nous me habillons tranquillement.;nous;me;nous;anaphor_agreement
+En général, Vous vous habillez tranquillement.;En général, Vous te habillez tranquillement.;vous;te;vous;anaphor_agreement
+En général, Ils se habillent tranquillement.;En général, Ils me habillent tranquillement.;se;me;se;anaphor_agreement
+En général, Elles se habillent tranquillement.;En général, Elles te habillent tranquillement.;se;te;se;anaphor_agreement
+En général, Je me regarde tranquillement.;En général, Je se regarde tranquillement.;me;se;me;anaphor_agreement
+En général, Tu te regardes tranquillement.;En général, Tu vous regardes tranquillement.;te;vous;te;anaphor_agreement
+En général, Il se regarde tranquillement.;En général, Il me regarde tranquillement.;se;me;se;anaphor_agreement
+En général, Elle se regarde tranquillement.;En général, Elle vous regarde tranquillement.;se;vous;se;anaphor_agreement
+En général, Nous nous regardons tranquillement.;En général, Nous te regardons tranquillement.;nous;te;nous;anaphor_agreement
+En général, Vous vous regardez tranquillement.;En général, Vous nous regardez tranquillement.;vous;nous;vous;anaphor_agreement
+En général, Ils se regardent tranquillement.;En général, Ils vous regardent tranquillement.;se;vous;se;anaphor_agreement
+En général, Elles se regardent tranquillement.;En général, Elles te regardent tranquillement.;se;te;se;anaphor_agreement
+En général, Je me dépêche tranquillement.;En général, Je te dépêche tranquillement.;me;te;me;anaphor_agreement
+En général, Tu te dépêches tranquillement.;En général, Tu me dépêches tranquillement.;te;me;te;anaphor_agreement
+En général, Il se dépêche tranquillement.;En général, Il te dépêche tranquillement.;se;te;se;anaphor_agreement
+En général, Elle se dépêche tranquillement.;En général, Elle te dépêche tranquillement.;se;te;se;anaphor_agreement
+En général, Nous nous dépêchons tranquillement.;En général, Nous me dépêchons tranquillement.;nous;me;nous;anaphor_agreement
+En général, Vous vous dépêchez tranquillement.;En général, Vous te dépêchez tranquillement.;vous;te;vous;anaphor_agreement
+En général, Ils se dépêchent tranquillement.;En général, Ils nous dépêchent tranquillement.;se;nous;se;anaphor_agreement
+En général, Elles se dépêchent tranquillement.;En général, Elles vous dépêchent tranquillement.;se;vous;se;anaphor_agreement
+Je me lave en silence.;Je se lave en silence.;me;se;me;anaphor_agreement
+Tu te laves en silence.;Tu vous laves en silence.;te;vous;te;anaphor_agreement
+Il se lave en silence.;Il te lave en silence.;se;te;se;anaphor_agreement
+Elle se lave en silence.;Elle vous lave en silence.;se;vous;se;anaphor_agreement
+Nous nous lavons en silence.;Nous vous lavons en silence.;nous;vous;nous;anaphor_agreement
+Vous vous lavez en silence.;Vous se lavez en silence.;vous;se;vous;anaphor_agreement
+Ils se lavent en silence.;Ils me lavent en silence.;se;me;se;anaphor_agreement
+Elles se lavent en silence.;Elles me lavent en silence.;se;me;se;anaphor_agreement
+Je me réveille en silence.;Je se réveille en silence.;me;se;me;anaphor_agreement
+Tu te réveilles en silence.;Tu se réveilles en silence.;te;se;te;anaphor_agreement
+Il se réveille en silence.;Il nous réveille en silence.;se;nous;se;anaphor_agreement
+Elle se réveille en silence.;Elle vous réveille en silence.;se;vous;se;anaphor_agreement
+Nous nous réveillons en silence.;Nous vous réveillons en silence.;nous;vous;nous;anaphor_agreement
+Vous vous réveillez en silence.;Vous me réveillez en silence.;vous;me;vous;anaphor_agreement
+Ils se réveillent en silence.;Ils vous réveillent en silence.;se;vous;se;anaphor_agreement
+Elles se réveillent en silence.;Elles te réveillent en silence.;se;te;se;anaphor_agreement
+Je me lève en silence.;Je se lève en silence.;me;se;me;anaphor_agreement
+Tu te lèves en silence.;Tu se lèves en silence.;te;se;te;anaphor_agreement
+Il se lève en silence.;Il me lève en silence.;se;me;se;anaphor_agreement
+Elle se lève en silence.;Elle te lève en silence.;se;te;se;anaphor_agreement
+Nous nous levons en silence.;Nous se levons en silence.;nous;se;nous;anaphor_agreement
+Vous vous levez en silence.;Vous te levez en silence.;vous;te;vous;anaphor_agreement
+Ils se lèvent en silence.;Ils te lèvent en silence.;se;te;se;anaphor_agreement
+Elles se lèvent en silence.;Elles te lèvent en silence.;se;te;se;anaphor_agreement
+Je me couche en silence.;Je se couche en silence.;me;se;me;anaphor_agreement
+Tu te couches en silence.;Tu se couches en silence.;te;se;te;anaphor_agreement
+Il se couche en silence.;Il nous couche en silence.;se;nous;se;anaphor_agreement
+Elle se couche en silence.;Elle nous couche en silence.;se;nous;se;anaphor_agreement
+Nous nous couchons en silence.;Nous te couchons en silence.;nous;te;nous;anaphor_agreement
+Vous vous couchez en silence.;Vous me couchez en silence.;vous;me;vous;anaphor_agreement
+Ils se couchent en silence.;Ils me couchent en silence.;se;me;se;anaphor_agreement
+Elles se couchent en silence.;Elles nous couchent en silence.;se;nous;se;anaphor_agreement
+Je me habille en silence.;Je se habille en silence.;me;se;me;anaphor_agreement
+Tu te habilles en silence.;Tu se habilles en silence.;te;se;te;anaphor_agreement
+Il se habille en silence.;Il me habille en silence.;se;me;se;anaphor_agreement
+Elle se habille en silence.;Elle vous habille en silence.;se;vous;se;anaphor_agreement
+Nous nous habillons en silence.;Nous vous habillons en silence.;nous;vous;nous;anaphor_agreement
+Vous vous habillez en silence.;Vous nous habillez en silence.;vous;nous;vous;anaphor_agreement
+Ils se habillent en silence.;Ils nous habillent en silence.;se;nous;se;anaphor_agreement
+Elles se habillent en silence.;Elles me habillent en silence.;se;me;se;anaphor_agreement
+Je me regarde en silence.;Je vous regarde en silence.;me;vous;me;anaphor_agreement
+Tu te regardes en silence.;Tu vous regardes en silence.;te;vous;te;anaphor_agreement
+Il se regarde en silence.;Il te regarde en silence.;se;te;se;anaphor_agreement
+Elle se regarde en silence.;Elle me regarde en silence.;se;me;se;anaphor_agreement
+Nous nous regardons en silence.;Nous vous regardons en silence.;nous;vous;nous;anaphor_agreement
+Vous vous regardez en silence.;Vous te regardez en silence.;vous;te;vous;anaphor_agreement
+Ils se regardent en silence.;Ils me regardent en silence.;se;me;se;anaphor_agreement
+Elles se regardent en silence.;Elles me regardent en silence.;se;me;se;anaphor_agreement
+Je me dépêche en silence.;Je te dépêche en silence.;me;te;me;anaphor_agreement
+Tu te dépêches en silence.;Tu nous dépêches en silence.;te;nous;te;anaphor_agreement
+Il se dépêche en silence.;Il vous dépêche en silence.;se;vous;se;anaphor_agreement
+Elle se dépêche en silence.;Elle te dépêche en silence.;se;te;se;anaphor_agreement
+Nous nous dépêchons en silence.;Nous te dépêchons en silence.;nous;te;nous;anaphor_agreement
+Vous vous dépêchez en silence.;Vous te dépêchez en silence.;vous;te;vous;anaphor_agreement
+Ils se dépêchent en silence.;Ils nous dépêchent en silence.;se;nous;se;anaphor_agreement
+Elles se dépêchent en silence.;Elles te dépêchent en silence.;se;te;se;anaphor_agreement
+Parfois, Je me lave devant le miroir.;Parfois, Je te lave devant le miroir.;me;te;me;anaphor_agreement
+Parfois, Tu te laves devant le miroir.;Parfois, Tu vous laves devant le miroir.;te;vous;te;anaphor_agreement
+Parfois, Il se lave devant le miroir.;Parfois, Il vous lave devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Elle se lave devant le miroir.;Parfois, Elle nous lave devant le miroir.;se;nous;se;anaphor_agreement
+Parfois, Nous nous lavons devant le miroir.;Parfois, Nous te lavons devant le miroir.;nous;te;nous;anaphor_agreement
+Parfois, Vous vous lavez devant le miroir.;Parfois, Vous nous lavez devant le miroir.;vous;nous;vous;anaphor_agreement
+Parfois, Ils se lavent devant le miroir.;Parfois, Ils vous lavent devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Elles se lavent devant le miroir.;Parfois, Elles vous lavent devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Je me réveille devant le miroir.;Parfois, Je nous réveille devant le miroir.;me;nous;me;anaphor_agreement
+Parfois, Tu te réveilles devant le miroir.;Parfois, Tu vous réveilles devant le miroir.;te;vous;te;anaphor_agreement
+Parfois, Il se réveille devant le miroir.;Parfois, Il vous réveille devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Elle se réveille devant le miroir.;Parfois, Elle nous réveille devant le miroir.;se;nous;se;anaphor_agreement
+Parfois, Nous nous réveillons devant le miroir.;Parfois, Nous vous réveillons devant le miroir.;nous;vous;nous;anaphor_agreement
+Parfois, Vous vous réveillez devant le miroir.;Parfois, Vous se réveillez devant le miroir.;vous;se;vous;anaphor_agreement
+Parfois, Ils se réveillent devant le miroir.;Parfois, Ils vous réveillent devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Elles se réveillent devant le miroir.;Parfois, Elles me réveillent devant le miroir.;se;me;se;anaphor_agreement
+Parfois, Je me lève devant le miroir.;Parfois, Je nous lève devant le miroir.;me;nous;me;anaphor_agreement
+Parfois, Tu te lèves devant le miroir.;Parfois, Tu vous lèves devant le miroir.;te;vous;te;anaphor_agreement
+Parfois, Il se lève devant le miroir.;Parfois, Il vous lève devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Elle se lève devant le miroir.;Parfois, Elle nous lève devant le miroir.;se;nous;se;anaphor_agreement
+Parfois, Nous nous levons devant le miroir.;Parfois, Nous te levons devant le miroir.;nous;te;nous;anaphor_agreement
+Parfois, Vous vous levez devant le miroir.;Parfois, Vous te levez devant le miroir.;vous;te;vous;anaphor_agreement
+Parfois, Ils se lèvent devant le miroir.;Parfois, Ils me lèvent devant le miroir.;se;me;se;anaphor_agreement
+Parfois, Elles se lèvent devant le miroir.;Parfois, Elles vous lèvent devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Je me couche devant le miroir.;Parfois, Je se couche devant le miroir.;me;se;me;anaphor_agreement
+Parfois, Tu te couches devant le miroir.;Parfois, Tu me couches devant le miroir.;te;me;te;anaphor_agreement
+Parfois, Il se couche devant le miroir.;Parfois, Il te couche devant le miroir.;se;te;se;anaphor_agreement
+Parfois, Elle se couche devant le miroir.;Parfois, Elle te couche devant le miroir.;se;te;se;anaphor_agreement
+Parfois, Nous nous couchons devant le miroir.;Parfois, Nous se couchons devant le miroir.;nous;se;nous;anaphor_agreement
+Parfois, Vous vous couchez devant le miroir.;Parfois, Vous me couchez devant le miroir.;vous;me;vous;anaphor_agreement
+Parfois, Ils se couchent devant le miroir.;Parfois, Ils me couchent devant le miroir.;se;me;se;anaphor_agreement
+Parfois, Elles se couchent devant le miroir.;Parfois, Elles te couchent devant le miroir.;se;te;se;anaphor_agreement
+Parfois, Je me habille devant le miroir.;Parfois, Je vous habille devant le miroir.;me;vous;me;anaphor_agreement
+Parfois, Tu te habilles devant le miroir.;Parfois, Tu vous habilles devant le miroir.;te;vous;te;anaphor_agreement
+Parfois, Il se habille devant le miroir.;Parfois, Il nous habille devant le miroir.;se;nous;se;anaphor_agreement
+Parfois, Elle se habille devant le miroir.;Parfois, Elle me habille devant le miroir.;se;me;se;anaphor_agreement
+Parfois, Nous nous habillons devant le miroir.;Parfois, Nous me habillons devant le miroir.;nous;me;nous;anaphor_agreement
+Parfois, Vous vous habillez devant le miroir.;Parfois, Vous me habillez devant le miroir.;vous;me;vous;anaphor_agreement
+Parfois, Ils se habillent devant le miroir.;Parfois, Ils me habillent devant le miroir.;se;me;se;anaphor_agreement
+Parfois, Elles se habillent devant le miroir.;Parfois, Elles nous habillent devant le miroir.;se;nous;se;anaphor_agreement
+Parfois, Je me regarde devant le miroir.;Parfois, Je vous regarde devant le miroir.;me;vous;me;anaphor_agreement
+Parfois, Tu te regardes devant le miroir.;Parfois, Tu vous regardes devant le miroir.;te;vous;te;anaphor_agreement
+Parfois, Il se regarde devant le miroir.;Parfois, Il me regarde devant le miroir.;se;me;se;anaphor_agreement
+Parfois, Elle se regarde devant le miroir.;Parfois, Elle nous regarde devant le miroir.;se;nous;se;anaphor_agreement
+Parfois, Nous nous regardons devant le miroir.;Parfois, Nous me regardons devant le miroir.;nous;me;nous;anaphor_agreement
+Parfois, Vous vous regardez devant le miroir.;Parfois, Vous se regardez devant le miroir.;vous;se;vous;anaphor_agreement
+Parfois, Ils se regardent devant le miroir.;Parfois, Ils te regardent devant le miroir.;se;te;se;anaphor_agreement
+Parfois, Elles se regardent devant le miroir.;Parfois, Elles me regardent devant le miroir.;se;me;se;anaphor_agreement
+Parfois, Je me dépêche devant le miroir.;Parfois, Je vous dépêche devant le miroir.;me;vous;me;anaphor_agreement
+Parfois, Tu te dépêches devant le miroir.;Parfois, Tu nous dépêches devant le miroir.;te;nous;te;anaphor_agreement
+Parfois, Il se dépêche devant le miroir.;Parfois, Il vous dépêche devant le miroir.;se;vous;se;anaphor_agreement
+Parfois, Elle se dépêche devant le miroir.;Parfois, Elle me dépêche devant le miroir.;se;me;se;anaphor_agreement
+Parfois, Nous nous dépêchons devant le miroir.;Parfois, Nous vous dépêchons devant le miroir.;nous;vous;nous;anaphor_agreement
+Parfois, Vous vous dépêchez devant le miroir.;Parfois, Vous se dépêchez devant le miroir.;vous;se;vous;anaphor_agreement
+Parfois, Ils se dépêchent devant le miroir.;Parfois, Ils me dépêchent devant le miroir.;se;me;se;anaphor_agreement
+Parfois, Elles se dépêchent devant le miroir.;Parfois, Elles vous dépêchent devant le miroir.;se;vous;se;anaphor_agreement
+Avant de sortir, Je me lave.;Avant de sortir, Je vous lave.;me;vous;me;anaphor_agreement
+Avant de sortir, Tu te laves.;Avant de sortir, Tu vous laves.;te;vous;te;anaphor_agreement
+Avant de sortir, Il se lave.;Avant de sortir, Il vous lave.;se;vous;se;anaphor_agreement
+Avant de sortir, Elle se lave.;Avant de sortir, Elle te lave.;se;te;se;anaphor_agreement
+Avant de sortir, Nous nous lavons.;Avant de sortir, Nous se lavons.;nous;se;nous;anaphor_agreement
+Avant de sortir, Vous vous lavez.;Avant de sortir, Vous me lavez.;vous;me;vous;anaphor_agreement
+Avant de sortir, Ils se lavent.;Avant de sortir, Ils vous lavent.;se;vous;se;anaphor_agreement
+Avant de sortir, Elles se lavent.;Avant de sortir, Elles nous lavent.;se;nous;se;anaphor_agreement
+Avant de sortir, Je me réveille.;Avant de sortir, Je vous réveille.;me;vous;me;anaphor_agreement
+Avant de sortir, Tu te réveilles.;Avant de sortir, Tu se réveilles.;te;se;te;anaphor_agreement
+Avant de sortir, Il se réveille.;Avant de sortir, Il vous réveille.;se;vous;se;anaphor_agreement
+Avant de sortir, Elle se réveille.;Avant de sortir, Elle nous réveille.;se;nous;se;anaphor_agreement
+Avant de sortir, Nous nous réveillons.;Avant de sortir, Nous te réveillons.;nous;te;nous;anaphor_agreement
+Avant de sortir, Vous vous réveillez.;Avant de sortir, Vous te réveillez.;vous;te;vous;anaphor_agreement
+Avant de sortir, Ils se réveillent.;Avant de sortir, Ils vous réveillent.;se;vous;se;anaphor_agreement
+Avant de sortir, Elles se réveillent.;Avant de sortir, Elles me réveillent.;se;me;se;anaphor_agreement
+Avant de sortir, Je me lève.;Avant de sortir, Je vous lève.;me;vous;me;anaphor_agreement
+Avant de sortir, Tu te lèves.;Avant de sortir, Tu se lèves.;te;se;te;anaphor_agreement
+Avant de sortir, Il se lève.;Avant de sortir, Il vous lève.;se;vous;se;anaphor_agreement
+Avant de sortir, Elle se lève.;Avant de sortir, Elle te lève.;se;te;se;anaphor_agreement
+Avant de sortir, Nous nous levons.;Avant de sortir, Nous te levons.;nous;te;nous;anaphor_agreement
+Avant de sortir, Vous vous levez.;Avant de sortir, Vous se levez.;vous;se;vous;anaphor_agreement
+Avant de sortir, Ils se lèvent.;Avant de sortir, Ils me lèvent.;se;me;se;anaphor_agreement
+Avant de sortir, Elles se lèvent.;Avant de sortir, Elles nous lèvent.;se;nous;se;anaphor_agreement
+Avant de sortir, Je me couche.;Avant de sortir, Je nous couche.;me;nous;me;anaphor_agreement
+Avant de sortir, Tu te couches.;Avant de sortir, Tu se couches.;te;se;te;anaphor_agreement
+Avant de sortir, Il se couche.;Avant de sortir, Il me couche.;se;me;se;anaphor_agreement
+Avant de sortir, Elle se couche.;Avant de sortir, Elle te couche.;se;te;se;anaphor_agreement
+Avant de sortir, Nous nous couchons.;Avant de sortir, Nous te couchons.;nous;te;nous;anaphor_agreement
+Avant de sortir, Vous vous couchez.;Avant de sortir, Vous te couchez.;vous;te;vous;anaphor_agreement
+Avant de sortir, Ils se couchent.;Avant de sortir, Ils nous couchent.;se;nous;se;anaphor_agreement
+Avant de sortir, Elles se couchent.;Avant de sortir, Elles me couchent.;se;me;se;anaphor_agreement
+Avant de sortir, Je me habille.;Avant de sortir, Je vous habille.;me;vous;me;anaphor_agreement
+Avant de sortir, Tu te habilles.;Avant de sortir, Tu me habilles.;te;me;te;anaphor_agreement
+Avant de sortir, Il se habille.;Avant de sortir, Il te habille.;se;te;se;anaphor_agreement
+Avant de sortir, Elle se habille.;Avant de sortir, Elle te habille.;se;te;se;anaphor_agreement
+Avant de sortir, Nous nous habillons.;Avant de sortir, Nous vous habillons.;nous;vous;nous;anaphor_agreement
+Avant de sortir, Vous vous habillez.;Avant de sortir, Vous te habillez.;vous;te;vous;anaphor_agreement
+Avant de sortir, Ils se habillent.;Avant de sortir, Ils nous habillent.;se;nous;se;anaphor_agreement
+Avant de sortir, Elles se habillent.;Avant de sortir, Elles te habillent.;se;te;se;anaphor_agreement
+Avant de sortir, Je me regarde.;Avant de sortir, Je nous regarde.;me;nous;me;anaphor_agreement
+Avant de sortir, Tu te regardes.;Avant de sortir, Tu vous regardes.;te;vous;te;anaphor_agreement
+Avant de sortir, Il se regarde.;Avant de sortir, Il nous regarde.;se;nous;se;anaphor_agreement
+Avant de sortir, Elle se regarde.;Avant de sortir, Elle te regarde.;se;te;se;anaphor_agreement
+Avant de sortir, Nous nous regardons.;Avant de sortir, Nous te regardons.;nous;te;nous;anaphor_agreement
+Avant de sortir, Vous vous regardez.;Avant de sortir, Vous te regardez.;vous;te;vous;anaphor_agreement
+Avant de sortir, Ils se regardent.;Avant de sortir, Ils te regardent.;se;te;se;anaphor_agreement
+Avant de sortir, Elles se regardent.;Avant de sortir, Elles vous regardent.;se;vous;se;anaphor_agreement
+Avant de sortir, Je me dépêche.;Avant de sortir, Je te dépêche.;me;te;me;anaphor_agreement
+Avant de sortir, Tu te dépêches.;Avant de sortir, Tu me dépêches.;te;me;te;anaphor_agreement
+Avant de sortir, Il se dépêche.;Avant de sortir, Il me dépêche.;se;me;se;anaphor_agreement
+Avant de sortir, Elle se dépêche.;Avant de sortir, Elle vous dépêche.;se;vous;se;anaphor_agreement
+Avant de sortir, Nous nous dépêchons.;Avant de sortir, Nous se dépêchons.;nous;se;nous;anaphor_agreement
+Avant de sortir, Vous vous dépêchez.;Avant de sortir, Vous me dépêchez.;vous;me;vous;anaphor_agreement
+Avant de sortir, Ils se dépêchent.;Avant de sortir, Ils vous dépêchent.;se;vous;se;anaphor_agreement
+Avant de sortir, Elles se dépêchent.;Avant de sortir, Elles vous dépêchent.;se;vous;se;anaphor_agreement
+Le soir, Je me lave dans la salle de bain.;Le soir, Je te lave dans la salle de bain.;me;te;me;anaphor_agreement
+Le soir, Tu te laves dans la salle de bain.;Le soir, Tu vous laves dans la salle de bain.;te;vous;te;anaphor_agreement
+Le soir, Il se lave dans la salle de bain.;Le soir, Il vous lave dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Elle se lave dans la salle de bain.;Le soir, Elle vous lave dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Nous nous lavons dans la salle de bain.;Le soir, Nous me lavons dans la salle de bain.;nous;me;nous;anaphor_agreement
+Le soir, Vous vous lavez dans la salle de bain.;Le soir, Vous me lavez dans la salle de bain.;vous;me;vous;anaphor_agreement
+Le soir, Ils se lavent dans la salle de bain.;Le soir, Ils te lavent dans la salle de bain.;se;te;se;anaphor_agreement
+Le soir, Elles se lavent dans la salle de bain.;Le soir, Elles nous lavent dans la salle de bain.;se;nous;se;anaphor_agreement
+Le soir, Je me réveille dans la salle de bain.;Le soir, Je te réveille dans la salle de bain.;me;te;me;anaphor_agreement
+Le soir, Tu te réveilles dans la salle de bain.;Le soir, Tu nous réveilles dans la salle de bain.;te;nous;te;anaphor_agreement
+Le soir, Il se réveille dans la salle de bain.;Le soir, Il vous réveille dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Elle se réveille dans la salle de bain.;Le soir, Elle me réveille dans la salle de bain.;se;me;se;anaphor_agreement
+Le soir, Nous nous réveillons dans la salle de bain.;Le soir, Nous vous réveillons dans la salle de bain.;nous;vous;nous;anaphor_agreement
+Le soir, Vous vous réveillez dans la salle de bain.;Le soir, Vous se réveillez dans la salle de bain.;vous;se;vous;anaphor_agreement
+Le soir, Ils se réveillent dans la salle de bain.;Le soir, Ils me réveillent dans la salle de bain.;se;me;se;anaphor_agreement
+Le soir, Elles se réveillent dans la salle de bain.;Le soir, Elles nous réveillent dans la salle de bain.;se;nous;se;anaphor_agreement
+Le soir, Je me lève dans la salle de bain.;Le soir, Je se lève dans la salle de bain.;me;se;me;anaphor_agreement
+Le soir, Tu te lèves dans la salle de bain.;Le soir, Tu se lèves dans la salle de bain.;te;se;te;anaphor_agreement
+Le soir, Il se lève dans la salle de bain.;Le soir, Il me lève dans la salle de bain.;se;me;se;anaphor_agreement
+Le soir, Elle se lève dans la salle de bain.;Le soir, Elle te lève dans la salle de bain.;se;te;se;anaphor_agreement
+Le soir, Nous nous levons dans la salle de bain.;Le soir, Nous vous levons dans la salle de bain.;nous;vous;nous;anaphor_agreement
+Le soir, Vous vous levez dans la salle de bain.;Le soir, Vous te levez dans la salle de bain.;vous;te;vous;anaphor_agreement
+Le soir, Ils se lèvent dans la salle de bain.;Le soir, Ils vous lèvent dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Elles se lèvent dans la salle de bain.;Le soir, Elles vous lèvent dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Je me couche dans la salle de bain.;Le soir, Je vous couche dans la salle de bain.;me;vous;me;anaphor_agreement
+Le soir, Tu te couches dans la salle de bain.;Le soir, Tu se couches dans la salle de bain.;te;se;te;anaphor_agreement
+Le soir, Il se couche dans la salle de bain.;Le soir, Il te couche dans la salle de bain.;se;te;se;anaphor_agreement
+Le soir, Elle se couche dans la salle de bain.;Le soir, Elle te couche dans la salle de bain.;se;te;se;anaphor_agreement
+Le soir, Nous nous couchons dans la salle de bain.;Le soir, Nous me couchons dans la salle de bain.;nous;me;nous;anaphor_agreement
+Le soir, Vous vous couchez dans la salle de bain.;Le soir, Vous se couchez dans la salle de bain.;vous;se;vous;anaphor_agreement
+Le soir, Ils se couchent dans la salle de bain.;Le soir, Ils te couchent dans la salle de bain.;se;te;se;anaphor_agreement
+Le soir, Elles se couchent dans la salle de bain.;Le soir, Elles me couchent dans la salle de bain.;se;me;se;anaphor_agreement
+Le soir, Je me habille dans la salle de bain.;Le soir, Je vous habille dans la salle de bain.;me;vous;me;anaphor_agreement
+Le soir, Tu te habilles dans la salle de bain.;Le soir, Tu vous habilles dans la salle de bain.;te;vous;te;anaphor_agreement
+Le soir, Il se habille dans la salle de bain.;Le soir, Il te habille dans la salle de bain.;se;te;se;anaphor_agreement
+Le soir, Elle se habille dans la salle de bain.;Le soir, Elle me habille dans la salle de bain.;se;me;se;anaphor_agreement
+Le soir, Nous nous habillons dans la salle de bain.;Le soir, Nous me habillons dans la salle de bain.;nous;me;nous;anaphor_agreement
+Le soir, Vous vous habillez dans la salle de bain.;Le soir, Vous te habillez dans la salle de bain.;vous;te;vous;anaphor_agreement
+Le soir, Ils se habillent dans la salle de bain.;Le soir, Ils vous habillent dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Elles se habillent dans la salle de bain.;Le soir, Elles vous habillent dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Je me regarde dans la salle de bain.;Le soir, Je te regarde dans la salle de bain.;me;te;me;anaphor_agreement
+Le soir, Tu te regardes dans la salle de bain.;Le soir, Tu me regardes dans la salle de bain.;te;me;te;anaphor_agreement
+Le soir, Il se regarde dans la salle de bain.;Le soir, Il vous regarde dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Elle se regarde dans la salle de bain.;Le soir, Elle vous regarde dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Nous nous regardons dans la salle de bain.;Le soir, Nous me regardons dans la salle de bain.;nous;me;nous;anaphor_agreement
+Le soir, Vous vous regardez dans la salle de bain.;Le soir, Vous nous regardez dans la salle de bain.;vous;nous;vous;anaphor_agreement
+Le soir, Ils se regardent dans la salle de bain.;Le soir, Ils te regardent dans la salle de bain.;se;te;se;anaphor_agreement
+Le soir, Elles se regardent dans la salle de bain.;Le soir, Elles vous regardent dans la salle de bain.;se;vous;se;anaphor_agreement
+Le soir, Je me dépêche dans la salle de bain.;Le soir, Je nous dépêche dans la salle de bain.;me;nous;me;anaphor_agreement
+Le soir, Tu te dépêches dans la salle de bain.;Le soir, Tu me dépêches dans la salle de bain.;te;me;te;anaphor_agreement
+Le soir, Il se dépêche dans la salle de bain.;Le soir, Il nous dépêche dans la salle de bain.;se;nous;se;anaphor_agreement
+Le soir, Elle se dépêche dans la salle de bain.;Le soir, Elle me dépêche dans la salle de bain.;se;me;se;anaphor_agreement
+Le soir, Nous nous dépêchons dans la salle de bain.;Le soir, Nous me dépêchons dans la salle de bain.;nous;me;nous;anaphor_agreement
+Le soir, Vous vous dépêchez dans la salle de bain.;Le soir, Vous se dépêchez dans la salle de bain.;vous;se;vous;anaphor_agreement
+Le soir, Ils se dépêchent dans la salle de bain.;Le soir, Ils me dépêchent dans la salle de bain.;se;me;se;anaphor_agreement
+Le soir, Elles se dépêchent dans la salle de bain.;Le soir, Elles me dépêchent dans la salle de bain.;se;me;se;anaphor_agreement
+Normalement, Je me lave rapidement.;Normalement, Je nous lave rapidement.;me;nous;me;anaphor_agreement
+Normalement, Tu te laves rapidement.;Normalement, Tu vous laves rapidement.;te;vous;te;anaphor_agreement
+Normalement, Il se lave rapidement.;Normalement, Il te lave rapidement.;se;te;se;anaphor_agreement
+Normalement, Elle se lave rapidement.;Normalement, Elle me lave rapidement.;se;me;se;anaphor_agreement
+Normalement, Nous nous lavons rapidement.;Normalement, Nous te lavons rapidement.;nous;te;nous;anaphor_agreement
+Normalement, Vous vous lavez rapidement.;Normalement, Vous te lavez rapidement.;vous;te;vous;anaphor_agreement
+Normalement, Ils se lavent rapidement.;Normalement, Ils me lavent rapidement.;se;me;se;anaphor_agreement
+Normalement, Elles se lavent rapidement.;Normalement, Elles me lavent rapidement.;se;me;se;anaphor_agreement
+Normalement, Je me réveille rapidement.;Normalement, Je vous réveille rapidement.;me;vous;me;anaphor_agreement
+Normalement, Tu te réveilles rapidement.;Normalement, Tu nous réveilles rapidement.;te;nous;te;anaphor_agreement
+Normalement, Il se réveille rapidement.;Normalement, Il nous réveille rapidement.;se;nous;se;anaphor_agreement
+Normalement, Elle se réveille rapidement.;Normalement, Elle vous réveille rapidement.;se;vous;se;anaphor_agreement
+Normalement, Nous nous réveillons rapidement.;Normalement, Nous te réveillons rapidement.;nous;te;nous;anaphor_agreement
+Normalement, Vous vous réveillez rapidement.;Normalement, Vous me réveillez rapidement.;vous;me;vous;anaphor_agreement
+Normalement, Ils se réveillent rapidement.;Normalement, Ils te réveillent rapidement.;se;te;se;anaphor_agreement
+Normalement, Elles se réveillent rapidement.;Normalement, Elles vous réveillent rapidement.;se;vous;se;anaphor_agreement
+Normalement, Je me lève rapidement.;Normalement, Je te lève rapidement.;me;te;me;anaphor_agreement
+Normalement, Tu te lèves rapidement.;Normalement, Tu se lèves rapidement.;te;se;te;anaphor_agreement
+Normalement, Il se lève rapidement.;Normalement, Il te lève rapidement.;se;te;se;anaphor_agreement
+Normalement, Elle se lève rapidement.;Normalement, Elle nous lève rapidement.;se;nous;se;anaphor_agreement
+Normalement, Nous nous levons rapidement.;Normalement, Nous te levons rapidement.;nous;te;nous;anaphor_agreement
+Normalement, Vous vous levez rapidement.;Normalement, Vous te levez rapidement.;vous;te;vous;anaphor_agreement
+Normalement, Ils se lèvent rapidement.;Normalement, Ils nous lèvent rapidement.;se;nous;se;anaphor_agreement
+Normalement, Elles se lèvent rapidement.;Normalement, Elles vous lèvent rapidement.;se;vous;se;anaphor_agreement
+Normalement, Je me couche rapidement.;Normalement, Je se couche rapidement.;me;se;me;anaphor_agreement
+Normalement, Tu te couches rapidement.;Normalement, Tu nous couches rapidement.;te;nous;te;anaphor_agreement
+Normalement, Il se couche rapidement.;Normalement, Il me couche rapidement.;se;me;se;anaphor_agreement
+Normalement, Elle se couche rapidement.;Normalement, Elle me couche rapidement.;se;me;se;anaphor_agreement
+Normalement, Nous nous couchons rapidement.;Normalement, Nous vous couchons rapidement.;nous;vous;nous;anaphor_agreement
+Normalement, Vous vous couchez rapidement.;Normalement, Vous me couchez rapidement.;vous;me;vous;anaphor_agreement
+Normalement, Ils se couchent rapidement.;Normalement, Ils nous couchent rapidement.;se;nous;se;anaphor_agreement
+Normalement, Elles se couchent rapidement.;Normalement, Elles te couchent rapidement.;se;te;se;anaphor_agreement
+Normalement, Je me habille rapidement.;Normalement, Je nous habille rapidement.;me;nous;me;anaphor_agreement
+Normalement, Tu te habilles rapidement.;Normalement, Tu se habilles rapidement.;te;se;te;anaphor_agreement
+Normalement, Il se habille rapidement.;Normalement, Il me habille rapidement.;se;me;se;anaphor_agreement
+Normalement, Elle se habille rapidement.;Normalement, Elle me habille rapidement.;se;me;se;anaphor_agreement
+Normalement, Nous nous habillons rapidement.;Normalement, Nous te habillons rapidement.;nous;te;nous;anaphor_agreement
+Normalement, Vous vous habillez rapidement.;Normalement, Vous nous habillez rapidement.;vous;nous;vous;anaphor_agreement
+Normalement, Ils se habillent rapidement.;Normalement, Ils me habillent rapidement.;se;me;se;anaphor_agreement
+Normalement, Elles se habillent rapidement.;Normalement, Elles te habillent rapidement.;se;te;se;anaphor_agreement
+Normalement, Je me regarde rapidement.;Normalement, Je se regarde rapidement.;me;se;me;anaphor_agreement
+Normalement, Tu te regardes rapidement.;Normalement, Tu vous regardes rapidement.;te;vous;te;anaphor_agreement
+Normalement, Il se regarde rapidement.;Normalement, Il me regarde rapidement.;se;me;se;anaphor_agreement
+Normalement, Elle se regarde rapidement.;Normalement, Elle me regarde rapidement.;se;me;se;anaphor_agreement
+Normalement, Nous nous regardons rapidement.;Normalement, Nous te regardons rapidement.;nous;te;nous;anaphor_agreement
+Normalement, Vous vous regardez rapidement.;Normalement, Vous se regardez rapidement.;vous;se;vous;anaphor_agreement
+Normalement, Ils se regardent rapidement.;Normalement, Ils nous regardent rapidement.;se;nous;se;anaphor_agreement
+Normalement, Elles se regardent rapidement.;Normalement, Elles nous regardent rapidement.;se;nous;se;anaphor_agreement
+Normalement, Je me dépêche rapidement.;Normalement, Je se dépêche rapidement.;me;se;me;anaphor_agreement
+Normalement, Tu te dépêches rapidement.;Normalement, Tu nous dépêches rapidement.;te;nous;te;anaphor_agreement
+Normalement, Il se dépêche rapidement.;Normalement, Il te dépêche rapidement.;se;te;se;anaphor_agreement
+Normalement, Elle se dépêche rapidement.;Normalement, Elle nous dépêche rapidement.;se;nous;se;anaphor_agreement
+Normalement, Nous nous dépêchons rapidement.;Normalement, Nous me dépêchons rapidement.;nous;me;nous;anaphor_agreement
+Normalement, Vous vous dépêchez rapidement.;Normalement, Vous nous dépêchez rapidement.;vous;nous;vous;anaphor_agreement
+Normalement, Ils se dépêchent rapidement.;Normalement, Ils vous dépêchent rapidement.;se;vous;se;anaphor_agreement
+Normalement, Elles se dépêchent rapidement.;Normalement, Elles te dépêchent rapidement.;se;te;se;anaphor_agreement
+Tous les jours, Je me lave à la même heure.;Tous les jours, Je vous lave à la même heure.;me;vous;me;anaphor_agreement
+Tous les jours, Tu te laves à la même heure.;Tous les jours, Tu vous laves à la même heure.;te;vous;te;anaphor_agreement
+Tous les jours, Il se lave à la même heure.;Tous les jours, Il te lave à la même heure.;se;te;se;anaphor_agreement
+Tous les jours, Elle se lave à la même heure.;Tous les jours, Elle vous lave à la même heure.;se;vous;se;anaphor_agreement
+Tous les jours, Nous nous lavons à la même heure.;Tous les jours, Nous se lavons à la même heure.;nous;se;nous;anaphor_agreement
+Tous les jours, Vous vous lavez à la même heure.;Tous les jours, Vous te lavez à la même heure.;vous;te;vous;anaphor_agreement
+Tous les jours, Ils se lavent à la même heure.;Tous les jours, Ils nous lavent à la même heure.;se;nous;se;anaphor_agreement
+Tous les jours, Elles se lavent à la même heure.;Tous les jours, Elles nous lavent à la même heure.;se;nous;se;anaphor_agreement
+Tous les jours, Je me réveille à la même heure.;Tous les jours, Je te réveille à la même heure.;me;te;me;anaphor_agreement
+Tous les jours, Tu te réveilles à la même heure.;Tous les jours, Tu vous réveilles à la même heure.;te;vous;te;anaphor_agreement
+Tous les jours, Il se réveille à la même heure.;Tous les jours, Il me réveille à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Elle se réveille à la même heure.;Tous les jours, Elle vous réveille à la même heure.;se;vous;se;anaphor_agreement
+Tous les jours, Nous nous réveillons à la même heure.;Tous les jours, Nous se réveillons à la même heure.;nous;se;nous;anaphor_agreement
+Tous les jours, Vous vous réveillez à la même heure.;Tous les jours, Vous me réveillez à la même heure.;vous;me;vous;anaphor_agreement
+Tous les jours, Ils se réveillent à la même heure.;Tous les jours, Ils vous réveillent à la même heure.;se;vous;se;anaphor_agreement
+Tous les jours, Elles se réveillent à la même heure.;Tous les jours, Elles nous réveillent à la même heure.;se;nous;se;anaphor_agreement
+Tous les jours, Je me lève à la même heure.;Tous les jours, Je vous lève à la même heure.;me;vous;me;anaphor_agreement
+Tous les jours, Tu te lèves à la même heure.;Tous les jours, Tu nous lèves à la même heure.;te;nous;te;anaphor_agreement
+Tous les jours, Il se lève à la même heure.;Tous les jours, Il te lève à la même heure.;se;te;se;anaphor_agreement
+Tous les jours, Elle se lève à la même heure.;Tous les jours, Elle te lève à la même heure.;se;te;se;anaphor_agreement
+Tous les jours, Nous nous levons à la même heure.;Tous les jours, Nous me levons à la même heure.;nous;me;nous;anaphor_agreement
+Tous les jours, Vous vous levez à la même heure.;Tous les jours, Vous te levez à la même heure.;vous;te;vous;anaphor_agreement
+Tous les jours, Ils se lèvent à la même heure.;Tous les jours, Ils vous lèvent à la même heure.;se;vous;se;anaphor_agreement
+Tous les jours, Elles se lèvent à la même heure.;Tous les jours, Elles me lèvent à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Je me couche à la même heure.;Tous les jours, Je te couche à la même heure.;me;te;me;anaphor_agreement
+Tous les jours, Tu te couches à la même heure.;Tous les jours, Tu nous couches à la même heure.;te;nous;te;anaphor_agreement
+Tous les jours, Il se couche à la même heure.;Tous les jours, Il me couche à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Elle se couche à la même heure.;Tous les jours, Elle vous couche à la même heure.;se;vous;se;anaphor_agreement
+Tous les jours, Nous nous couchons à la même heure.;Tous les jours, Nous te couchons à la même heure.;nous;te;nous;anaphor_agreement
+Tous les jours, Vous vous couchez à la même heure.;Tous les jours, Vous te couchez à la même heure.;vous;te;vous;anaphor_agreement
+Tous les jours, Ils se couchent à la même heure.;Tous les jours, Ils me couchent à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Elles se couchent à la même heure.;Tous les jours, Elles me couchent à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Je me habille à la même heure.;Tous les jours, Je se habille à la même heure.;me;se;me;anaphor_agreement
+Tous les jours, Tu te habilles à la même heure.;Tous les jours, Tu vous habilles à la même heure.;te;vous;te;anaphor_agreement
+Tous les jours, Il se habille à la même heure.;Tous les jours, Il me habille à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Elle se habille à la même heure.;Tous les jours, Elle te habille à la même heure.;se;te;se;anaphor_agreement
+Tous les jours, Nous nous habillons à la même heure.;Tous les jours, Nous me habillons à la même heure.;nous;me;nous;anaphor_agreement
+Tous les jours, Vous vous habillez à la même heure.;Tous les jours, Vous te habillez à la même heure.;vous;te;vous;anaphor_agreement
+Tous les jours, Ils se habillent à la même heure.;Tous les jours, Ils me habillent à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Elles se habillent à la même heure.;Tous les jours, Elles me habillent à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Je me regarde à la même heure.;Tous les jours, Je se regarde à la même heure.;me;se;me;anaphor_agreement
+Tous les jours, Tu te regardes à la même heure.;Tous les jours, Tu me regardes à la même heure.;te;me;te;anaphor_agreement
+Tous les jours, Il se regarde à la même heure.;Tous les jours, Il vous regarde à la même heure.;se;vous;se;anaphor_agreement
+Tous les jours, Elle se regarde à la même heure.;Tous les jours, Elle te regarde à la même heure.;se;te;se;anaphor_agreement
+Tous les jours, Nous nous regardons à la même heure.;Tous les jours, Nous me regardons à la même heure.;nous;me;nous;anaphor_agreement
+Tous les jours, Vous vous regardez à la même heure.;Tous les jours, Vous me regardez à la même heure.;vous;me;vous;anaphor_agreement
+Tous les jours, Ils se regardent à la même heure.;Tous les jours, Ils te regardent à la même heure.;se;te;se;anaphor_agreement
+Tous les jours, Elles se regardent à la même heure.;Tous les jours, Elles me regardent à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Je me dépêche à la même heure.;Tous les jours, Je vous dépêche à la même heure.;me;vous;me;anaphor_agreement
+Tous les jours, Tu te dépêches à la même heure.;Tous les jours, Tu se dépêches à la même heure.;te;se;te;anaphor_agreement
+Tous les jours, Il se dépêche à la même heure.;Tous les jours, Il vous dépêche à la même heure.;se;vous;se;anaphor_agreement
+Tous les jours, Elle se dépêche à la même heure.;Tous les jours, Elle me dépêche à la même heure.;se;me;se;anaphor_agreement
+Tous les jours, Nous nous dépêchons à la même heure.;Tous les jours, Nous me dépêchons à la même heure.;nous;me;nous;anaphor_agreement
+Tous les jours, Vous vous dépêchez à la même heure.;Tous les jours, Vous me dépêchez à la même heure.;vous;me;vous;anaphor_agreement
+Tous les jours, Ils se dépêchent à la même heure.;Tous les jours, Ils nous dépêchent à la même heure.;se;nous;se;anaphor_agreement
+Tous les jours, Elles se dépêchent à la même heure.;Tous les jours, Elles me dépêchent à la même heure.;se;me;se;anaphor_agreement
+Hier, Je me lave plus tôt que d'habitude.;Hier, Je se lave plus tôt que d'habitude.;me;se;me;anaphor_agreement
+Hier, Tu te laves plus tôt que d'habitude.;Hier, Tu nous laves plus tôt que d'habitude.;te;nous;te;anaphor_agreement
+Hier, Il se lave plus tôt que d'habitude.;Hier, Il te lave plus tôt que d'habitude.;se;te;se;anaphor_agreement
+Hier, Elle se lave plus tôt que d'habitude.;Hier, Elle vous lave plus tôt que d'habitude.;se;vous;se;anaphor_agreement
+Hier, Nous nous lavons plus tôt que d'habitude.;Hier, Nous te lavons plus tôt que d'habitude.;nous;te;nous;anaphor_agreement
+Hier, Vous vous lavez plus tôt que d'habitude.;Hier, Vous te lavez plus tôt que d'habitude.;vous;te;vous;anaphor_agreement
+Hier, Ils se lavent plus tôt que d'habitude.;Hier, Ils me lavent plus tôt que d'habitude.;se;me;se;anaphor_agreement
+Hier, Elles se lavent plus tôt que d'habitude.;Hier, Elles nous lavent plus tôt que d'habitude.;se;nous;se;anaphor_agreement
+Hier, Je me réveille plus tôt que d'habitude.;Hier, Je se réveille plus tôt que d'habitude.;me;se;me;anaphor_agreement
+Hier, Tu te réveilles plus tôt que d'habitude.;Hier, Tu vous réveilles plus tôt que d'habitude.;te;vous;te;anaphor_agreement
+Hier, Il se réveille plus tôt que d'habitude.;Hier, Il nous réveille plus tôt que d'habitude.;se;nous;se;anaphor_agreement
+Hier, Elle se réveille plus tôt que d'habitude.;Hier, Elle nous réveille plus tôt que d'habitude.;se;nous;se;anaphor_agreement
+Hier, Nous nous réveillons plus tôt que d'habitude.;Hier, Nous se réveillons plus tôt que d'habitude.;nous;se;nous;anaphor_agreement
+Hier, Vous vous réveillez plus tôt que d'habitude.;Hier, Vous se réveillez plus tôt que d'habitude.;vous;se;vous;anaphor_agreement
+Hier, Ils se réveillent plus tôt que d'habitude.;Hier, Ils vous réveillent plus tôt que d'habitude.;se;vous;se;anaphor_agreement
+Hier, Elles se réveillent plus tôt que d'habitude.;Hier, Elles vous réveillent plus tôt que d'habitude.;se;vous;se;anaphor_agreement
+Hier, Je me lève plus tôt que d'habitude.;Hier, Je te lève plus tôt que d'habitude.;me;te;me;anaphor_agreement
+Hier, Tu te lèves plus tôt que d'habitude.;Hier, Tu se lèves plus tôt que d'habitude.;te;se;te;anaphor_agreement
+Hier, Il se lève plus tôt que d'habitude.;Hier, Il vous lève plus tôt que d'habitude.;se;vous;se;anaphor_agreement
+Hier, Elle se lève plus tôt que d'habitude.;Hier, Elle te lève plus tôt que d'habitude.;se;te;se;anaphor_agreement
+Hier, Nous nous levons plus tôt que d'habitude.;Hier, Nous vous levons plus tôt que d'habitude.;nous;vous;nous;anaphor_agreement
+Hier, Vous vous levez plus tôt que d'habitude.;Hier, Vous me levez plus tôt que d'habitude.;vous;me;vous;anaphor_agreement
+Hier, Ils se lèvent plus tôt que d'habitude.;Hier, Ils nous lèvent plus tôt que d'habitude.;se;nous;se;anaphor_agreement
+Hier, Elles se lèvent plus tôt que d'habitude.;Hier, Elles me lèvent plus tôt que d'habitude.;se;me;se;anaphor_agreement
+Hier, Je me couche plus tôt que d'habitude.;Hier, Je nous couche plus tôt que d'habitude.;me;nous;me;anaphor_agreement
+Hier, Tu te couches plus tôt que d'habitude.;Hier, Tu me couches plus tôt que d'habitude.;te;me;te;anaphor_agreement
+Hier, Il se couche plus tôt que d'habitude.;Hier, Il vous couche plus tôt que d'habitude.;se;vous;se;anaphor_agreement
+Hier, Elle se couche plus tôt que d'habitude.;Hier, Elle nous couche plus tôt que d'habitude.;se;nous;se;anaphor_agreement
+Hier, Nous nous couchons plus tôt que d'habitude.;Hier, Nous te couchons plus tôt que d'habitude.;nous;te;nous;anaphor_agreement
+Hier, Vous vous couchez plus tôt que d'habitude.;Hier, Vous me couchez plus tôt que d'habitude.;vous;me;vous;anaphor_agreement
+Hier, Ils se couchent plus tôt que d'habitude.;Hier, Ils vous couchent plus tôt que d'habitude.;se;vous;se;anaphor_agreement
+Hier, Elles se couchent plus tôt que d'habitude.;Hier, Elles vous couchent plus tôt que d'habitude.;se;vous;se;anaphor_agreement
+Hier, Je me habille plus tôt que d'habitude.;Hier, Je nous habille plus tôt que d'habitude.;me;nous;me;anaphor_agreement
+Hier, Tu te habilles plus tôt que d'habitude.;Hier, Tu nous habilles plus tôt que d'habitude.;te;nous;te;anaphor_agreement
+Hier, Il se habille plus tôt que d'habitude.;Hier, Il nous habille plus tôt que d'habitude.;se;nous;se;anaphor_agreement
+Hier, Elle se habille plus tôt que d'habitude.;Hier, Elle nous habille plus tôt que d'habitude.;se;nous;se;anaphor_agreement
+Hier, Nous nous habillons plus tôt que d'habitude.;Hier, Nous te habillons plus tôt que d'habitude.;nous;te;nous;anaphor_agreement
+Hier, Vous vous habillez plus tôt que d'habitude.;Hier, Vous te habillez plus tôt que d'habitude.;vous;te;vous;anaphor_agreement
+Hier, Ils se habillent plus tôt que d'habitude.;Hier, Ils nous habillent plus tôt que d'habitude.;se;nous;se;anaphor_agreement
+Hier, Elles se habillent plus tôt que d'habitude.;Hier, Elles me habillent plus tôt que d'habitude.;se;me;se;anaphor_agreement
+Hier, Je me regarde plus tôt que d'habitude.;Hier, Je vous regarde plus tôt que d'habitude.;me;vous;me;anaphor_agreement
+Hier, Tu te regardes plus tôt que d'habitude.;Hier, Tu vous regardes plus tôt que d'habitude.;te;vous;te;anaphor_agreement
+Hier, Il se regarde plus tôt que d'habitude.;Hier, Il nous regarde plus tôt que d'habitude.;se;nous;se;anaphor_agreement
+Hier, Elle se regarde plus tôt que d'habitude.;Hier, Elle vous regarde plus tôt que d'habitude.;se;vous;se;anaphor_agreement
+Hier, Nous nous regardons plus tôt que d'habitude.;Hier, Nous se regardons plus tôt que d'habitude.;nous;se;nous;anaphor_agreement
+Hier, Vous vous regardez plus tôt que d'habitude.;Hier, Vous te regardez plus tôt que d'habitude.;vous;te;vous;anaphor_agreement
+Hier, Ils se regardent plus tôt que d'habitude.;Hier, Ils me regardent plus tôt que d'habitude.;se;me;se;anaphor_agreement
+Hier, Elles se regardent plus tôt que d'habitude.;Hier, Elles te regardent plus tôt que d'habitude.;se;te;se;anaphor_agreement
+Hier, Je me dépêche plus tôt que d'habitude.;Hier, Je te dépêche plus tôt que d'habitude.;me;te;me;anaphor_agreement
+Hier, Tu te dépêches plus tôt que d'habitude.;Hier, Tu me dépêches plus tôt que d'habitude.;te;me;te;anaphor_agreement
+Hier, Il se dépêche plus tôt que d'habitude.;Hier, Il me dépêche plus tôt que d'habitude.;se;me;se;anaphor_agreement
+Hier, Elle se dépêche plus tôt que d'habitude.;Hier, Elle te dépêche plus tôt que d'habitude.;se;te;se;anaphor_agreement
+Hier, Nous nous dépêchons plus tôt que d'habitude.;Hier, Nous te dépêchons plus tôt que d'habitude.;nous;te;nous;anaphor_agreement
+Hier, Vous vous dépêchez plus tôt que d'habitude.;Hier, Vous nous dépêchez plus tôt que d'habitude.;vous;nous;vous;anaphor_agreement
+Hier, Ils se dépêchent plus tôt que d'habitude.;Hier, Ils me dépêchent plus tôt que d'habitude.;se;me;se;anaphor_agreement
+Hier, Elles se dépêchent plus tôt que d'habitude.;Hier, Elles vous dépêchent plus tôt que d'habitude.;se;vous;se;anaphor_agreement
+D'habitude, Je me lave sans problème.;D'habitude, Je nous lave sans problème.;me;nous;me;anaphor_agreement
+D'habitude, Tu te laves sans problème.;D'habitude, Tu se laves sans problème.;te;se;te;anaphor_agreement
+D'habitude, Il se lave sans problème.;D'habitude, Il vous lave sans problème.;se;vous;se;anaphor_agreement
+D'habitude, Elle se lave sans problème.;D'habitude, Elle me lave sans problème.;se;me;se;anaphor_agreement
+D'habitude, Nous nous lavons sans problème.;D'habitude, Nous vous lavons sans problème.;nous;vous;nous;anaphor_agreement
+D'habitude, Vous vous lavez sans problème.;D'habitude, Vous te lavez sans problème.;vous;te;vous;anaphor_agreement
+D'habitude, Ils se lavent sans problème.;D'habitude, Ils me lavent sans problème.;se;me;se;anaphor_agreement
+D'habitude, Elles se lavent sans problème.;D'habitude, Elles te lavent sans problème.;se;te;se;anaphor_agreement
+D'habitude, Je me réveille sans problème.;D'habitude, Je vous réveille sans problème.;me;vous;me;anaphor_agreement
+D'habitude, Tu te réveilles sans problème.;D'habitude, Tu vous réveilles sans problème.;te;vous;te;anaphor_agreement
+D'habitude, Il se réveille sans problème.;D'habitude, Il te réveille sans problème.;se;te;se;anaphor_agreement
+D'habitude, Elle se réveille sans problème.;D'habitude, Elle me réveille sans problème.;se;me;se;anaphor_agreement
+D'habitude, Nous nous réveillons sans problème.;D'habitude, Nous me réveillons sans problème.;nous;me;nous;anaphor_agreement
+D'habitude, Vous vous réveillez sans problème.;D'habitude, Vous nous réveillez sans problème.;vous;nous;vous;anaphor_agreement
+D'habitude, Ils se réveillent sans problème.;D'habitude, Ils me réveillent sans problème.;se;me;se;anaphor_agreement
+D'habitude, Elles se réveillent sans problème.;D'habitude, Elles nous réveillent sans problème.;se;nous;se;anaphor_agreement
+D'habitude, Je me lève sans problème.;D'habitude, Je nous lève sans problème.;me;nous;me;anaphor_agreement
+D'habitude, Tu te lèves sans problème.;D'habitude, Tu se lèves sans problème.;te;se;te;anaphor_agreement
+D'habitude, Il se lève sans problème.;D'habitude, Il vous lève sans problème.;se;vous;se;anaphor_agreement
+D'habitude, Elle se lève sans problème.;D'habitude, Elle me lève sans problème.;se;me;se;anaphor_agreement
+D'habitude, Nous nous levons sans problème.;D'habitude, Nous se levons sans problème.;nous;se;nous;anaphor_agreement
+D'habitude, Vous vous levez sans problème.;D'habitude, Vous te levez sans problème.;vous;te;vous;anaphor_agreement
+D'habitude, Ils se lèvent sans problème.;D'habitude, Ils vous lèvent sans problème.;se;vous;se;anaphor_agreement
+D'habitude, Elles se lèvent sans problème.;D'habitude, Elles nous lèvent sans problème.;se;nous;se;anaphor_agreement
+D'habitude, Je me couche sans problème.;D'habitude, Je vous couche sans problème.;me;vous;me;anaphor_agreement
+D'habitude, Tu te couches sans problème.;D'habitude, Tu vous couches sans problème.;te;vous;te;anaphor_agreement
+D'habitude, Il se couche sans problème.;D'habitude, Il vous couche sans problème.;se;vous;se;anaphor_agreement
+D'habitude, Elle se couche sans problème.;D'habitude, Elle nous couche sans problème.;se;nous;se;anaphor_agreement
+D'habitude, Nous nous couchons sans problème.;D'habitude, Nous te couchons sans problème.;nous;te;nous;anaphor_agreement
+D'habitude, Vous vous couchez sans problème.;D'habitude, Vous nous couchez sans problème.;vous;nous;vous;anaphor_agreement
+D'habitude, Ils se couchent sans problème.;D'habitude, Ils nous couchent sans problème.;se;nous;se;anaphor_agreement
+D'habitude, Elles se couchent sans problème.;D'habitude, Elles nous couchent sans problème.;se;nous;se;anaphor_agreement
+D'habitude, Je me habille sans problème.;D'habitude, Je nous habille sans problème.;me;nous;me;anaphor_agreement
+D'habitude, Tu te habilles sans problème.;D'habitude, Tu nous habilles sans problème.;te;nous;te;anaphor_agreement
+D'habitude, Il se habille sans problème.;D'habitude, Il te habille sans problème.;se;te;se;anaphor_agreement
+D'habitude, Elle se habille sans problème.;D'habitude, Elle me habille sans problème.;se;me;se;anaphor_agreement
+D'habitude, Nous nous habillons sans problème.;D'habitude, Nous me habillons sans problème.;nous;me;nous;anaphor_agreement
+D'habitude, Vous vous habillez sans problème.;D'habitude, Vous se habillez sans problème.;vous;se;vous;anaphor_agreement
+D'habitude, Ils se habillent sans problème.;D'habitude, Ils nous habillent sans problème.;se;nous;se;anaphor_agreement
+D'habitude, Elles se habillent sans problème.;D'habitude, Elles nous habillent sans problème.;se;nous;se;anaphor_agreement
+D'habitude, Je me regarde sans problème.;D'habitude, Je nous regarde sans problème.;me;nous;me;anaphor_agreement
+D'habitude, Tu te regardes sans problème.;D'habitude, Tu nous regardes sans problème.;te;nous;te;anaphor_agreement
+D'habitude, Il se regarde sans problème.;D'habitude, Il vous regarde sans problème.;se;vous;se;anaphor_agreement
+D'habitude, Elle se regarde sans problème.;D'habitude, Elle vous regarde sans problème.;se;vous;se;anaphor_agreement
+D'habitude, Nous nous regardons sans problème.;D'habitude, Nous se regardons sans problème.;nous;se;nous;anaphor_agreement
+D'habitude, Vous vous regardez sans problème.;D'habitude, Vous te regardez sans problème.;vous;te;vous;anaphor_agreement
+D'habitude, Ils se regardent sans problème.;D'habitude, Ils nous regardent sans problème.;se;nous;se;anaphor_agreement
+D'habitude, Elles se regardent sans problème.;D'habitude, Elles te regardent sans problème.;se;te;se;anaphor_agreement
+D'habitude, Je me dépêche sans problème.;D'habitude, Je vous dépêche sans problème.;me;vous;me;anaphor_agreement
+D'habitude, Tu te dépêches sans problème.;D'habitude, Tu se dépêches sans problème.;te;se;te;anaphor_agreement
+D'habitude, Il se dépêche sans problème.;D'habitude, Il vous dépêche sans problème.;se;vous;se;anaphor_agreement
+D'habitude, Elle se dépêche sans problème.;D'habitude, Elle vous dépêche sans problème.;se;vous;se;anaphor_agreement
+D'habitude, Nous nous dépêchons sans problème.;D'habitude, Nous se dépêchons sans problème.;nous;se;nous;anaphor_agreement
+D'habitude, Vous vous dépêchez sans problème.;D'habitude, Vous nous dépêchez sans problème.;vous;nous;vous;anaphor_agreement
+D'habitude, Ils se dépêchent sans problème.;D'habitude, Ils nous dépêchent sans problème.;se;nous;se;anaphor_agreement
+D'habitude, Elles se dépêchent sans problème.;D'habitude, Elles te dépêchent sans problème.;se;te;se;anaphor_agreement
+Quand il fait froid, Je me lave vite.;Quand il fait froid, Je te lave vite.;me;te;me;anaphor_agreement
+Quand il fait froid, Tu te laves vite.;Quand il fait froid, Tu nous laves vite.;te;nous;te;anaphor_agreement
+Quand il fait froid, Il se lave vite.;Quand il fait froid, Il me lave vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Elle se lave vite.;Quand il fait froid, Elle me lave vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Nous nous lavons vite.;Quand il fait froid, Nous vous lavons vite.;nous;vous;nous;anaphor_agreement
+Quand il fait froid, Vous vous lavez vite.;Quand il fait froid, Vous se lavez vite.;vous;se;vous;anaphor_agreement
+Quand il fait froid, Ils se lavent vite.;Quand il fait froid, Ils te lavent vite.;se;te;se;anaphor_agreement
+Quand il fait froid, Elles se lavent vite.;Quand il fait froid, Elles me lavent vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Je me réveille vite.;Quand il fait froid, Je se réveille vite.;me;se;me;anaphor_agreement
+Quand il fait froid, Tu te réveilles vite.;Quand il fait froid, Tu nous réveilles vite.;te;nous;te;anaphor_agreement
+Quand il fait froid, Il se réveille vite.;Quand il fait froid, Il nous réveille vite.;se;nous;se;anaphor_agreement
+Quand il fait froid, Elle se réveille vite.;Quand il fait froid, Elle me réveille vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Nous nous réveillons vite.;Quand il fait froid, Nous se réveillons vite.;nous;se;nous;anaphor_agreement
+Quand il fait froid, Vous vous réveillez vite.;Quand il fait froid, Vous me réveillez vite.;vous;me;vous;anaphor_agreement
+Quand il fait froid, Ils se réveillent vite.;Quand il fait froid, Ils te réveillent vite.;se;te;se;anaphor_agreement
+Quand il fait froid, Elles se réveillent vite.;Quand il fait froid, Elles vous réveillent vite.;se;vous;se;anaphor_agreement
+Quand il fait froid, Je me lève vite.;Quand il fait froid, Je nous lève vite.;me;nous;me;anaphor_agreement
+Quand il fait froid, Tu te lèves vite.;Quand il fait froid, Tu me lèves vite.;te;me;te;anaphor_agreement
+Quand il fait froid, Il se lève vite.;Quand il fait froid, Il me lève vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Elle se lève vite.;Quand il fait froid, Elle nous lève vite.;se;nous;se;anaphor_agreement
+Quand il fait froid, Nous nous levons vite.;Quand il fait froid, Nous vous levons vite.;nous;vous;nous;anaphor_agreement
+Quand il fait froid, Vous vous levez vite.;Quand il fait froid, Vous te levez vite.;vous;te;vous;anaphor_agreement
+Quand il fait froid, Ils se lèvent vite.;Quand il fait froid, Ils nous lèvent vite.;se;nous;se;anaphor_agreement
+Quand il fait froid, Elles se lèvent vite.;Quand il fait froid, Elles nous lèvent vite.;se;nous;se;anaphor_agreement
+Quand il fait froid, Je me couche vite.;Quand il fait froid, Je se couche vite.;me;se;me;anaphor_agreement
+Quand il fait froid, Tu te couches vite.;Quand il fait froid, Tu vous couches vite.;te;vous;te;anaphor_agreement
+Quand il fait froid, Il se couche vite.;Quand il fait froid, Il me couche vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Elle se couche vite.;Quand il fait froid, Elle vous couche vite.;se;vous;se;anaphor_agreement
+Quand il fait froid, Nous nous couchons vite.;Quand il fait froid, Nous se couchons vite.;nous;se;nous;anaphor_agreement
+Quand il fait froid, Vous vous couchez vite.;Quand il fait froid, Vous te couchez vite.;vous;te;vous;anaphor_agreement
+Quand il fait froid, Ils se couchent vite.;Quand il fait froid, Ils nous couchent vite.;se;nous;se;anaphor_agreement
+Quand il fait froid, Elles se couchent vite.;Quand il fait froid, Elles vous couchent vite.;se;vous;se;anaphor_agreement
+Quand il fait froid, Je me habille vite.;Quand il fait froid, Je vous habille vite.;me;vous;me;anaphor_agreement
+Quand il fait froid, Tu te habilles vite.;Quand il fait froid, Tu me habilles vite.;te;me;te;anaphor_agreement
+Quand il fait froid, Il se habille vite.;Quand il fait froid, Il nous habille vite.;se;nous;se;anaphor_agreement
+Quand il fait froid, Elle se habille vite.;Quand il fait froid, Elle me habille vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Nous nous habillons vite.;Quand il fait froid, Nous me habillons vite.;nous;me;nous;anaphor_agreement
+Quand il fait froid, Vous vous habillez vite.;Quand il fait froid, Vous te habillez vite.;vous;te;vous;anaphor_agreement
+Quand il fait froid, Ils se habillent vite.;Quand il fait froid, Ils nous habillent vite.;se;nous;se;anaphor_agreement
+Quand il fait froid, Elles se habillent vite.;Quand il fait froid, Elles nous habillent vite.;se;nous;se;anaphor_agreement
+Quand il fait froid, Je me regarde vite.;Quand il fait froid, Je nous regarde vite.;me;nous;me;anaphor_agreement
+Quand il fait froid, Tu te regardes vite.;Quand il fait froid, Tu se regardes vite.;te;se;te;anaphor_agreement
+Quand il fait froid, Il se regarde vite.;Quand il fait froid, Il me regarde vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Elle se regarde vite.;Quand il fait froid, Elle te regarde vite.;se;te;se;anaphor_agreement
+Quand il fait froid, Nous nous regardons vite.;Quand il fait froid, Nous te regardons vite.;nous;te;nous;anaphor_agreement
+Quand il fait froid, Vous vous regardez vite.;Quand il fait froid, Vous nous regardez vite.;vous;nous;vous;anaphor_agreement
+Quand il fait froid, Ils se regardent vite.;Quand il fait froid, Ils te regardent vite.;se;te;se;anaphor_agreement
+Quand il fait froid, Elles se regardent vite.;Quand il fait froid, Elles te regardent vite.;se;te;se;anaphor_agreement
+Quand il fait froid, Je me dépêche vite.;Quand il fait froid, Je te dépêche vite.;me;te;me;anaphor_agreement
+Quand il fait froid, Tu te dépêches vite.;Quand il fait froid, Tu se dépêches vite.;te;se;te;anaphor_agreement
+Quand il fait froid, Il se dépêche vite.;Quand il fait froid, Il me dépêche vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Elle se dépêche vite.;Quand il fait froid, Elle me dépêche vite.;se;me;se;anaphor_agreement
+Quand il fait froid, Nous nous dépêchons vite.;Quand il fait froid, Nous me dépêchons vite.;nous;me;nous;anaphor_agreement
+Quand il fait froid, Vous vous dépêchez vite.;Quand il fait froid, Vous nous dépêchez vite.;vous;nous;vous;anaphor_agreement
+Quand il fait froid, Ils se dépêchent vite.;Quand il fait froid, Ils vous dépêchent vite.;se;vous;se;anaphor_agreement
+Quand il fait froid, Elles se dépêchent vite.;Quand il fait froid, Elles vous dépêchent vite.;se;vous;se;anaphor_agreement
+Je me lave dès qu'il se lève.;Je se lave dès qu'il se lève.;me;se;me;anaphor_agreement
+Tu te laves dès qu'il se lève.;Tu me laves dès qu'il se lève.;te;me;te;anaphor_agreement
+Il se lave dès qu'il se lève.;Il vous lave dès qu'il se lève.;se;vous;se;anaphor_agreement
+Elle se lave dès qu'il se lève.;Elle nous lave dès qu'il se lève.;se;nous;se;anaphor_agreement
+Nous nous lavons dès qu'il se lève.;Nous me lavons dès qu'il se lève.;nous;me;nous;anaphor_agreement
+Vous vous lavez dès qu'il se lève.;Vous te lavez dès qu'il se lève.;vous;te;vous;anaphor_agreement
+Ils se lavent dès qu'il se lève.;Ils nous lavent dès qu'il se lève.;se;nous;se;anaphor_agreement
+Elles se lavent dès qu'il se lève.;Elles vous lavent dès qu'il se lève.;se;vous;se;anaphor_agreement
+Je me réveille dès qu'il se lève.;Je vous réveille dès qu'il se lève.;me;vous;me;anaphor_agreement
+Tu te réveilles dès qu'il se lève.;Tu nous réveilles dès qu'il se lève.;te;nous;te;anaphor_agreement
+Il se réveille dès qu'il se lève.;Il vous réveille dès qu'il se lève.;se;vous;se;anaphor_agreement
+Elle se réveille dès qu'il se lève.;Elle me réveille dès qu'il se lève.;se;me;se;anaphor_agreement
+Nous nous réveillons dès qu'il se lève.;Nous te réveillons dès qu'il se lève.;nous;te;nous;anaphor_agreement
+Vous vous réveillez dès qu'il se lève.;Vous se réveillez dès qu'il se lève.;vous;se;vous;anaphor_agreement
+Ils se réveillent dès qu'il se lève.;Ils me réveillent dès qu'il se lève.;se;me;se;anaphor_agreement
+Elles se réveillent dès qu'il se lève.;Elles me réveillent dès qu'il se lève.;se;me;se;anaphor_agreement
+Je me lève dès qu'il se lève.;Je te lève dès qu'il se lève.;me;te;me;anaphor_agreement
+Tu te lèves dès qu'il se lève.;Tu vous lèves dès qu'il se lève.;te;vous;te;anaphor_agreement
+Il se lève dès qu'il se lève.;Il nous lève dès qu'il se lève.;se;nous;se;anaphor_agreement
+Elle se lève dès qu'il se lève.;Elle nous lève dès qu'il se lève.;se;nous;se;anaphor_agreement
+Nous nous levons dès qu'il se lève.;Nous se levons dès qu'il se lève.;nous;se;nous;anaphor_agreement
+Vous vous levez dès qu'il se lève.;Vous me levez dès qu'il se lève.;vous;me;vous;anaphor_agreement
+Ils se lèvent dès qu'il se lève.;Ils te lèvent dès qu'il se lève.;se;te;se;anaphor_agreement
+Elles se lèvent dès qu'il se lève.;Elles nous lèvent dès qu'il se lève.;se;nous;se;anaphor_agreement
+Je me couche dès qu'il se lève.;Je nous couche dès qu'il se lève.;me;nous;me;anaphor_agreement
+Tu te couches dès qu'il se lève.;Tu nous couches dès qu'il se lève.;te;nous;te;anaphor_agreement
+Il se couche dès qu'il se lève.;Il te couche dès qu'il se lève.;se;te;se;anaphor_agreement
+Elle se couche dès qu'il se lève.;Elle me couche dès qu'il se lève.;se;me;se;anaphor_agreement
+Nous nous couchons dès qu'il se lève.;Nous se couchons dès qu'il se lève.;nous;se;nous;anaphor_agreement
+Vous vous couchez dès qu'il se lève.;Vous se couchez dès qu'il se lève.;vous;se;vous;anaphor_agreement
+Ils se couchent dès qu'il se lève.;Ils nous couchent dès qu'il se lève.;se;nous;se;anaphor_agreement
+Elles se couchent dès qu'il se lève.;Elles nous couchent dès qu'il se lève.;se;nous;se;anaphor_agreement
+Je me habille dès qu'il se lève.;Je te habille dès qu'il se lève.;me;te;me;anaphor_agreement
+Tu te habilles dès qu'il se lève.;Tu vous habilles dès qu'il se lève.;te;vous;te;anaphor_agreement
+Il se habille dès qu'il se lève.;Il te habille dès qu'il se lève.;se;te;se;anaphor_agreement
+Elle se habille dès qu'il se lève.;Elle me habille dès qu'il se lève.;se;me;se;anaphor_agreement
+Nous nous habillons dès qu'il se lève.;Nous se habillons dès qu'il se lève.;nous;se;nous;anaphor_agreement
+Vous vous habillez dès qu'il se lève.;Vous nous habillez dès qu'il se lève.;vous;nous;vous;anaphor_agreement
+Ils se habillent dès qu'il se lève.;Ils nous habillent dès qu'il se lève.;se;nous;se;anaphor_agreement
+Elles se habillent dès qu'il se lève.;Elles me habillent dès qu'il se lève.;se;me;se;anaphor_agreement
+Je me regarde dès qu'il se lève.;Je vous regarde dès qu'il se lève.;me;vous;me;anaphor_agreement
+Tu te regardes dès qu'il se lève.;Tu se regardes dès qu'il se lève.;te;se;te;anaphor_agreement
+Il se regarde dès qu'il se lève.;Il vous regarde dès qu'il se lève.;se;vous;se;anaphor_agreement
+Elle se regarde dès qu'il se lève.;Elle me regarde dès qu'il se lève.;se;me;se;anaphor_agreement
+Nous nous regardons dès qu'il se lève.;Nous te regardons dès qu'il se lève.;nous;te;nous;anaphor_agreement
+Vous vous regardez dès qu'il se lève.;Vous me regardez dès qu'il se lève.;vous;me;vous;anaphor_agreement
+Ils se regardent dès qu'il se lève.;Ils me regardent dès qu'il se lève.;se;me;se;anaphor_agreement
+Elles se regardent dès qu'il se lève.;Elles me regardent dès qu'il se lève.;se;me;se;anaphor_agreement
+Je me dépêche dès qu'il se lève.;Je te dépêche dès qu'il se lève.;me;te;me;anaphor_agreement
+Tu te dépêches dès qu'il se lève.;Tu nous dépêches dès qu'il se lève.;te;nous;te;anaphor_agreement
+Il se dépêche dès qu'il se lève.;Il te dépêche dès qu'il se lève.;se;te;se;anaphor_agreement
+Elle se dépêche dès qu'il se lève.;Elle nous dépêche dès qu'il se lève.;se;nous;se;anaphor_agreement
+Nous nous dépêchons dès qu'il se lève.;Nous se dépêchons dès qu'il se lève.;nous;se;nous;anaphor_agreement
+Vous vous dépêchez dès qu'il se lève.;Vous me dépêchez dès qu'il se lève.;vous;me;vous;anaphor_agreement
+Ils se dépêchent dès qu'il se lève.;Ils me dépêchent dès qu'il se lève.;se;me;se;anaphor_agreement
+Elles se dépêchent dès qu'il se lève.;Elles vous dépêchent dès qu'il se lève.;se;vous;se;anaphor_agreement
+Je me lave après le déjeuner.;Je te lave après le déjeuner.;me;te;me;anaphor_agreement
+Tu te laves après le déjeuner.;Tu nous laves après le déjeuner.;te;nous;te;anaphor_agreement
+Il se lave après le déjeuner.;Il nous lave après le déjeuner.;se;nous;se;anaphor_agreement
+Elle se lave après le déjeuner.;Elle vous lave après le déjeuner.;se;vous;se;anaphor_agreement
+Nous nous lavons après le déjeuner.;Nous vous lavons après le déjeuner.;nous;vous;nous;anaphor_agreement
+Vous vous lavez après le déjeuner.;Vous me lavez après le déjeuner.;vous;me;vous;anaphor_agreement
+Ils se lavent après le déjeuner.;Ils nous lavent après le déjeuner.;se;nous;se;anaphor_agreement
+Elles se lavent après le déjeuner.;Elles vous lavent après le déjeuner.;se;vous;se;anaphor_agreement
+Je me réveille après le déjeuner.;Je nous réveille après le déjeuner.;me;nous;me;anaphor_agreement
+Tu te réveilles après le déjeuner.;Tu se réveilles après le déjeuner.;te;se;te;anaphor_agreement
+Il se réveille après le déjeuner.;Il nous réveille après le déjeuner.;se;nous;se;anaphor_agreement
+Elle se réveille après le déjeuner.;Elle me réveille après le déjeuner.;se;me;se;anaphor_agreement
+Nous nous réveillons après le déjeuner.;Nous se réveillons après le déjeuner.;nous;se;nous;anaphor_agreement
+Vous vous réveillez après le déjeuner.;Vous se réveillez après le déjeuner.;vous;se;vous;anaphor_agreement
+Ils se réveillent après le déjeuner.;Ils te réveillent après le déjeuner.;se;te;se;anaphor_agreement
+Elles se réveillent après le déjeuner.;Elles te réveillent après le déjeuner.;se;te;se;anaphor_agreement
+Je me lève après le déjeuner.;Je vous lève après le déjeuner.;me;vous;me;anaphor_agreement
+Tu te lèves après le déjeuner.;Tu me lèves après le déjeuner.;te;me;te;anaphor_agreement
+Il se lève après le déjeuner.;Il vous lève après le déjeuner.;se;vous;se;anaphor_agreement
+Elle se lève après le déjeuner.;Elle me lève après le déjeuner.;se;me;se;anaphor_agreement
+Nous nous levons après le déjeuner.;Nous me levons après le déjeuner.;nous;me;nous;anaphor_agreement
+Vous vous levez après le déjeuner.;Vous se levez après le déjeuner.;vous;se;vous;anaphor_agreement
+Ils se lèvent après le déjeuner.;Ils me lèvent après le déjeuner.;se;me;se;anaphor_agreement
+Elles se lèvent après le déjeuner.;Elles te lèvent après le déjeuner.;se;te;se;anaphor_agreement
+Je me couche après le déjeuner.;Je te couche après le déjeuner.;me;te;me;anaphor_agreement
+Tu te couches après le déjeuner.;Tu nous couches après le déjeuner.;te;nous;te;anaphor_agreement
+Il se couche après le déjeuner.;Il me couche après le déjeuner.;se;me;se;anaphor_agreement
+Elle se couche après le déjeuner.;Elle te couche après le déjeuner.;se;te;se;anaphor_agreement
+Nous nous couchons après le déjeuner.;Nous te couchons après le déjeuner.;nous;te;nous;anaphor_agreement
+Vous vous couchez après le déjeuner.;Vous te couchez après le déjeuner.;vous;te;vous;anaphor_agreement
+Ils se couchent après le déjeuner.;Ils te couchent après le déjeuner.;se;te;se;anaphor_agreement
+Elles se couchent après le déjeuner.;Elles me couchent après le déjeuner.;se;me;se;anaphor_agreement
+Je me habille après le déjeuner.;Je te habille après le déjeuner.;me;te;me;anaphor_agreement
+Tu te habilles après le déjeuner.;Tu vous habilles après le déjeuner.;te;vous;te;anaphor_agreement
+Il se habille après le déjeuner.;Il vous habille après le déjeuner.;se;vous;se;anaphor_agreement
+Elle se habille après le déjeuner.;Elle me habille après le déjeuner.;se;me;se;anaphor_agreement
+Nous nous habillons après le déjeuner.;Nous vous habillons après le déjeuner.;nous;vous;nous;anaphor_agreement
+Vous vous habillez après le déjeuner.;Vous nous habillez après le déjeuner.;vous;nous;vous;anaphor_agreement
+Ils se habillent après le déjeuner.;Ils nous habillent après le déjeuner.;se;nous;se;anaphor_agreement
+Elles se habillent après le déjeuner.;Elles vous habillent après le déjeuner.;se;vous;se;anaphor_agreement
+Je me regarde après le déjeuner.;Je nous regarde après le déjeuner.;me;nous;me;anaphor_agreement
+Tu te regardes après le déjeuner.;Tu se regardes après le déjeuner.;te;se;te;anaphor_agreement
+Il se regarde après le déjeuner.;Il nous regarde après le déjeuner.;se;nous;se;anaphor_agreement
+Elle se regarde après le déjeuner.;Elle vous regarde après le déjeuner.;se;vous;se;anaphor_agreement
+Nous nous regardons après le déjeuner.;Nous te regardons après le déjeuner.;nous;te;nous;anaphor_agreement
+Vous vous regardez après le déjeuner.;Vous te regardez après le déjeuner.;vous;te;vous;anaphor_agreement
+Ils se regardent après le déjeuner.;Ils me regardent après le déjeuner.;se;me;se;anaphor_agreement
+Elles se regardent après le déjeuner.;Elles me regardent après le déjeuner.;se;me;se;anaphor_agreement
+Je me dépêche après le déjeuner.;Je nous dépêche après le déjeuner.;me;nous;me;anaphor_agreement
+Tu te dépêches après le déjeuner.;Tu vous dépêches après le déjeuner.;te;vous;te;anaphor_agreement
+Il se dépêche après le déjeuner.;Il te dépêche après le déjeuner.;se;te;se;anaphor_agreement
+Elle se dépêche après le déjeuner.;Elle nous dépêche après le déjeuner.;se;nous;se;anaphor_agreement
+Nous nous dépêchons après le déjeuner.;Nous me dépêchons après le déjeuner.;nous;me;nous;anaphor_agreement
+Vous vous dépêchez après le déjeuner.;Vous nous dépêchez après le déjeuner.;vous;nous;vous;anaphor_agreement
+Ils se dépêchent après le déjeuner.;Ils vous dépêchent après le déjeuner.;se;vous;se;anaphor_agreement
+Elles se dépêchent après le déjeuner.;Elles te dépêchent après le déjeuner.;se;te;se;anaphor_agreement
+En semaine, Je me lave avant de partir.;En semaine, Je vous lave avant de partir.;me;vous;me;anaphor_agreement
+En semaine, Tu te laves avant de partir.;En semaine, Tu me laves avant de partir.;te;me;te;anaphor_agreement
+En semaine, Il se lave avant de partir.;En semaine, Il te lave avant de partir.;se;te;se;anaphor_agreement
+En semaine, Elle se lave avant de partir.;En semaine, Elle vous lave avant de partir.;se;vous;se;anaphor_agreement
+En semaine, Nous nous lavons avant de partir.;En semaine, Nous se lavons avant de partir.;nous;se;nous;anaphor_agreement
+En semaine, Vous vous lavez avant de partir.;En semaine, Vous se lavez avant de partir.;vous;se;vous;anaphor_agreement
+En semaine, Ils se lavent avant de partir.;En semaine, Ils te lavent avant de partir.;se;te;se;anaphor_agreement
+En semaine, Elles se lavent avant de partir.;En semaine, Elles me lavent avant de partir.;se;me;se;anaphor_agreement
+En semaine, Je me réveille avant de partir.;En semaine, Je nous réveille avant de partir.;me;nous;me;anaphor_agreement
+En semaine, Tu te réveilles avant de partir.;En semaine, Tu se réveilles avant de partir.;te;se;te;anaphor_agreement
+En semaine, Il se réveille avant de partir.;En semaine, Il te réveille avant de partir.;se;te;se;anaphor_agreement
+En semaine, Elle se réveille avant de partir.;En semaine, Elle vous réveille avant de partir.;se;vous;se;anaphor_agreement
+En semaine, Nous nous réveillons avant de partir.;En semaine, Nous vous réveillons avant de partir.;nous;vous;nous;anaphor_agreement
+En semaine, Vous vous réveillez avant de partir.;En semaine, Vous me réveillez avant de partir.;vous;me;vous;anaphor_agreement
+En semaine, Ils se réveillent avant de partir.;En semaine, Ils me réveillent avant de partir.;se;me;se;anaphor_agreement
+En semaine, Elles se réveillent avant de partir.;En semaine, Elles vous réveillent avant de partir.;se;vous;se;anaphor_agreement
+En semaine, Je me lève avant de partir.;En semaine, Je nous lève avant de partir.;me;nous;me;anaphor_agreement
+En semaine, Tu te lèves avant de partir.;En semaine, Tu vous lèves avant de partir.;te;vous;te;anaphor_agreement
+En semaine, Il se lève avant de partir.;En semaine, Il nous lève avant de partir.;se;nous;se;anaphor_agreement
+En semaine, Elle se lève avant de partir.;En semaine, Elle nous lève avant de partir.;se;nous;se;anaphor_agreement
+En semaine, Nous nous levons avant de partir.;En semaine, Nous te levons avant de partir.;nous;te;nous;anaphor_agreement
+En semaine, Vous vous levez avant de partir.;En semaine, Vous nous levez avant de partir.;vous;nous;vous;anaphor_agreement
+En semaine, Ils se lèvent avant de partir.;En semaine, Ils vous lèvent avant de partir.;se;vous;se;anaphor_agreement
+En semaine, Elles se lèvent avant de partir.;En semaine, Elles te lèvent avant de partir.;se;te;se;anaphor_agreement
+En semaine, Je me couche avant de partir.;En semaine, Je te couche avant de partir.;me;te;me;anaphor_agreement
+En semaine, Tu te couches avant de partir.;En semaine, Tu me couches avant de partir.;te;me;te;anaphor_agreement
+En semaine, Il se couche avant de partir.;En semaine, Il vous couche avant de partir.;se;vous;se;anaphor_agreement
+En semaine, Elle se couche avant de partir.;En semaine, Elle te couche avant de partir.;se;te;se;anaphor_agreement
+En semaine, Nous nous couchons avant de partir.;En semaine, Nous se couchons avant de partir.;nous;se;nous;anaphor_agreement
+En semaine, Vous vous couchez avant de partir.;En semaine, Vous nous couchez avant de partir.;vous;nous;vous;anaphor_agreement
+En semaine, Ils se couchent avant de partir.;En semaine, Ils nous couchent avant de partir.;se;nous;se;anaphor_agreement
+En semaine, Elles se couchent avant de partir.;En semaine, Elles vous couchent avant de partir.;se;vous;se;anaphor_agreement
+En semaine, Je me habille avant de partir.;En semaine, Je nous habille avant de partir.;me;nous;me;anaphor_agreement
+En semaine, Tu te habilles avant de partir.;En semaine, Tu me habilles avant de partir.;te;me;te;anaphor_agreement
+En semaine, Il se habille avant de partir.;En semaine, Il nous habille avant de partir.;se;nous;se;anaphor_agreement
+En semaine, Elle se habille avant de partir.;En semaine, Elle vous habille avant de partir.;se;vous;se;anaphor_agreement
+En semaine, Nous nous habillons avant de partir.;En semaine, Nous me habillons avant de partir.;nous;me;nous;anaphor_agreement
+En semaine, Vous vous habillez avant de partir.;En semaine, Vous te habillez avant de partir.;vous;te;vous;anaphor_agreement
+En semaine, Ils se habillent avant de partir.;En semaine, Ils nous habillent avant de partir.;se;nous;se;anaphor_agreement
+En semaine, Elles se habillent avant de partir.;En semaine, Elles nous habillent avant de partir.;se;nous;se;anaphor_agreement
+En semaine, Je me regarde avant de partir.;En semaine, Je nous regarde avant de partir.;me;nous;me;anaphor_agreement
+En semaine, Tu te regardes avant de partir.;En semaine, Tu nous regardes avant de partir.;te;nous;te;anaphor_agreement
+En semaine, Il se regarde avant de partir.;En semaine, Il te regarde avant de partir.;se;te;se;anaphor_agreement
+En semaine, Elle se regarde avant de partir.;En semaine, Elle nous regarde avant de partir.;se;nous;se;anaphor_agreement
+En semaine, Nous nous regardons avant de partir.;En semaine, Nous me regardons avant de partir.;nous;me;nous;anaphor_agreement
+En semaine, Vous vous regardez avant de partir.;En semaine, Vous te regardez avant de partir.;vous;te;vous;anaphor_agreement
+En semaine, Ils se regardent avant de partir.;En semaine, Ils me regardent avant de partir.;se;me;se;anaphor_agreement
+En semaine, Elles se regardent avant de partir.;En semaine, Elles me regardent avant de partir.;se;me;se;anaphor_agreement
+En semaine, Je me dépêche avant de partir.;En semaine, Je nous dépêche avant de partir.;me;nous;me;anaphor_agreement
+En semaine, Tu te dépêches avant de partir.;En semaine, Tu nous dépêches avant de partir.;te;nous;te;anaphor_agreement
+En semaine, Il se dépêche avant de partir.;En semaine, Il me dépêche avant de partir.;se;me;se;anaphor_agreement
+En semaine, Elle se dépêche avant de partir.;En semaine, Elle te dépêche avant de partir.;se;te;se;anaphor_agreement
+En semaine, Nous nous dépêchons avant de partir.;En semaine, Nous se dépêchons avant de partir.;nous;se;nous;anaphor_agreement
+En semaine, Vous vous dépêchez avant de partir.;En semaine, Vous nous dépêchez avant de partir.;vous;nous;vous;anaphor_agreement
+En semaine, Ils se dépêchent avant de partir.;En semaine, Ils me dépêchent avant de partir.;se;me;se;anaphor_agreement
+En semaine, Elles se dépêchent avant de partir.;En semaine, Elles vous dépêchent avant de partir.;se;vous;se;anaphor_agreement
+Avant midi, Je me lave calmement.;Avant midi, Je vous lave calmement.;me;vous;me;anaphor_agreement
+Avant midi, Tu te laves calmement.;Avant midi, Tu nous laves calmement.;te;nous;te;anaphor_agreement
+Avant midi, Il se lave calmement.;Avant midi, Il me lave calmement.;se;me;se;anaphor_agreement
+Avant midi, Elle se lave calmement.;Avant midi, Elle nous lave calmement.;se;nous;se;anaphor_agreement
+Avant midi, Nous nous lavons calmement.;Avant midi, Nous te lavons calmement.;nous;te;nous;anaphor_agreement
+Avant midi, Vous vous lavez calmement.;Avant midi, Vous se lavez calmement.;vous;se;vous;anaphor_agreement
+Avant midi, Ils se lavent calmement.;Avant midi, Ils me lavent calmement.;se;me;se;anaphor_agreement
+Avant midi, Elles se lavent calmement.;Avant midi, Elles nous lavent calmement.;se;nous;se;anaphor_agreement
+Avant midi, Je me réveille calmement.;Avant midi, Je te réveille calmement.;me;te;me;anaphor_agreement
+Avant midi, Tu te réveilles calmement.;Avant midi, Tu se réveilles calmement.;te;se;te;anaphor_agreement
+Avant midi, Il se réveille calmement.;Avant midi, Il vous réveille calmement.;se;vous;se;anaphor_agreement
+Avant midi, Elle se réveille calmement.;Avant midi, Elle me réveille calmement.;se;me;se;anaphor_agreement
+Avant midi, Nous nous réveillons calmement.;Avant midi, Nous se réveillons calmement.;nous;se;nous;anaphor_agreement
+Avant midi, Vous vous réveillez calmement.;Avant midi, Vous te réveillez calmement.;vous;te;vous;anaphor_agreement
+Avant midi, Ils se réveillent calmement.;Avant midi, Ils vous réveillent calmement.;se;vous;se;anaphor_agreement
+Avant midi, Elles se réveillent calmement.;Avant midi, Elles te réveillent calmement.;se;te;se;anaphor_agreement
+Avant midi, Je me lève calmement.;Avant midi, Je se lève calmement.;me;se;me;anaphor_agreement
+Avant midi, Tu te lèves calmement.;Avant midi, Tu vous lèves calmement.;te;vous;te;anaphor_agreement
+Avant midi, Il se lève calmement.;Avant midi, Il te lève calmement.;se;te;se;anaphor_agreement
+Avant midi, Elle se lève calmement.;Avant midi, Elle nous lève calmement.;se;nous;se;anaphor_agreement
+Avant midi, Nous nous levons calmement.;Avant midi, Nous vous levons calmement.;nous;vous;nous;anaphor_agreement
+Avant midi, Vous vous levez calmement.;Avant midi, Vous te levez calmement.;vous;te;vous;anaphor_agreement
+Avant midi, Ils se lèvent calmement.;Avant midi, Ils vous lèvent calmement.;se;vous;se;anaphor_agreement
+Avant midi, Elles se lèvent calmement.;Avant midi, Elles me lèvent calmement.;se;me;se;anaphor_agreement
+Avant midi, Je me couche calmement.;Avant midi, Je nous couche calmement.;me;nous;me;anaphor_agreement
+Avant midi, Tu te couches calmement.;Avant midi, Tu se couches calmement.;te;se;te;anaphor_agreement
+Avant midi, Il se couche calmement.;Avant midi, Il te couche calmement.;se;te;se;anaphor_agreement
+Avant midi, Elle se couche calmement.;Avant midi, Elle me couche calmement.;se;me;se;anaphor_agreement
+Avant midi, Nous nous couchons calmement.;Avant midi, Nous te couchons calmement.;nous;te;nous;anaphor_agreement
+Avant midi, Vous vous couchez calmement.;Avant midi, Vous se couchez calmement.;vous;se;vous;anaphor_agreement
+Avant midi, Ils se couchent calmement.;Avant midi, Ils vous couchent calmement.;se;vous;se;anaphor_agreement
+Avant midi, Elles se couchent calmement.;Avant midi, Elles te couchent calmement.;se;te;se;anaphor_agreement
+Avant midi, Je me habille calmement.;Avant midi, Je nous habille calmement.;me;nous;me;anaphor_agreement
+Avant midi, Tu te habilles calmement.;Avant midi, Tu vous habilles calmement.;te;vous;te;anaphor_agreement
+Avant midi, Il se habille calmement.;Avant midi, Il me habille calmement.;se;me;se;anaphor_agreement
+Avant midi, Elle se habille calmement.;Avant midi, Elle vous habille calmement.;se;vous;se;anaphor_agreement
+Avant midi, Nous nous habillons calmement.;Avant midi, Nous vous habillons calmement.;nous;vous;nous;anaphor_agreement
+Avant midi, Vous vous habillez calmement.;Avant midi, Vous te habillez calmement.;vous;te;vous;anaphor_agreement
+Avant midi, Ils se habillent calmement.;Avant midi, Ils nous habillent calmement.;se;nous;se;anaphor_agreement
+Avant midi, Elles se habillent calmement.;Avant midi, Elles te habillent calmement.;se;te;se;anaphor_agreement
+Avant midi, Je me regarde calmement.;Avant midi, Je te regarde calmement.;me;te;me;anaphor_agreement
+Avant midi, Tu te regardes calmement.;Avant midi, Tu me regardes calmement.;te;me;te;anaphor_agreement
+Avant midi, Il se regarde calmement.;Avant midi, Il nous regarde calmement.;se;nous;se;anaphor_agreement
+Avant midi, Elle se regarde calmement.;Avant midi, Elle te regarde calmement.;se;te;se;anaphor_agreement
+Avant midi, Nous nous regardons calmement.;Avant midi, Nous se regardons calmement.;nous;se;nous;anaphor_agreement
+Avant midi, Vous vous regardez calmement.;Avant midi, Vous nous regardez calmement.;vous;nous;vous;anaphor_agreement
