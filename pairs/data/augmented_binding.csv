@@ -1,111 +1,111 @@
-good_sentence;bad_sentence;good_cue;bad_cue;critical_region;phenomenon
-John dit que Marie l’aime;John dit que Marie s'aime bien;l';s';aime;binding
-Carlos a dit que Lori l’a aidé; Carlos a dit que Lori s’est aidé elle-même;l';s'est;aidé;binding
-Jean a dit que Marie l’avait blessé;Jean a dit que Marie avait blessé elle-même;l';elle-même;blessé;binding
-Marc a déclaré que Julie l’avait critiqué;Marc a déclaré que Julie avait critiqué elle-même;l';elle-même;critiqué;binding
-Thomas pense que Claire l’a défendu;Thomas pense que Claire a défendu elle-même;l';elle-même;défendu;binding
-Luc a dit que Sophie l’admirait;Luc a dit que Sophie admirait elle-même;l';elle-même;admirait;binding
-Sophie a pensé que Lorraine va l’aider;Sophie a pensé que Lorraine va s’aider;l';s';aider;binding
-Sophie voulait que Lorraine lui apprenne le français;Sophie voulait que Lorraine s'apprenne le francais;lui;s';apprenne;binding
-Charlotte croit qu'elle est intelligente; Charlotte croit que s'est intelligente;elle;se;est;binding
-Juliette souhaite qu'elle soit plus agée; Juliette souhaite que se soit plus agée;elle;se;soit;binding
-Clara a déclaré que Liam l' a aidé;Clara a déclaré que Liam lui-même a aidé;l';lui-même;aidé;binding
-Chloé pense que Maxime l' a défendu;Chloé pense que Maxime lui-même a défendu;l';lui-même;défendu;binding
-Léa pense que Marc l' a blessé;Léa pense que Marc lui-même a blessé;l';lui-même;blessé;binding
-Lori croit que Chloé l' admire;Lori croit que Chloé elle-même admire;l';elle-même;admire;binding
-Carlos a dit que Nina l' a défendu;Carlos a dit que Nina elle-même a défendu;l';elle-même;défendu;binding
-Thomas a dit que Carlos l' respecte;Thomas a dit que Carlos lui-même respecte;l';lui-même;respecte;binding
-Antoine a déclaré que Nina l' a défendu;Antoine a déclaré que Nina elle-même a défendu;l';elle-même;défendu;binding
-Camille a dit que Sarah l' admire;Camille a dit que Sarah elle-même admire;l';elle-même;admire;binding
-Sarah voulait que Sophie l' a blessé;Sarah voulait que Sophie elle-même a blessé;l';elle-même;blessé;binding
-Lori a dit que Sophie l' a défendu;Lori a dit que Sophie elle-même a défendu;l';elle-même;défendu;binding
-Julie souhaite que Marc l' a aidé;Julie souhaite que Marc lui-même a aidé;l';lui-même;aidé;binding
-Julie a déclaré que Nina l' respecte;Julie a déclaré que Nina elle-même respecte;l';elle-même;respecte;binding
-Maxime a déclaré que Clara l' a aidé;Maxime a déclaré que Clara elle-même a aidé;l';elle-même;aidé;binding
-Marie souhaite que Nina l' a aidé;Marie souhaite que Nina elle-même a aidé;l';elle-même;aidé;binding
-Antoine a déclaré que Nina l' a défendu;Antoine a déclaré que Nina elle-même a défendu;l';elle-même;défendu;binding
-Marie voulait que Julie l' a critiqué;Marie voulait que Julie elle-même a critiqué;l';elle-même;critiqué;binding
-Luc croit que Chloé l' admire;Luc croit que Chloé elle-même admire;l';elle-même;admire;binding
-Liam voulait que Léa l' a défendu;Liam voulait que Léa elle-même a défendu;l';elle-même;défendu;binding
-Marie a déclaré que Nina l' a blessé;Marie a déclaré que Nina elle-même a blessé;l';elle-même;blessé;binding
-Hugo pense que Sophie l' a aidé;Hugo pense que Sophie elle-même a aidé;l';elle-même;aidé;binding
-Chloé croit que Lori l' a blessé;Chloé croit que Lori elle-même a blessé;l';elle-même;blessé;binding
-Jean a déclaré que Lori l' respecte;Jean a déclaré que Lori elle-même respecte;l';elle-même;respecte;binding
-Sophie croit que Thomas l' a aidé;Sophie croit que Thomas lui-même a aidé;l';lui-même;aidé;binding
-Chloé a dit que Hugo l' a aidé;Chloé a dit que Hugo lui-même a aidé;l';lui-même;aidé;binding
-Nina voulait que Hugo l' respecte;Nina voulait que Hugo lui-même respecte;l';lui-même;respecte;binding
-Thomas voulait que Hugo l' respecte;Thomas voulait que Hugo lui-même respecte;l';lui-même;respecte;binding
-Julie croit que Marie l' a critiqué;Julie croit que Marie elle-même a critiqué;l';elle-même;critiqué;binding
-Antoine croit que Julie l' respecte;Antoine croit que Julie elle-même respecte;l';elle-même;respecte;binding
-Carlos a déclaré que Camille l' a aidé;Carlos a déclaré que Camille elle-même a aidé;l';elle-même;aidé;binding
-Jean a déclaré que Antoine l' respecte;Jean a déclaré que Antoine lui-même respecte;l';lui-même;respecte;binding
-Paul a dit que Léa l' respecte;Paul a dit que Léa elle-même respecte;l';elle-même;respecte;binding
-Luc souhaite que Clara l' admire;Luc souhaite que Clara elle-même admire;l';elle-même;admire;binding
-Clara a dit que Carlos l' admire;Clara a dit que Carlos lui-même admire;l';lui-même;admire;binding
-Lori souhaite que Léa l' respecte;Lori souhaite que Léa elle-même respecte;l';elle-même;respecte;binding
-Sarah a dit que Nina l' respecte;Sarah a dit que Nina elle-même respecte;l';elle-même;respecte;binding
-Marc croit que Sarah l' admire;Marc croit que Sarah elle-même admire;l';elle-même;admire;binding
-Clara a déclaré que Marc l' a défendu;Clara a déclaré que Marc lui-même a défendu;l';lui-même;défendu;binding
-Chloé pense que Luc l' respecte;Chloé pense que Luc lui-même respecte;l';lui-même;respecte;binding
-Liam a déclaré que Julie l' admire;Liam a déclaré que Julie elle-même admire;l';elle-même;admire;binding
-Antoine croit que Thomas l' admire;Antoine croit que Thomas lui-même admire;l';lui-même;admire;binding
-Julie a déclaré que Maxime l' a critiqué;Julie a déclaré que Maxime lui-même a critiqué;l';lui-même;critiqué;binding
-Luc croit que Antoine l' respecte;Luc croit que Antoine lui-même respecte;l';lui-même;respecte;binding
-Julie voulait que Clara l' a blessé;Julie voulait que Clara elle-même a blessé;l';elle-même;blessé;binding
-Nina a déclaré que Julie l' a défendu;Nina a déclaré que Julie elle-même a défendu;l';elle-même;défendu;binding
-Camille a dit que Paul l' respecte;Camille a dit que Paul lui-même respecte;l';lui-même;respecte;binding
-Lori voulait que Sarah l' a aidé;Lori voulait que Sarah elle-même a aidé;l';elle-même;aidé;binding
-Liam a déclaré que Paul l' a aidé;Liam a déclaré que Paul lui-même a aidé;l';lui-même;aidé;binding
-Léa a dit que Hugo l' a défendu;Léa a dit que Hugo lui-même a défendu;l';lui-même;défendu;binding
-Léa croit que Lori l' respecte;Léa croit que Lori elle-même respecte;l';elle-même;respecte;binding
-Marie voulait que Luc l' a défendu;Marie voulait que Luc lui-même a défendu;l';lui-même;défendu;binding
-Camille pense que Nina l' respecte;Camille pense que Nina elle-même respecte;l';elle-même;respecte;binding
-Paul croit que Marie l' admire;Paul croit que Marie elle-même admire;l';elle-même;admire;binding
-Luc a déclaré que Nina l' respecte;Luc a déclaré que Nina elle-même respecte;l';elle-même;respecte;binding
-Nina souhaite que Maxime l' respecte;Nina souhaite que Maxime lui-même respecte;l';lui-même;respecte;binding
-Liam a déclaré que Antoine l' a défendu;Liam a déclaré que Antoine lui-même a défendu;l';lui-même;défendu;binding
-Lori a dit que Luc l' a critiqué;Lori a dit que Luc lui-même a critiqué;l';lui-même;critiqué;binding
-Maxime souhaite que Chloé l' admire;Maxime souhaite que Chloé elle-même admire;l';elle-même;admire;binding
-Thomas croit que Antoine l' a blessé;Thomas croit que Antoine lui-même a blessé;l';lui-même;blessé;binding
-Clara voulait que Sophie l' a défendu;Clara voulait que Sophie elle-même a défendu;l';elle-même;défendu;binding
-Paul pense que Chloé l' a défendu;Paul pense que Chloé elle-même a défendu;l';elle-même;défendu;binding
-Nina a déclaré que Camille l' a critiqué;Nina a déclaré que Camille elle-même a critiqué;l';elle-même;critiqué;binding
-Marie a déclaré que Thomas l' a défendu;Marie a déclaré que Thomas lui-même a défendu;l';lui-même;défendu;binding
-Sophie voulait que Julie l' a blessé;Sophie voulait que Julie elle-même a blessé;l';elle-même;blessé;binding
-Sarah croit que Jean l' a aidé;Sarah croit que Jean lui-même a aidé;l';lui-même;aidé;binding
-Jean a dit que Camille l' admire;Jean a dit que Camille elle-même admire;l';elle-même;admire;binding
-Marie a déclaré que Clara l' admire;Marie a déclaré que Clara elle-même admire;l';elle-même;admire;binding
-Léa croit que Maxime l' respecte;Léa croit que Maxime lui-même respecte;l';lui-même;respecte;binding
-Luc croit que Marc l' respecte;Luc croit que Marc lui-même respecte;l';lui-même;respecte;binding
-Maxime a déclaré que Julie l' a blessé;Maxime a déclaré que Julie elle-même a blessé;l';elle-même;blessé;binding
-Clara pense que Julie l' a critiqué;Clara pense que Julie elle-même a critiqué;l';elle-même;critiqué;binding
-Paul pense que Thomas l' a défendu;Paul pense que Thomas lui-même a défendu;l';lui-même;défendu;binding
-Clara a dit que Sophie l' a blessé;Clara a dit que Sophie elle-même a blessé;l';elle-même;blessé;binding
-Julie a déclaré que Luc l' a blessé;Julie a déclaré que Luc lui-même a blessé;l';lui-même;blessé;binding
-Sarah croit que Léa l' admire;Sarah croit que Léa elle-même admire;l';elle-même;admire;binding
-Marc souhaite que Carlos l' admire;Marc souhaite que Carlos lui-même admire;l';lui-même;admire;binding
-Camille souhaite que Clara l' a aidé;Camille souhaite que Clara elle-même a aidé;l';elle-même;aidé;binding
-Sophie pense que Lori l' admire;Sophie pense que Lori elle-même admire;l';elle-même;admire;binding
-Nina voulait que Maxime l' admire;Nina voulait que Maxime lui-même admire;l';lui-même;admire;binding
-Maxime croit que Thomas l' a aidé;Maxime croit que Thomas lui-même a aidé;l';lui-même;aidé;binding
-Clara croit que Lori l' respecte;Clara croit que Lori elle-même respecte;l';elle-même;respecte;binding
-Sophie souhaite que Camille l' a défendu;Sophie souhaite que Camille elle-même a défendu;l';elle-même;défendu;binding
-Luc voulait que Jean l' a critiqué;Luc voulait que Jean lui-même a critiqué;l';lui-même;critiqué;binding
-Marie a déclaré que Carlos l' a défendu;Marie a déclaré que Carlos lui-même a défendu;l';lui-même;défendu;binding
-Marc pense que Liam l' a aidé;Marc pense que Liam lui-même a aidé;l';lui-même;aidé;binding
-Lori croit que Camille l' a critiqué;Lori croit que Camille elle-même a critiqué;l';elle-même;critiqué;binding
-Clara voulait que Hugo l' a critiqué;Clara voulait que Hugo lui-même a critiqué;l';lui-même;critiqué;binding
-Clara pense que Hugo l' a blessé;Clara pense que Hugo lui-même a blessé;l';lui-même;blessé;binding
-Carlos voulait que Julie l' a critiqué;Carlos voulait que Julie elle-même a critiqué;l';elle-même;critiqué;binding
-Lori a dit que Marc l' a aidé;Lori a dit que Marc lui-même a aidé;l';lui-même;aidé;binding
-Nina souhaite que Marie l' admire;Nina souhaite que Marie elle-même admire;l';elle-même;admire;binding
-Marc a déclaré que Nina l' respecte;Marc a déclaré que Nina elle-même respecte;l';elle-même;respecte;binding
-Camille voulait que Thomas l' a critiqué;Camille voulait que Thomas lui-même a critiqué;l';lui-même;critiqué;binding
-Paul croit que Hugo l' a blessé;Paul croit que Hugo lui-même a blessé;l';lui-même;blessé;binding
-Léa a dit que Nina l' a blessé;Léa a dit que Nina elle-même a blessé;l';elle-même;blessé;binding
-Hugo voulait que Marie l' a critiqué;Hugo voulait que Marie elle-même a critiqué;l';elle-même;critiqué;binding
-Léa voulait que Clara l' a critiqué;Léa voulait que Clara elle-même a critiqué;l';elle-même;critiqué;binding
-Paul a déclaré que Thomas l' a critiqué;Paul a déclaré que Thomas lui-même a critiqué;l';lui-même;critiqué;binding
-Sophie a déclaré que Sarah l' admire;Sophie a déclaré que Sarah elle-même admire;l';elle-même;admire;binding
-Liam souhaite que Jean l' a blessé;Liam souhaite que Jean lui-même a blessé;l';lui-même;blessé;binding
-Maxime pense que Lori l' a défendu;Maxime pense que Lori elle-même a défendu;l';elle-même;défendu;binding  
+good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+John dit que Marie l’aime,John dit que Marie s'aime bien,l',s',aime,binding
+Carlos a dit que Lori l’a aidé, Carlos a dit que Lori s’est aidé elle-même,l',s'est,aidé,binding
+Jean a dit que Marie l’avait blessé,Jean a dit que Marie avait blessé elle-même,l',elle-même,blessé,binding
+Marc a déclaré que Julie l’avait critiqué,Marc a déclaré que Julie avait critiqué elle-même,l',elle-même,critiqué,binding
+Thomas pense que Claire l’a défendu,Thomas pense que Claire a défendu elle-même,l',elle-même,défendu,binding
+Luc a dit que Sophie l’admirait,Luc a dit que Sophie admirait elle-même,l',elle-même,admirait,binding
+Sophie a pensé que Lorraine va l’aider,Sophie a pensé que Lorraine va s’aider,l',s',aider,binding
+Sophie voulait que Lorraine lui apprenne le français,Sophie voulait que Lorraine s'apprenne le francais,lui,s',apprenne,binding
+Charlotte croit qu'elle est intelligente, Charlotte croit que s'est intelligente,elle,se,est,binding
+Juliette souhaite qu'elle soit plus agée, Juliette souhaite que se soit plus agée,elle,se,soit,binding
+Clara a déclaré que Liam l' a aidé,Clara a déclaré que Liam lui-même a aidé,l',lui-même,aidé,binding
+Chloé pense que Maxime l' a défendu,Chloé pense que Maxime lui-même a défendu,l',lui-même,défendu,binding
+Léa pense que Marc l' a blessé,Léa pense que Marc lui-même a blessé,l',lui-même,blessé,binding
+Lori croit que Chloé l' admire,Lori croit que Chloé elle-même admire,l',elle-même,admire,binding
+Carlos a dit que Nina l' a défendu,Carlos a dit que Nina elle-même a défendu,l',elle-même,défendu,binding
+Thomas a dit que Carlos l' respecte,Thomas a dit que Carlos lui-même respecte,l',lui-même,respecte,binding
+Antoine a déclaré que Nina l' a défendu,Antoine a déclaré que Nina elle-même a défendu,l',elle-même,défendu,binding
+Camille a dit que Sarah l' admire,Camille a dit que Sarah elle-même admire,l',elle-même,admire,binding
+Sarah voulait que Sophie l' a blessé,Sarah voulait que Sophie elle-même a blessé,l',elle-même,blessé,binding
+Lori a dit que Sophie l' a défendu,Lori a dit que Sophie elle-même a défendu,l',elle-même,défendu,binding
+Julie souhaite que Marc l' a aidé,Julie souhaite que Marc lui-même a aidé,l',lui-même,aidé,binding
+Julie a déclaré que Nina l' respecte,Julie a déclaré que Nina elle-même respecte,l',elle-même,respecte,binding
+Maxime a déclaré que Clara l' a aidé,Maxime a déclaré que Clara elle-même a aidé,l',elle-même,aidé,binding
+Marie souhaite que Nina l' a aidé,Marie souhaite que Nina elle-même a aidé,l',elle-même,aidé,binding
+Antoine a déclaré que Nina l' a défendu,Antoine a déclaré que Nina elle-même a défendu,l',elle-même,défendu,binding
+Marie voulait que Julie l' a critiqué,Marie voulait que Julie elle-même a critiqué,l',elle-même,critiqué,binding
+Luc croit que Chloé l' admire,Luc croit que Chloé elle-même admire,l',elle-même,admire,binding
+Liam voulait que Léa l' a défendu,Liam voulait que Léa elle-même a défendu,l',elle-même,défendu,binding
+Marie a déclaré que Nina l' a blessé,Marie a déclaré que Nina elle-même a blessé,l',elle-même,blessé,binding
+Hugo pense que Sophie l' a aidé,Hugo pense que Sophie elle-même a aidé,l',elle-même,aidé,binding
+Chloé croit que Lori l' a blessé,Chloé croit que Lori elle-même a blessé,l',elle-même,blessé,binding
+Jean a déclaré que Lori l' respecte,Jean a déclaré que Lori elle-même respecte,l',elle-même,respecte,binding
+Sophie croit que Thomas l' a aidé,Sophie croit que Thomas lui-même a aidé,l',lui-même,aidé,binding
+Chloé a dit que Hugo l' a aidé,Chloé a dit que Hugo lui-même a aidé,l',lui-même,aidé,binding
+Nina voulait que Hugo l' respecte,Nina voulait que Hugo lui-même respecte,l',lui-même,respecte,binding
+Thomas voulait que Hugo l' respecte,Thomas voulait que Hugo lui-même respecte,l',lui-même,respecte,binding
+Julie croit que Marie l' a critiqué,Julie croit que Marie elle-même a critiqué,l',elle-même,critiqué,binding
+Antoine croit que Julie l' respecte,Antoine croit que Julie elle-même respecte,l',elle-même,respecte,binding
+Carlos a déclaré que Camille l' a aidé,Carlos a déclaré que Camille elle-même a aidé,l',elle-même,aidé,binding
+Jean a déclaré que Antoine l' respecte,Jean a déclaré que Antoine lui-même respecte,l',lui-même,respecte,binding
+Paul a dit que Léa l' respecte,Paul a dit que Léa elle-même respecte,l',elle-même,respecte,binding
+Luc souhaite que Clara l' admire,Luc souhaite que Clara elle-même admire,l',elle-même,admire,binding
+Clara a dit que Carlos l' admire,Clara a dit que Carlos lui-même admire,l',lui-même,admire,binding
+Lori souhaite que Léa l' respecte,Lori souhaite que Léa elle-même respecte,l',elle-même,respecte,binding
+Sarah a dit que Nina l' respecte,Sarah a dit que Nina elle-même respecte,l',elle-même,respecte,binding
+Marc croit que Sarah l' admire,Marc croit que Sarah elle-même admire,l',elle-même,admire,binding
+Clara a déclaré que Marc l' a défendu,Clara a déclaré que Marc lui-même a défendu,l',lui-même,défendu,binding
+Chloé pense que Luc l' respecte,Chloé pense que Luc lui-même respecte,l',lui-même,respecte,binding
+Liam a déclaré que Julie l' admire,Liam a déclaré que Julie elle-même admire,l',elle-même,admire,binding
+Antoine croit que Thomas l' admire,Antoine croit que Thomas lui-même admire,l',lui-même,admire,binding
+Julie a déclaré que Maxime l' a critiqué,Julie a déclaré que Maxime lui-même a critiqué,l',lui-même,critiqué,binding
+Luc croit que Antoine l' respecte,Luc croit que Antoine lui-même respecte,l',lui-même,respecte,binding
+Julie voulait que Clara l' a blessé,Julie voulait que Clara elle-même a blessé,l',elle-même,blessé,binding
+Nina a déclaré que Julie l' a défendu,Nina a déclaré que Julie elle-même a défendu,l',elle-même,défendu,binding
+Camille a dit que Paul l' respecte,Camille a dit que Paul lui-même respecte,l',lui-même,respecte,binding
+Lori voulait que Sarah l' a aidé,Lori voulait que Sarah elle-même a aidé,l',elle-même,aidé,binding
+Liam a déclaré que Paul l' a aidé,Liam a déclaré que Paul lui-même a aidé,l',lui-même,aidé,binding
+Léa a dit que Hugo l' a défendu,Léa a dit que Hugo lui-même a défendu,l',lui-même,défendu,binding
+Léa croit que Lori l' respecte,Léa croit que Lori elle-même respecte,l',elle-même,respecte,binding
+Marie voulait que Luc l' a défendu,Marie voulait que Luc lui-même a défendu,l',lui-même,défendu,binding
+Camille pense que Nina l' respecte,Camille pense que Nina elle-même respecte,l',elle-même,respecte,binding
+Paul croit que Marie l' admire,Paul croit que Marie elle-même admire,l',elle-même,admire,binding
+Luc a déclaré que Nina l' respecte,Luc a déclaré que Nina elle-même respecte,l',elle-même,respecte,binding
+Nina souhaite que Maxime l' respecte,Nina souhaite que Maxime lui-même respecte,l',lui-même,respecte,binding
+Liam a déclaré que Antoine l' a défendu,Liam a déclaré que Antoine lui-même a défendu,l',lui-même,défendu,binding
+Lori a dit que Luc l' a critiqué,Lori a dit que Luc lui-même a critiqué,l',lui-même,critiqué,binding
+Maxime souhaite que Chloé l' admire,Maxime souhaite que Chloé elle-même admire,l',elle-même,admire,binding
+Thomas croit que Antoine l' a blessé,Thomas croit que Antoine lui-même a blessé,l',lui-même,blessé,binding
+Clara voulait que Sophie l' a défendu,Clara voulait que Sophie elle-même a défendu,l',elle-même,défendu,binding
+Paul pense que Chloé l' a défendu,Paul pense que Chloé elle-même a défendu,l',elle-même,défendu,binding
+Nina a déclaré que Camille l' a critiqué,Nina a déclaré que Camille elle-même a critiqué,l',elle-même,critiqué,binding
+Marie a déclaré que Thomas l' a défendu,Marie a déclaré que Thomas lui-même a défendu,l',lui-même,défendu,binding
+Sophie voulait que Julie l' a blessé,Sophie voulait que Julie elle-même a blessé,l',elle-même,blessé,binding
+Sarah croit que Jean l' a aidé,Sarah croit que Jean lui-même a aidé,l',lui-même,aidé,binding
+Jean a dit que Camille l' admire,Jean a dit que Camille elle-même admire,l',elle-même,admire,binding
+Marie a déclaré que Clara l' admire,Marie a déclaré que Clara elle-même admire,l',elle-même,admire,binding
+Léa croit que Maxime l' respecte,Léa croit que Maxime lui-même respecte,l',lui-même,respecte,binding
+Luc croit que Marc l' respecte,Luc croit que Marc lui-même respecte,l',lui-même,respecte,binding
+Maxime a déclaré que Julie l' a blessé,Maxime a déclaré que Julie elle-même a blessé,l',elle-même,blessé,binding
+Clara pense que Julie l' a critiqué,Clara pense que Julie elle-même a critiqué,l',elle-même,critiqué,binding
+Paul pense que Thomas l' a défendu,Paul pense que Thomas lui-même a défendu,l',lui-même,défendu,binding
+Clara a dit que Sophie l' a blessé,Clara a dit que Sophie elle-même a blessé,l',elle-même,blessé,binding
+Julie a déclaré que Luc l' a blessé,Julie a déclaré que Luc lui-même a blessé,l',lui-même,blessé,binding
+Sarah croit que Léa l' admire,Sarah croit que Léa elle-même admire,l',elle-même,admire,binding
+Marc souhaite que Carlos l' admire,Marc souhaite que Carlos lui-même admire,l',lui-même,admire,binding
+Camille souhaite que Clara l' a aidé,Camille souhaite que Clara elle-même a aidé,l',elle-même,aidé,binding
+Sophie pense que Lori l' admire,Sophie pense que Lori elle-même admire,l',elle-même,admire,binding
+Nina voulait que Maxime l' admire,Nina voulait que Maxime lui-même admire,l',lui-même,admire,binding
+Maxime croit que Thomas l' a aidé,Maxime croit que Thomas lui-même a aidé,l',lui-même,aidé,binding
+Clara croit que Lori l' respecte,Clara croit que Lori elle-même respecte,l',elle-même,respecte,binding
+Sophie souhaite que Camille l' a défendu,Sophie souhaite que Camille elle-même a défendu,l',elle-même,défendu,binding
+Luc voulait que Jean l' a critiqué,Luc voulait que Jean lui-même a critiqué,l',lui-même,critiqué,binding
+Marie a déclaré que Carlos l' a défendu,Marie a déclaré que Carlos lui-même a défendu,l',lui-même,défendu,binding
+Marc pense que Liam l' a aidé,Marc pense que Liam lui-même a aidé,l',lui-même,aidé,binding
+Lori croit que Camille l' a critiqué,Lori croit que Camille elle-même a critiqué,l',elle-même,critiqué,binding
+Clara voulait que Hugo l' a critiqué,Clara voulait que Hugo lui-même a critiqué,l',lui-même,critiqué,binding
+Clara pense que Hugo l' a blessé,Clara pense que Hugo lui-même a blessé,l',lui-même,blessé,binding
+Carlos voulait que Julie l' a critiqué,Carlos voulait que Julie elle-même a critiqué,l',elle-même,critiqué,binding
+Lori a dit que Marc l' a aidé,Lori a dit que Marc lui-même a aidé,l',lui-même,aidé,binding
+Nina souhaite que Marie l' admire,Nina souhaite que Marie elle-même admire,l',elle-même,admire,binding
+Marc a déclaré que Nina l' respecte,Marc a déclaré que Nina elle-même respecte,l',elle-même,respecte,binding
+Camille voulait que Thomas l' a critiqué,Camille voulait que Thomas lui-même a critiqué,l',lui-même,critiqué,binding
+Paul croit que Hugo l' a blessé,Paul croit que Hugo lui-même a blessé,l',lui-même,blessé,binding
+Léa a dit que Nina l' a blessé,Léa a dit que Nina elle-même a blessé,l',elle-même,blessé,binding
+Hugo voulait que Marie l' a critiqué,Hugo voulait que Marie elle-même a critiqué,l',elle-même,critiqué,binding
+Léa voulait que Clara l' a critiqué,Léa voulait que Clara elle-même a critiqué,l',elle-même,critiqué,binding
+Paul a déclaré que Thomas l' a critiqué,Paul a déclaré que Thomas lui-même a critiqué,l',lui-même,critiqué,binding
+Sophie a déclaré que Sarah l' admire,Sophie a déclaré que Sarah elle-même admire,l',elle-même,admire,binding
+Liam souhaite que Jean l' a blessé,Liam souhaite que Jean lui-même a blessé,l',lui-même,blessé,binding
+Maxime pense que Lori l' a défendu,Maxime pense que Lori elle-même a défendu,l',elle-même,défendu,binding  
