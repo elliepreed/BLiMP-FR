@@ -1,6 +1,6 @@
 good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
 La robe est dans le placard,Les robe est dans le placard,la,les,robe,determiner_noun_agreement
-Les chiens est très mignons,Le chiens est très mignons,les,le,determiner_noun_agreement
+Les chiens est très mignons,Le chiens est très mignons,les,le,chiens,determiner_noun_agreement
 La voiture est rouge,Le voiture est rouge,la,le,voiture,determiner_noun_agreement
 Les enfants jouent dans le jardin,L’enfant jouent dans le jardin,les,l’,enfant,determiner_noun_agreement
 Un homme parle à la foule,Une homme parle à la foule,un,une,homme,determiner_noun_agreement
