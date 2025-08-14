@@ -19,7 +19,7 @@ def load_sentences(filepath):
     sentence_pairs = []
     df = pd.read_csv(filepath)  # changed from read_parquet to read_csv
     for _, row in df.iterrows():
-        sentence_pairs.append([row['sentence_good'], row['sentence_bad']])
+        sentence_pairs.append([row['good_sentence'], row['bad_sentence']])
     print(f"🔹 Loaded {len(sentence_pairs)} sentence pairs from {filepath}")
     return sentence_pairs
 
