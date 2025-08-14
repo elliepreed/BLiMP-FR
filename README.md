@@ -1,6 +1,6 @@
 **BLiMP-FR: French BLiMP**
 
-BLiMP-fr is a French adaptation of the BLiMP (Benchmark of Linguistic Minimal Pairs) suite, designed to evaluate language models’ grammatical knowledge through minimal-pair judgment tasks. Each example consists of two nearly identical French sentences — one grammatically correct, one incorrect — and the model’s task is to identify the correct one. The benchmark covers a range of syntactic, morphological, and semantic phenomena, allowing for fine-grained analysis of a model’s linguistic competence in French.
+BLiMP-fr is a French adaptation of the BLiMP (Benchmark of Linguistic Minimal Pairs) suite, designed to evaluate language models’ grammatical knowledge through minimal-pair judgment tasks. Each example consists of two nearly identical French sentences - one grammatically correct, one incorrect - and the model’s task is to identify the correct one. The benchmark covers a range of syntactic, morphological, and semantic phenomena, allowing for fine-grained analysis of a model’s linguistic competence in French.
 
 Dataset Structure BLiMP-fr contains eight distinct linguistic phenomena, each representing a specific area of French grammar that language models are tested on:
 
