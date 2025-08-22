@@ -1,2 +1,1002 @@
 good_sentence,bad_sentence,good_cue,bad_cue,critical_region,phenomenon
+Nous prenons en été.,Nous prend en été.,Nous,Nous,prenons,subject_verb_agreement
+Elle vient chez moi.,Elle venez chez moi.,Elle,Elle,vient,subject_verb_agreement
+Ils finissent à l'école.,Ils finissons à l'école.,Ils,Ils,finissent,subject_verb_agreement
+Je vois tous les jours.,Je voyons tous les jours.,Je,Je,vois,subject_verb_agreement
+Je prends en été.,Je prennent en été.,Je,Je,prends,subject_verb_agreement
+Elle voit pendant le week-end.,Elle voient pendant le week-end.,Elle,Elle,voit,subject_verb_agreement
+Vous voyez en été.,Vous voient en été.,Vous,Vous,voyez,subject_verb_agreement
+Ils finissent avec ses amis.,Ils finit avec ses amis.,Ils,Ils,finissent,subject_verb_agreement
+Nous voyons au marché.,Nous voit au marché.,Nous,Nous,voyons,subject_verb_agreement
+On vient avec ses amis.,On viens avec ses amis.,On,On,vient,subject_verb_agreement
+Nous prenons en silence.,Nous prend en silence.,Nous,Nous,prenons,subject_verb_agreement
+On vient tous les jours.,On viennent tous les jours.,On,On,vient,subject_verb_agreement
+Tu vois en silence.,Tu voyons en silence.,Tu,Tu,vois,subject_verb_agreement
+On prend tous les jours.,On prennent tous les jours.,On,On,prend,subject_verb_agreement
+Le garçon vient chez moi.,Le garçon viennent chez moi.,Le garçon,Le garçon,vient,subject_verb_agreement
+Je parle tous les jours.,Je parlent tous les jours.,Je,Je,parle,subject_verb_agreement
+Je finis chez moi.,Je finit chez moi.,Je,Je,finis,subject_verb_agreement
+Tu vois pendant le week-end.,Tu voit pendant le week-end.,Tu,Tu,vois,subject_verb_agreement
+Il voit en silence.,Il voient en silence.,Il,Il,voit,subject_verb_agreement
+Nous voyons en été.,Nous voit en été.,Nous,Nous,voyons,subject_verb_agreement
+Le garçon prend avec ses amis.,Le garçon prends avec ses amis.,Le garçon,Le garçon,prend,subject_verb_agreement
+Elle vient avec ses amis.,Elle viens avec ses amis.,Elle,Elle,vient,subject_verb_agreement
+Nous prenons en été.,Nous prends en été.,Nous,Nous,prenons,subject_verb_agreement
+Tu finis en été.,Tu finissez en été.,Tu,Tu,finis,subject_verb_agreement
+Vous prenez le matin.,Vous prends le matin.,Vous,Vous,prenez,subject_verb_agreement
+Je vois rapidement.,Je voit rapidement.,Je,Je,vois,subject_verb_agreement
+Vous prenez tous les jours.,Vous prend tous les jours.,Vous,Vous,prenez,subject_verb_agreement
+Les filles viennent au marché.,Les filles viens au marché.,Les filles,Les filles,viennent,subject_verb_agreement
+Elle finit rapidement.,Elle finis rapidement.,Elle,Elle,finit,subject_verb_agreement
+Tu vois le matin.,Tu voit le matin.,Tu,Tu,vois,subject_verb_agreement
+Nous parlons rapidement.,Nous parle rapidement.,Nous,Nous,parlons,subject_verb_agreement
+On prend rapidement.,On prenez rapidement.,On,On,prend,subject_verb_agreement
+Je parle tous les jours.,Je parles tous les jours.,Je,Je,parle,subject_verb_agreement
+Le garçon parle le matin.,Le garçon parlons le matin.,Le garçon,Le garçon,parle,subject_verb_agreement
+Nous finissons au marché.,Nous finis au marché.,Nous,Nous,finissons,subject_verb_agreement
+Les filles voient rapidement.,Les filles voyons rapidement.,Les filles,Les filles,voient,subject_verb_agreement
+Elle prend en silence.,Elle prenez en silence.,Elle,Elle,prend,subject_verb_agreement
+Les garçons voient en été.,Les garçons voit en été.,Les garçons,Les garçons,voient,subject_verb_agreement
+Le garçon parle rapidement.,Le garçon parlons rapidement.,Le garçon,Le garçon,parle,subject_verb_agreement
+On finit en été.,On finis en été.,On,On,finit,subject_verb_agreement
+Je parle pendant le week-end.,Je parlent pendant le week-end.,Je,Je,parle,subject_verb_agreement
+Ils voient en silence.,Ils voit en silence.,Ils,Ils,voient,subject_verb_agreement
+Les filles parlent tous les jours.,Les filles parlons tous les jours.,Les filles,Les filles,parlent,subject_verb_agreement
+Elles finissent le matin.,Elles finit le matin.,Elles,Elles,finissent,subject_verb_agreement
+Je vois chez moi.,Je voient chez moi.,Je,Je,vois,subject_verb_agreement
+Le garçon vient en été.,Le garçon venons en été.,Le garçon,Le garçon,vient,subject_verb_agreement
+Il voit pendant le week-end.,Il vois pendant le week-end.,Il,Il,voit,subject_verb_agreement
+Nous voyons rapidement.,Nous vois rapidement.,Nous,Nous,voyons,subject_verb_agreement
+Le garçon vient avec ses amis.,Le garçon viennent avec ses amis.,Le garçon,Le garçon,vient,subject_verb_agreement
+La fille prend rapidement.,La fille prennent rapidement.,La fille,La fille,prend,subject_verb_agreement
+On parle rapidement.,On parlent rapidement.,On,On,parle,subject_verb_agreement
+Tu parles pendant le week-end.,Tu parlons pendant le week-end.,Tu,Tu,parles,subject_verb_agreement
+Vous voyez tous les jours.,Vous voit tous les jours.,Vous,Vous,voyez,subject_verb_agreement
+Tu viens tous les jours.,Tu vient tous les jours.,Tu,Tu,viens,subject_verb_agreement
+Les garçons finissent le matin.,Les garçons finis le matin.,Les garçons,Les garçons,finissent,subject_verb_agreement
+Le garçon voit en été.,Le garçon voient en été.,Le garçon,Le garçon,voit,subject_verb_agreement
+Il voit en été.,Il voyons en été.,Il,Il,voit,subject_verb_agreement
+Nous voyons au marché.,Nous voit au marché.,Nous,Nous,voyons,subject_verb_agreement
+On prend au marché.,On prenez au marché.,On,On,prend,subject_verb_agreement
+Il finit le matin.,Il finissons le matin.,Il,Il,finit,subject_verb_agreement
+Les garçons parlent tous les jours.,Les garçons parle tous les jours.,Les garçons,Les garçons,parlent,subject_verb_agreement
+Il vient au marché.,Il viennent au marché.,Il,Il,vient,subject_verb_agreement
+Nous parlons en silence.,Nous parles en silence.,Nous,Nous,parlons,subject_verb_agreement
+Tu prends chez moi.,Tu prennent chez moi.,Tu,Tu,prends,subject_verb_agreement
+Elle prend en été.,Elle prenons en été.,Elle,Elle,prend,subject_verb_agreement
+Les filles prennent rapidement.,Les filles prenez rapidement.,Les filles,Les filles,prennent,subject_verb_agreement
+Je prends en silence.,Je prennent en silence.,Je,Je,prends,subject_verb_agreement
+Nous voyons au marché.,Nous vois au marché.,Nous,Nous,voyons,subject_verb_agreement
+Elles finissent rapidement.,Elles finissez rapidement.,Elles,Elles,finissent,subject_verb_agreement
+Vous prenez au marché.,Vous prennent au marché.,Vous,Vous,prenez,subject_verb_agreement
+Les filles prennent tous les jours.,Les filles prends tous les jours.,Les filles,Les filles,prennent,subject_verb_agreement
+Nous prenons à l'école.,Nous prend à l'école.,Nous,Nous,prenons,subject_verb_agreement
+Vous finissez avec ses amis.,Vous finit avec ses amis.,Vous,Vous,finissez,subject_verb_agreement
+Tu viens au marché.,Tu venez au marché.,Tu,Tu,viens,subject_verb_agreement
+Vous voyez pendant le week-end.,Vous voit pendant le week-end.,Vous,Vous,voyez,subject_verb_agreement
+La fille vient à l'école.,La fille viennent à l'école.,La fille,La fille,vient,subject_verb_agreement
+Nous parlons au marché.,Nous parlent au marché.,Nous,Nous,parlons,subject_verb_agreement
+Elles finissent pendant le week-end.,Elles finit pendant le week-end.,Elles,Elles,finissent,subject_verb_agreement
+On prend rapidement.,On prends rapidement.,On,On,prend,subject_verb_agreement
+On parle en silence.,On parles en silence.,On,On,parle,subject_verb_agreement
+Le garçon vient rapidement.,Le garçon venez rapidement.,Le garçon,Le garçon,vient,subject_verb_agreement
+Il vient à l'école.,Il venez à l'école.,Il,Il,vient,subject_verb_agreement
+Elles voient tous les jours.,Elles voit tous les jours.,Elles,Elles,voient,subject_verb_agreement
+Elle voit rapidement.,Elle vois rapidement.,Elle,Elle,voit,subject_verb_agreement
+Tu prends en silence.,Tu prennent en silence.,Tu,Tu,prends,subject_verb_agreement
+La fille parle à l'école.,La fille parlons à l'école.,La fille,La fille,parle,subject_verb_agreement
+Vous voyez au marché.,Vous voyons au marché.,Vous,Vous,voyez,subject_verb_agreement
+Vous parlez avec ses amis.,Vous parle avec ses amis.,Vous,Vous,parlez,subject_verb_agreement
+Tu vois en silence.,Tu voyez en silence.,Tu,Tu,vois,subject_verb_agreement
+On parle le matin.,On parlent le matin.,On,On,parle,subject_verb_agreement
+Tu prends rapidement.,Tu prennent rapidement.,Tu,Tu,prends,subject_verb_agreement
+Tu prends au marché.,Tu prend au marché.,Tu,Tu,prends,subject_verb_agreement
+Vous parlez rapidement.,Vous parle rapidement.,Vous,Vous,parlez,subject_verb_agreement
+Elle finit à l'école.,Elle finissez à l'école.,Elle,Elle,finit,subject_verb_agreement
+Tu vois pendant le week-end.,Tu voient pendant le week-end.,Tu,Tu,vois,subject_verb_agreement
+Je prends en silence.,Je prennent en silence.,Je,Je,prends,subject_verb_agreement
+Nous venons en silence.,Nous viennent en silence.,Nous,Nous,venons,subject_verb_agreement
+Elle vient en silence.,Elle viens en silence.,Elle,Elle,vient,subject_verb_agreement
+Vous venez avec ses amis.,Vous vient avec ses amis.,Vous,Vous,venez,subject_verb_agreement
+Ils finissent tous les jours.,Ils finis tous les jours.,Ils,Ils,finissent,subject_verb_agreement
+Le garçon voit au marché.,Le garçon vois au marché.,Le garçon,Le garçon,voit,subject_verb_agreement
+Tu parles rapidement.,Tu parle rapidement.,Tu,Tu,parles,subject_verb_agreement
+Les filles prennent pendant le week-end.,Les filles prends pendant le week-end.,Les filles,Les filles,prennent,subject_verb_agreement
+Les filles finissent chez moi.,Les filles finit chez moi.,Les filles,Les filles,finissent,subject_verb_agreement
+Nous prenons au marché.,Nous prend au marché.,Nous,Nous,prenons,subject_verb_agreement
+Je prends à l'école.,Je prenons à l'école.,Je,Je,prends,subject_verb_agreement
+Tu finis à l'école.,Tu finissez à l'école.,Tu,Tu,finis,subject_verb_agreement
+Les garçons viennent au marché.,Les garçons vient au marché.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Le garçon voit à l'école.,Le garçon vois à l'école.,Le garçon,Le garçon,voit,subject_verb_agreement
+Tu viens chez moi.,Tu viennent chez moi.,Tu,Tu,viens,subject_verb_agreement
+Ils finissent pendant le week-end.,Ils finissons pendant le week-end.,Ils,Ils,finissent,subject_verb_agreement
+Tu prends en silence.,Tu prenons en silence.,Tu,Tu,prends,subject_verb_agreement
+On parle au marché.,On parlons au marché.,On,On,parle,subject_verb_agreement
+Je viens le matin.,Je viennent le matin.,Je,Je,viens,subject_verb_agreement
+Les garçons viennent au marché.,Les garçons vient au marché.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Le garçon vient avec ses amis.,Le garçon viens avec ses amis.,Le garçon,Le garçon,vient,subject_verb_agreement
+Le garçon vient rapidement.,Le garçon venez rapidement.,Le garçon,Le garçon,vient,subject_verb_agreement
+Nous finissons tous les jours.,Nous finis tous les jours.,Nous,Nous,finissons,subject_verb_agreement
+Je finis pendant le week-end.,Je finit pendant le week-end.,Je,Je,finis,subject_verb_agreement
+On parle en été.,On parlons en été.,On,On,parle,subject_verb_agreement
+La fille prend pendant le week-end.,La fille prends pendant le week-end.,La fille,La fille,prend,subject_verb_agreement
+On vient le matin.,On viennent le matin.,On,On,vient,subject_verb_agreement
+Le garçon voit à l'école.,Le garçon voyons à l'école.,Le garçon,Le garçon,voit,subject_verb_agreement
+Le garçon parle pendant le week-end.,Le garçon parlons pendant le week-end.,Le garçon,Le garçon,parle,subject_verb_agreement
+Les filles viennent au marché.,Les filles viens au marché.,Les filles,Les filles,viennent,subject_verb_agreement
+Nous finissons chez moi.,Nous finit chez moi.,Nous,Nous,finissons,subject_verb_agreement
+Ils finissent rapidement.,Ils finissons rapidement.,Ils,Ils,finissent,subject_verb_agreement
+La fille parle chez moi.,La fille parlez chez moi.,La fille,La fille,parle,subject_verb_agreement
+Je parle avec ses amis.,Je parlez avec ses amis.,Je,Je,parle,subject_verb_agreement
+Nous prenons chez moi.,Nous prend chez moi.,Nous,Nous,prenons,subject_verb_agreement
+Nous prenons avec ses amis.,Nous prends avec ses amis.,Nous,Nous,prenons,subject_verb_agreement
+Ils voient le matin.,Ils vois le matin.,Ils,Ils,voient,subject_verb_agreement
+Elle vient au marché.,Elle viennent au marché.,Elle,Elle,vient,subject_verb_agreement
+Tu parles en été.,Tu parlent en été.,Tu,Tu,parles,subject_verb_agreement
+Vous venez le matin.,Vous viens le matin.,Vous,Vous,venez,subject_verb_agreement
+La fille vient en été.,La fille viennent en été.,La fille,La fille,vient,subject_verb_agreement
+Je viens tous les jours.,Je vient tous les jours.,Je,Je,viens,subject_verb_agreement
+Nous prenons tous les jours.,Nous prend tous les jours.,Nous,Nous,prenons,subject_verb_agreement
+Vous venez tous les jours.,Vous vient tous les jours.,Vous,Vous,venez,subject_verb_agreement
+Les garçons voient chez moi.,Les garçons voyons chez moi.,Les garçons,Les garçons,voient,subject_verb_agreement
+Je vois rapidement.,Je voyez rapidement.,Je,Je,vois,subject_verb_agreement
+La fille finit chez moi.,La fille finissent chez moi.,La fille,La fille,finit,subject_verb_agreement
+Vous venez le matin.,Vous viennent le matin.,Vous,Vous,venez,subject_verb_agreement
+Je prends avec ses amis.,Je prend avec ses amis.,Je,Je,prends,subject_verb_agreement
+Le garçon parle le matin.,Le garçon parles le matin.,Le garçon,Le garçon,parle,subject_verb_agreement
+Je parle en été.,Je parlent en été.,Je,Je,parle,subject_verb_agreement
+Les garçons prennent avec ses amis.,Les garçons prenons avec ses amis.,Les garçons,Les garçons,prennent,subject_verb_agreement
+Les filles voient tous les jours.,Les filles voit tous les jours.,Les filles,Les filles,voient,subject_verb_agreement
+La fille finit rapidement.,La fille finis rapidement.,La fille,La fille,finit,subject_verb_agreement
+Je finis chez moi.,Je finissez chez moi.,Je,Je,finis,subject_verb_agreement
+Nous finissons au marché.,Nous finissent au marché.,Nous,Nous,finissons,subject_verb_agreement
+Tu viens chez moi.,Tu venez chez moi.,Tu,Tu,viens,subject_verb_agreement
+Tu finis tous les jours.,Tu finit tous les jours.,Tu,Tu,finis,subject_verb_agreement
+On finit chez moi.,On finissent chez moi.,On,On,finit,subject_verb_agreement
+Tu vois en été.,Tu voit en été.,Tu,Tu,vois,subject_verb_agreement
+Tu prends le matin.,Tu prenez le matin.,Tu,Tu,prends,subject_verb_agreement
+Il finit en été.,Il finissent en été.,Il,Il,finit,subject_verb_agreement
+Ils viennent rapidement.,Ils viens rapidement.,Ils,Ils,viennent,subject_verb_agreement
+On finit au marché.,On finissons au marché.,On,On,finit,subject_verb_agreement
+Je viens rapidement.,Je vient rapidement.,Je,Je,viens,subject_verb_agreement
+Elle vient en été.,Elle venez en été.,Elle,Elle,vient,subject_verb_agreement
+Je vois pendant le week-end.,Je voient pendant le week-end.,Je,Je,vois,subject_verb_agreement
+Les filles viennent le matin.,Les filles vient le matin.,Les filles,Les filles,viennent,subject_verb_agreement
+Le garçon finit avec ses amis.,Le garçon finissent avec ses amis.,Le garçon,Le garçon,finit,subject_verb_agreement
+Les garçons finissent avec ses amis.,Les garçons finis avec ses amis.,Les garçons,Les garçons,finissent,subject_verb_agreement
+Je vois chez moi.,Je voyez chez moi.,Je,Je,vois,subject_verb_agreement
+On vient au marché.,On venons au marché.,On,On,vient,subject_verb_agreement
+Je vois rapidement.,Je voyez rapidement.,Je,Je,vois,subject_verb_agreement
+Tu parles tous les jours.,Tu parle tous les jours.,Tu,Tu,parles,subject_verb_agreement
+Elle voit au marché.,Elle voyons au marché.,Elle,Elle,voit,subject_verb_agreement
+Tu vois tous les jours.,Tu voit tous les jours.,Tu,Tu,vois,subject_verb_agreement
+Elles prennent rapidement.,Elles prenez rapidement.,Elles,Elles,prennent,subject_verb_agreement
+Elles finissent rapidement.,Elles finissez rapidement.,Elles,Elles,finissent,subject_verb_agreement
+Nous finissons chez moi.,Nous finit chez moi.,Nous,Nous,finissons,subject_verb_agreement
+Tu vois à l'école.,Tu voyez à l'école.,Tu,Tu,vois,subject_verb_agreement
+Je viens au marché.,Je vient au marché.,Je,Je,viens,subject_verb_agreement
+On voit le matin.,On voient le matin.,On,On,voit,subject_verb_agreement
+Elles parlent tous les jours.,Elles parles tous les jours.,Elles,Elles,parlent,subject_verb_agreement
+Elles finissent avec ses amis.,Elles finit avec ses amis.,Elles,Elles,finissent,subject_verb_agreement
+Vous finissez avec ses amis.,Vous finis avec ses amis.,Vous,Vous,finissez,subject_verb_agreement
+Nous finissons le matin.,Nous finissez le matin.,Nous,Nous,finissons,subject_verb_agreement
+Tu parles tous les jours.,Tu parle tous les jours.,Tu,Tu,parles,subject_verb_agreement
+Tu viens le matin.,Tu vient le matin.,Tu,Tu,viens,subject_verb_agreement
+Tu prends tous les jours.,Tu prennent tous les jours.,Tu,Tu,prends,subject_verb_agreement
+Ils voient à l'école.,Ils voit à l'école.,Ils,Ils,voient,subject_verb_agreement
+Vous prenez pendant le week-end.,Vous prennent pendant le week-end.,Vous,Vous,prenez,subject_verb_agreement
+Tu viens chez moi.,Tu viennent chez moi.,Tu,Tu,viens,subject_verb_agreement
+Le garçon parle tous les jours.,Le garçon parlent tous les jours.,Le garçon,Le garçon,parle,subject_verb_agreement
+Ils prennent avec ses amis.,Ils prenez avec ses amis.,Ils,Ils,prennent,subject_verb_agreement
+Tu prends au marché.,Tu prenez au marché.,Tu,Tu,prends,subject_verb_agreement
+On finit tous les jours.,On finissez tous les jours.,On,On,finit,subject_verb_agreement
+Le garçon finit avec ses amis.,Le garçon finissez avec ses amis.,Le garçon,Le garçon,finit,subject_verb_agreement
+Les garçons voient pendant le week-end.,Les garçons voit pendant le week-end.,Les garçons,Les garçons,voient,subject_verb_agreement
+Je prends en été.,Je prennent en été.,Je,Je,prends,subject_verb_agreement
+Je prends en été.,Je prennent en été.,Je,Je,prends,subject_verb_agreement
+Ils prennent au marché.,Ils prends au marché.,Ils,Ils,prennent,subject_verb_agreement
+Tu vois rapidement.,Tu voyez rapidement.,Tu,Tu,vois,subject_verb_agreement
+Nous voyons en silence.,Nous voient en silence.,Nous,Nous,voyons,subject_verb_agreement
+Nous finissons le matin.,Nous finissent le matin.,Nous,Nous,finissons,subject_verb_agreement
+Les garçons viennent chez moi.,Les garçons viens chez moi.,Les garçons,Les garçons,viennent,subject_verb_agreement
+La fille vient en silence.,La fille viens en silence.,La fille,La fille,vient,subject_verb_agreement
+Ils prennent en été.,Ils prenons en été.,Ils,Ils,prennent,subject_verb_agreement
+Nous finissons en été.,Nous finissez en été.,Nous,Nous,finissons,subject_verb_agreement
+Vous venez chez moi.,Vous viens chez moi.,Vous,Vous,venez,subject_verb_agreement
+Elle vient rapidement.,Elle venez rapidement.,Elle,Elle,vient,subject_verb_agreement
+Tu viens tous les jours.,Tu viennent tous les jours.,Tu,Tu,viens,subject_verb_agreement
+Tu vois au marché.,Tu voient au marché.,Tu,Tu,vois,subject_verb_agreement
+Nous venons rapidement.,Nous venez rapidement.,Nous,Nous,venons,subject_verb_agreement
+Elles parlent en été.,Elles parles en été.,Elles,Elles,parlent,subject_verb_agreement
+Les filles voient en été.,Les filles vois en été.,Les filles,Les filles,voient,subject_verb_agreement
+Elle vient en été.,Elle viennent en été.,Elle,Elle,vient,subject_verb_agreement
+Il voit au marché.,Il voyons au marché.,Il,Il,voit,subject_verb_agreement
+Nous venons chez moi.,Nous viennent chez moi.,Nous,Nous,venons,subject_verb_agreement
+Vous prenez pendant le week-end.,Vous prends pendant le week-end.,Vous,Vous,prenez,subject_verb_agreement
+On prend à l'école.,On prenons à l'école.,On,On,prend,subject_verb_agreement
+Les garçons viennent tous les jours.,Les garçons vient tous les jours.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Vous prenez en silence.,Vous prend en silence.,Vous,Vous,prenez,subject_verb_agreement
+Ils parlent le matin.,Ils parle le matin.,Ils,Ils,parlent,subject_verb_agreement
+Ils parlent au marché.,Ils parle au marché.,Ils,Ils,parlent,subject_verb_agreement
+Il parle en été.,Il parlez en été.,Il,Il,parle,subject_verb_agreement
+Elle prend à l'école.,Elle prends à l'école.,Elle,Elle,prend,subject_verb_agreement
+Ils parlent à l'école.,Ils parles à l'école.,Ils,Ils,parlent,subject_verb_agreement
+On finit avec ses amis.,On finis avec ses amis.,On,On,finit,subject_verb_agreement
+Vous prenez à l'école.,Vous prends à l'école.,Vous,Vous,prenez,subject_verb_agreement
+Ils viennent à l'école.,Ils vient à l'école.,Ils,Ils,viennent,subject_verb_agreement
+Tu prends chez moi.,Tu prend chez moi.,Tu,Tu,prends,subject_verb_agreement
+Le garçon parle à l'école.,Le garçon parles à l'école.,Le garçon,Le garçon,parle,subject_verb_agreement
+Nous finissons tous les jours.,Nous finit tous les jours.,Nous,Nous,finissons,subject_verb_agreement
+Les filles voient avec ses amis.,Les filles vois avec ses amis.,Les filles,Les filles,voient,subject_verb_agreement
+Nous venons rapidement.,Nous vient rapidement.,Nous,Nous,venons,subject_verb_agreement
+On prend à l'école.,On prends à l'école.,On,On,prend,subject_verb_agreement
+Tu finis le matin.,Tu finit le matin.,Tu,Tu,finis,subject_verb_agreement
+Je finis le matin.,Je finit le matin.,Je,Je,finis,subject_verb_agreement
+Les filles parlent au marché.,Les filles parlez au marché.,Les filles,Les filles,parlent,subject_verb_agreement
+Vous finissez pendant le week-end.,Vous finissons pendant le week-end.,Vous,Vous,finissez,subject_verb_agreement
+Les filles viennent le matin.,Les filles vient le matin.,Les filles,Les filles,viennent,subject_verb_agreement
+Elle prend pendant le week-end.,Elle prends pendant le week-end.,Elle,Elle,prend,subject_verb_agreement
+Le garçon vient en silence.,Le garçon venons en silence.,Le garçon,Le garçon,vient,subject_verb_agreement
+On prend au marché.,On prennent au marché.,On,On,prend,subject_verb_agreement
+Les filles prennent en silence.,Les filles prends en silence.,Les filles,Les filles,prennent,subject_verb_agreement
+Tu viens à l'école.,Tu venez à l'école.,Tu,Tu,viens,subject_verb_agreement
+Tu finis rapidement.,Tu finissons rapidement.,Tu,Tu,finis,subject_verb_agreement
+Ils prennent tous les jours.,Ils prenez tous les jours.,Ils,Ils,prennent,subject_verb_agreement
+Tu prends en silence.,Tu prenez en silence.,Tu,Tu,prends,subject_verb_agreement
+Je parle rapidement.,Je parlons rapidement.,Je,Je,parle,subject_verb_agreement
+Je finis en été.,Je finit en été.,Je,Je,finis,subject_verb_agreement
+Ils voient en silence.,Ils vois en silence.,Ils,Ils,voient,subject_verb_agreement
+Il prend pendant le week-end.,Il prennent pendant le week-end.,Il,Il,prend,subject_verb_agreement
+Je prends tous les jours.,Je prenez tous les jours.,Je,Je,prends,subject_verb_agreement
+On parle en silence.,On parles en silence.,On,On,parle,subject_verb_agreement
+Tu prends à l'école.,Tu prenez à l'école.,Tu,Tu,prends,subject_verb_agreement
+Les filles voient pendant le week-end.,Les filles voit pendant le week-end.,Les filles,Les filles,voient,subject_verb_agreement
+La fille finit pendant le week-end.,La fille finissons pendant le week-end.,La fille,La fille,finit,subject_verb_agreement
+Je parle au marché.,Je parlent au marché.,Je,Je,parle,subject_verb_agreement
+Nous venons avec ses amis.,Nous vient avec ses amis.,Nous,Nous,venons,subject_verb_agreement
+Nous parlons en silence.,Nous parlent en silence.,Nous,Nous,parlons,subject_verb_agreement
+Elle prend pendant le week-end.,Elle prends pendant le week-end.,Elle,Elle,prend,subject_verb_agreement
+Vous voyez le matin.,Vous voient le matin.,Vous,Vous,voyez,subject_verb_agreement
+La fille finit le matin.,La fille finissez le matin.,La fille,La fille,finit,subject_verb_agreement
+Ils viennent pendant le week-end.,Ils venons pendant le week-end.,Ils,Ils,viennent,subject_verb_agreement
+Je parle pendant le week-end.,Je parlez pendant le week-end.,Je,Je,parle,subject_verb_agreement
+Tu finis le matin.,Tu finissent le matin.,Tu,Tu,finis,subject_verb_agreement
+Tu viens pendant le week-end.,Tu viennent pendant le week-end.,Tu,Tu,viens,subject_verb_agreement
+Nous finissons en silence.,Nous finissent en silence.,Nous,Nous,finissons,subject_verb_agreement
+Nous finissons à l'école.,Nous finissez à l'école.,Nous,Nous,finissons,subject_verb_agreement
+Il vient au marché.,Il viennent au marché.,Il,Il,vient,subject_verb_agreement
+Nous venons pendant le week-end.,Nous viennent pendant le week-end.,Nous,Nous,venons,subject_verb_agreement
+Je finis pendant le week-end.,Je finissez pendant le week-end.,Je,Je,finis,subject_verb_agreement
+Il vient à l'école.,Il viennent à l'école.,Il,Il,vient,subject_verb_agreement
+Ils voient le matin.,Ils voit le matin.,Ils,Ils,voient,subject_verb_agreement
+Ils prennent rapidement.,Ils prend rapidement.,Ils,Ils,prennent,subject_verb_agreement
+Elle vient pendant le week-end.,Elle viennent pendant le week-end.,Elle,Elle,vient,subject_verb_agreement
+Elles viennent avec ses amis.,Elles venez avec ses amis.,Elles,Elles,viennent,subject_verb_agreement
+Tu finis le matin.,Tu finissent le matin.,Tu,Tu,finis,subject_verb_agreement
+Les filles voient le matin.,Les filles vois le matin.,Les filles,Les filles,voient,subject_verb_agreement
+Vous finissez au marché.,Vous finit au marché.,Vous,Vous,finissez,subject_verb_agreement
+On vient le matin.,On viens le matin.,On,On,vient,subject_verb_agreement
+Tu parles pendant le week-end.,Tu parlez pendant le week-end.,Tu,Tu,parles,subject_verb_agreement
+Elles finissent chez moi.,Elles finis chez moi.,Elles,Elles,finissent,subject_verb_agreement
+Tu finis le matin.,Tu finit le matin.,Tu,Tu,finis,subject_verb_agreement
+On finit à l'école.,On finissons à l'école.,On,On,finit,subject_verb_agreement
+Il vient le matin.,Il viens le matin.,Il,Il,vient,subject_verb_agreement
+Je finis tous les jours.,Je finissons tous les jours.,Je,Je,finis,subject_verb_agreement
+Vous parlez le matin.,Vous parles le matin.,Vous,Vous,parlez,subject_verb_agreement
+Il voit chez moi.,Il voient chez moi.,Il,Il,voit,subject_verb_agreement
+Je finis avec ses amis.,Je finissent avec ses amis.,Je,Je,finis,subject_verb_agreement
+La fille prend pendant le week-end.,La fille prenez pendant le week-end.,La fille,La fille,prend,subject_verb_agreement
+On prend pendant le week-end.,On prends pendant le week-end.,On,On,prend,subject_verb_agreement
+Ils prennent pendant le week-end.,Ils prends pendant le week-end.,Ils,Ils,prennent,subject_verb_agreement
+Nous venons chez moi.,Nous viennent chez moi.,Nous,Nous,venons,subject_verb_agreement
+Tu parles chez moi.,Tu parlent chez moi.,Tu,Tu,parles,subject_verb_agreement
+Il vient à l'école.,Il viens à l'école.,Il,Il,vient,subject_verb_agreement
+Les filles viennent tous les jours.,Les filles vient tous les jours.,Les filles,Les filles,viennent,subject_verb_agreement
+Vous voyez à l'école.,Vous voit à l'école.,Vous,Vous,voyez,subject_verb_agreement
+Nous venons chez moi.,Nous viennent chez moi.,Nous,Nous,venons,subject_verb_agreement
+Vous voyez en été.,Vous vois en été.,Vous,Vous,voyez,subject_verb_agreement
+Je viens le matin.,Je venez le matin.,Je,Je,viens,subject_verb_agreement
+Le garçon finit pendant le week-end.,Le garçon finissent pendant le week-end.,Le garçon,Le garçon,finit,subject_verb_agreement
+Nous voyons en silence.,Nous voient en silence.,Nous,Nous,voyons,subject_verb_agreement
+Vous parlez rapidement.,Vous parle rapidement.,Vous,Vous,parlez,subject_verb_agreement
+Le garçon parle tous les jours.,Le garçon parlent tous les jours.,Le garçon,Le garçon,parle,subject_verb_agreement
+Tu parles pendant le week-end.,Tu parle pendant le week-end.,Tu,Tu,parles,subject_verb_agreement
+Les garçons finissent tous les jours.,Les garçons finissons tous les jours.,Les garçons,Les garçons,finissent,subject_verb_agreement
+Je viens le matin.,Je venez le matin.,Je,Je,viens,subject_verb_agreement
+On voit avec ses amis.,On voient avec ses amis.,On,On,voit,subject_verb_agreement
+Nous voyons à l'école.,Nous voient à l'école.,Nous,Nous,voyons,subject_verb_agreement
+Elle prend pendant le week-end.,Elle prenez pendant le week-end.,Elle,Elle,prend,subject_verb_agreement
+Ils parlent avec ses amis.,Ils parlez avec ses amis.,Ils,Ils,parlent,subject_verb_agreement
+Vous venez en silence.,Vous viennent en silence.,Vous,Vous,venez,subject_verb_agreement
+Nous finissons en été.,Nous finis en été.,Nous,Nous,finissons,subject_verb_agreement
+Le garçon finit tous les jours.,Le garçon finis tous les jours.,Le garçon,Le garçon,finit,subject_verb_agreement
+On vient pendant le week-end.,On viennent pendant le week-end.,On,On,vient,subject_verb_agreement
+Tu vois avec ses amis.,Tu voient avec ses amis.,Tu,Tu,vois,subject_verb_agreement
+Les garçons voient avec ses amis.,Les garçons voit avec ses amis.,Les garçons,Les garçons,voient,subject_verb_agreement
+Ils parlent chez moi.,Ils parle chez moi.,Ils,Ils,parlent,subject_verb_agreement
+Nous prenons en été.,Nous prend en été.,Nous,Nous,prenons,subject_verb_agreement
+Le garçon voit en été.,Le garçon voient en été.,Le garçon,Le garçon,voit,subject_verb_agreement
+Vous venez avec ses amis.,Vous vient avec ses amis.,Vous,Vous,venez,subject_verb_agreement
+Elles parlent le matin.,Elles parle le matin.,Elles,Elles,parlent,subject_verb_agreement
+Nous venons pendant le week-end.,Nous viennent pendant le week-end.,Nous,Nous,venons,subject_verb_agreement
+Je finis en silence.,Je finit en silence.,Je,Je,finis,subject_verb_agreement
+Elle voit à l'école.,Elle voyez à l'école.,Elle,Elle,voit,subject_verb_agreement
+Vous finissez chez moi.,Vous finissons chez moi.,Vous,Vous,finissez,subject_verb_agreement
+Les garçons viennent en silence.,Les garçons vient en silence.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Tu finis rapidement.,Tu finit rapidement.,Tu,Tu,finis,subject_verb_agreement
+Il finit rapidement.,Il finissez rapidement.,Il,Il,finit,subject_verb_agreement
+Je parle pendant le week-end.,Je parles pendant le week-end.,Je,Je,parle,subject_verb_agreement
+Les garçons prennent tous les jours.,Les garçons prends tous les jours.,Les garçons,Les garçons,prennent,subject_verb_agreement
+On vient le matin.,On viennent le matin.,On,On,vient,subject_verb_agreement
+On parle pendant le week-end.,On parlent pendant le week-end.,On,On,parle,subject_verb_agreement
+Elle voit au marché.,Elle voyez au marché.,Elle,Elle,voit,subject_verb_agreement
+Nous voyons avec ses amis.,Nous voit avec ses amis.,Nous,Nous,voyons,subject_verb_agreement
+Il finit au marché.,Il finissons au marché.,Il,Il,finit,subject_verb_agreement
+Les filles prennent chez moi.,Les filles prend chez moi.,Les filles,Les filles,prennent,subject_verb_agreement
+Elle prend le matin.,Elle prennent le matin.,Elle,Elle,prend,subject_verb_agreement
+Je parle en silence.,Je parles en silence.,Je,Je,parle,subject_verb_agreement
+Il parle à l'école.,Il parlez à l'école.,Il,Il,parle,subject_verb_agreement
+La fille parle pendant le week-end.,La fille parlons pendant le week-end.,La fille,La fille,parle,subject_verb_agreement
+On parle au marché.,On parlons au marché.,On,On,parle,subject_verb_agreement
+Ils prennent au marché.,Ils prend au marché.,Ils,Ils,prennent,subject_verb_agreement
+Nous prenons chez moi.,Nous prennent chez moi.,Nous,Nous,prenons,subject_verb_agreement
+Nous parlons en été.,Nous parle en été.,Nous,Nous,parlons,subject_verb_agreement
+Elles parlent à l'école.,Elles parle à l'école.,Elles,Elles,parlent,subject_verb_agreement
+Nous voyons en silence.,Nous voyez en silence.,Nous,Nous,voyons,subject_verb_agreement
+Elles viennent avec ses amis.,Elles vient avec ses amis.,Elles,Elles,viennent,subject_verb_agreement
+Elle prend au marché.,Elle prends au marché.,Elle,Elle,prend,subject_verb_agreement
+Nous prenons rapidement.,Nous prends rapidement.,Nous,Nous,prenons,subject_verb_agreement
+Il voit tous les jours.,Il vois tous les jours.,Il,Il,voit,subject_verb_agreement
+Nous voyons à l'école.,Nous vois à l'école.,Nous,Nous,voyons,subject_verb_agreement
+Ils viennent en été.,Ils viens en été.,Ils,Ils,viennent,subject_verb_agreement
+Les garçons viennent à l'école.,Les garçons viens à l'école.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Les garçons voient pendant le week-end.,Les garçons voyez pendant le week-end.,Les garçons,Les garçons,voient,subject_verb_agreement
+Elle prend le matin.,Elle prennent le matin.,Elle,Elle,prend,subject_verb_agreement
+Ils voient pendant le week-end.,Ils vois pendant le week-end.,Ils,Ils,voient,subject_verb_agreement
+Il voit le matin.,Il voyons le matin.,Il,Il,voit,subject_verb_agreement
+Elle finit tous les jours.,Elle finis tous les jours.,Elle,Elle,finit,subject_verb_agreement
+Les filles voient au marché.,Les filles voyons au marché.,Les filles,Les filles,voient,subject_verb_agreement
+Il finit chez moi.,Il finissons chez moi.,Il,Il,finit,subject_verb_agreement
+Le garçon finit rapidement.,Le garçon finissons rapidement.,Le garçon,Le garçon,finit,subject_verb_agreement
+Il finit rapidement.,Il finissent rapidement.,Il,Il,finit,subject_verb_agreement
+Nous prenons chez moi.,Nous prend chez moi.,Nous,Nous,prenons,subject_verb_agreement
+Ils prennent le matin.,Ils prend le matin.,Ils,Ils,prennent,subject_verb_agreement
+Vous venez en été.,Vous viennent en été.,Vous,Vous,venez,subject_verb_agreement
+Elle parle rapidement.,Elle parles rapidement.,Elle,Elle,parle,subject_verb_agreement
+Les garçons viennent au marché.,Les garçons venons au marché.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Le garçon finit en silence.,Le garçon finissent en silence.,Le garçon,Le garçon,finit,subject_verb_agreement
+Il finit tous les jours.,Il finissent tous les jours.,Il,Il,finit,subject_verb_agreement
+Le garçon parle le matin.,Le garçon parlons le matin.,Le garçon,Le garçon,parle,subject_verb_agreement
+Les filles finissent avec ses amis.,Les filles finit avec ses amis.,Les filles,Les filles,finissent,subject_verb_agreement
+Il vient au marché.,Il viens au marché.,Il,Il,vient,subject_verb_agreement
+Je parle tous les jours.,Je parlent tous les jours.,Je,Je,parle,subject_verb_agreement
+Ils finissent à l'école.,Ils finit à l'école.,Ils,Ils,finissent,subject_verb_agreement
+Elles parlent au marché.,Elles parles au marché.,Elles,Elles,parlent,subject_verb_agreement
+Nous prenons rapidement.,Nous prend rapidement.,Nous,Nous,prenons,subject_verb_agreement
+Nous prenons rapidement.,Nous prends rapidement.,Nous,Nous,prenons,subject_verb_agreement
+Les filles prennent tous les jours.,Les filles prend tous les jours.,Les filles,Les filles,prennent,subject_verb_agreement
+Elles voient en silence.,Elles voit en silence.,Elles,Elles,voient,subject_verb_agreement
+Je prends en été.,Je prend en été.,Je,Je,prends,subject_verb_agreement
+La fille vient le matin.,La fille viens le matin.,La fille,La fille,vient,subject_verb_agreement
+Ils parlent en été.,Ils parlons en été.,Ils,Ils,parlent,subject_verb_agreement
+On parle avec ses amis.,On parlez avec ses amis.,On,On,parle,subject_verb_agreement
+Nous prenons en été.,Nous prennent en été.,Nous,Nous,prenons,subject_verb_agreement
+Les garçons viennent avec ses amis.,Les garçons vient avec ses amis.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Elles prennent en été.,Elles prend en été.,Elles,Elles,prennent,subject_verb_agreement
+On voit à l'école.,On voyez à l'école.,On,On,voit,subject_verb_agreement
+Elles finissent pendant le week-end.,Elles finis pendant le week-end.,Elles,Elles,finissent,subject_verb_agreement
+Vous venez au marché.,Vous vient au marché.,Vous,Vous,venez,subject_verb_agreement
+Nous voyons en été.,Nous vois en été.,Nous,Nous,voyons,subject_verb_agreement
+Le garçon voit chez moi.,Le garçon vois chez moi.,Le garçon,Le garçon,voit,subject_verb_agreement
+Le garçon voit chez moi.,Le garçon voient chez moi.,Le garçon,Le garçon,voit,subject_verb_agreement
+Le garçon finit à l'école.,Le garçon finis à l'école.,Le garçon,Le garçon,finit,subject_verb_agreement
+Nous parlons avec ses amis.,Nous parlez avec ses amis.,Nous,Nous,parlons,subject_verb_agreement
+Les filles prennent avec ses amis.,Les filles prend avec ses amis.,Les filles,Les filles,prennent,subject_verb_agreement
+La fille vient avec ses amis.,La fille venez avec ses amis.,La fille,La fille,vient,subject_verb_agreement
+Nous prenons le matin.,Nous prennent le matin.,Nous,Nous,prenons,subject_verb_agreement
+Ils voient le matin.,Ils voyons le matin.,Ils,Ils,voient,subject_verb_agreement
+Nous venons en été.,Nous viens en été.,Nous,Nous,venons,subject_verb_agreement
+La fille finit tous les jours.,La fille finissez tous les jours.,La fille,La fille,finit,subject_verb_agreement
+Je viens tous les jours.,Je vient tous les jours.,Je,Je,viens,subject_verb_agreement
+Je finis le matin.,Je finissent le matin.,Je,Je,finis,subject_verb_agreement
+On finit en été.,On finissez en été.,On,On,finit,subject_verb_agreement
+La fille voit chez moi.,La fille voyons chez moi.,La fille,La fille,voit,subject_verb_agreement
+On voit rapidement.,On vois rapidement.,On,On,voit,subject_verb_agreement
+Je vois avec ses amis.,Je voit avec ses amis.,Je,Je,vois,subject_verb_agreement
+Nous voyons rapidement.,Nous vois rapidement.,Nous,Nous,voyons,subject_verb_agreement
+Vous parlez à l'école.,Vous parles à l'école.,Vous,Vous,parlez,subject_verb_agreement
+Les garçons prennent à l'école.,Les garçons prends à l'école.,Les garçons,Les garçons,prennent,subject_verb_agreement
+On vient en été.,On viennent en été.,On,On,vient,subject_verb_agreement
+Le garçon prend au marché.,Le garçon prenez au marché.,Le garçon,Le garçon,prend,subject_verb_agreement
+Vous voyez avec ses amis.,Vous voient avec ses amis.,Vous,Vous,voyez,subject_verb_agreement
+Vous venez rapidement.,Vous viennent rapidement.,Vous,Vous,venez,subject_verb_agreement
+Elle prend avec ses amis.,Elle prennent avec ses amis.,Elle,Elle,prend,subject_verb_agreement
+On prend tous les jours.,On prends tous les jours.,On,On,prend,subject_verb_agreement
+Le garçon voit chez moi.,Le garçon vois chez moi.,Le garçon,Le garçon,voit,subject_verb_agreement
+Elle vient le matin.,Elle venez le matin.,Elle,Elle,vient,subject_verb_agreement
+Je parle à l'école.,Je parlent à l'école.,Je,Je,parle,subject_verb_agreement
+Nous venons rapidement.,Nous venez rapidement.,Nous,Nous,venons,subject_verb_agreement
+Ils parlent en été.,Ils parle en été.,Ils,Ils,parlent,subject_verb_agreement
+Nous venons rapidement.,Nous viennent rapidement.,Nous,Nous,venons,subject_verb_agreement
+Tu vois rapidement.,Tu voient rapidement.,Tu,Tu,vois,subject_verb_agreement
+Nous voyons rapidement.,Nous vois rapidement.,Nous,Nous,voyons,subject_verb_agreement
+On voit tous les jours.,On vois tous les jours.,On,On,voit,subject_verb_agreement
+Tu prends avec ses amis.,Tu prend avec ses amis.,Tu,Tu,prends,subject_verb_agreement
+Elles parlent avec ses amis.,Elles parle avec ses amis.,Elles,Elles,parlent,subject_verb_agreement
+On voit à l'école.,On voient à l'école.,On,On,voit,subject_verb_agreement
+On finit au marché.,On finissent au marché.,On,On,finit,subject_verb_agreement
+Ils viennent en été.,Ils venez en été.,Ils,Ils,viennent,subject_verb_agreement
+On prend le matin.,On prennent le matin.,On,On,prend,subject_verb_agreement
+Je finis rapidement.,Je finit rapidement.,Je,Je,finis,subject_verb_agreement
+Les filles parlent rapidement.,Les filles parlez rapidement.,Les filles,Les filles,parlent,subject_verb_agreement
+On voit avec ses amis.,On voient avec ses amis.,On,On,voit,subject_verb_agreement
+Vous finissez rapidement.,Vous finissons rapidement.,Vous,Vous,finissez,subject_verb_agreement
+Vous voyez le matin.,Vous voyons le matin.,Vous,Vous,voyez,subject_verb_agreement
+Vous venez tous les jours.,Vous viens tous les jours.,Vous,Vous,venez,subject_verb_agreement
+Elle parle en silence.,Elle parlons en silence.,Elle,Elle,parle,subject_verb_agreement
+Les filles viennent au marché.,Les filles vient au marché.,Les filles,Les filles,viennent,subject_verb_agreement
+Nous venons en été.,Nous vient en été.,Nous,Nous,venons,subject_verb_agreement
+Vous voyez avec ses amis.,Vous voit avec ses amis.,Vous,Vous,voyez,subject_verb_agreement
+La fille voit chez moi.,La fille voient chez moi.,La fille,La fille,voit,subject_verb_agreement
+On parle rapidement.,On parlent rapidement.,On,On,parle,subject_verb_agreement
+Nous venons avec ses amis.,Nous vient avec ses amis.,Nous,Nous,venons,subject_verb_agreement
+La fille finit le matin.,La fille finissons le matin.,La fille,La fille,finit,subject_verb_agreement
+Les garçons voient à l'école.,Les garçons vois à l'école.,Les garçons,Les garçons,voient,subject_verb_agreement
+Elle parle au marché.,Elle parles au marché.,Elle,Elle,parle,subject_verb_agreement
+Elle finit chez moi.,Elle finissent chez moi.,Elle,Elle,finit,subject_verb_agreement
+Je finis en été.,Je finissent en été.,Je,Je,finis,subject_verb_agreement
+Les garçons viennent tous les jours.,Les garçons viens tous les jours.,Les garçons,Les garçons,viennent,subject_verb_agreement
+On vient pendant le week-end.,On venons pendant le week-end.,On,On,vient,subject_verb_agreement
+La fille prend le matin.,La fille prends le matin.,La fille,La fille,prend,subject_verb_agreement
+Je parle en été.,Je parlez en été.,Je,Je,parle,subject_verb_agreement
+Ils viennent en silence.,Ils viens en silence.,Ils,Ils,viennent,subject_verb_agreement
+Il prend le matin.,Il prennent le matin.,Il,Il,prend,subject_verb_agreement
+Elles viennent pendant le week-end.,Elles venez pendant le week-end.,Elles,Elles,viennent,subject_verb_agreement
+Je prends avec ses amis.,Je prend avec ses amis.,Je,Je,prends,subject_verb_agreement
+On voit à l'école.,On vois à l'école.,On,On,voit,subject_verb_agreement
+Il parle rapidement.,Il parlons rapidement.,Il,Il,parle,subject_verb_agreement
+Il parle au marché.,Il parles au marché.,Il,Il,parle,subject_verb_agreement
+On voit pendant le week-end.,On voyons pendant le week-end.,On,On,voit,subject_verb_agreement
+On finit avec ses amis.,On finis avec ses amis.,On,On,finit,subject_verb_agreement
+Ils voient rapidement.,Ils voyez rapidement.,Ils,Ils,voient,subject_verb_agreement
+On prend à l'école.,On prennent à l'école.,On,On,prend,subject_verb_agreement
+Vous prenez avec ses amis.,Vous prenons avec ses amis.,Vous,Vous,prenez,subject_verb_agreement
+Nous finissons le matin.,Nous finissent le matin.,Nous,Nous,finissons,subject_verb_agreement
+Elle parle au marché.,Elle parlez au marché.,Elle,Elle,parle,subject_verb_agreement
+Le garçon vient le matin.,Le garçon viens le matin.,Le garçon,Le garçon,vient,subject_verb_agreement
+Vous parlez le matin.,Vous parlons le matin.,Vous,Vous,parlez,subject_verb_agreement
+Les garçons voient en été.,Les garçons vois en été.,Les garçons,Les garçons,voient,subject_verb_agreement
+Je finis rapidement.,Je finit rapidement.,Je,Je,finis,subject_verb_agreement
+Tu vois avec ses amis.,Tu voyez avec ses amis.,Tu,Tu,vois,subject_verb_agreement
+Ils finissent pendant le week-end.,Ils finit pendant le week-end.,Ils,Ils,finissent,subject_verb_agreement
+Ils parlent tous les jours.,Ils parlons tous les jours.,Ils,Ils,parlent,subject_verb_agreement
+Elle parle le matin.,Elle parlent le matin.,Elle,Elle,parle,subject_verb_agreement
+On prend avec ses amis.,On prends avec ses amis.,On,On,prend,subject_verb_agreement
+On finit au marché.,On finis au marché.,On,On,finit,subject_verb_agreement
+On prend en été.,On prennent en été.,On,On,prend,subject_verb_agreement
+Il vient avec ses amis.,Il viennent avec ses amis.,Il,Il,vient,subject_verb_agreement
+Vous parlez en été.,Vous parle en été.,Vous,Vous,parlez,subject_verb_agreement
+Les garçons viennent en été.,Les garçons venez en été.,Les garçons,Les garçons,viennent,subject_verb_agreement
+La fille prend au marché.,La fille prenez au marché.,La fille,La fille,prend,subject_verb_agreement
+Tu prends rapidement.,Tu prend rapidement.,Tu,Tu,prends,subject_verb_agreement
+Je vois pendant le week-end.,Je voient pendant le week-end.,Je,Je,vois,subject_verb_agreement
+Tu parles chez moi.,Tu parle chez moi.,Tu,Tu,parles,subject_verb_agreement
+Je vois en silence.,Je voient en silence.,Je,Je,vois,subject_verb_agreement
+Je viens chez moi.,Je viennent chez moi.,Je,Je,viens,subject_verb_agreement
+Je parle le matin.,Je parlent le matin.,Je,Je,parle,subject_verb_agreement
+Les filles prennent pendant le week-end.,Les filles prends pendant le week-end.,Les filles,Les filles,prennent,subject_verb_agreement
+Nous prenons tous les jours.,Nous prennent tous les jours.,Nous,Nous,prenons,subject_verb_agreement
+Elle voit en silence.,Elle voyons en silence.,Elle,Elle,voit,subject_verb_agreement
+Elles viennent en été.,Elles venez en été.,Elles,Elles,viennent,subject_verb_agreement
+La fille prend en silence.,La fille prends en silence.,La fille,La fille,prend,subject_verb_agreement
+Nous finissons en été.,Nous finit en été.,Nous,Nous,finissons,subject_verb_agreement
+On parle rapidement.,On parlez rapidement.,On,On,parle,subject_verb_agreement
+Ils prennent rapidement.,Ils prend rapidement.,Ils,Ils,prennent,subject_verb_agreement
+Tu viens rapidement.,Tu viennent rapidement.,Tu,Tu,viens,subject_verb_agreement
+Les garçons prennent en été.,Les garçons prend en été.,Les garçons,Les garçons,prennent,subject_verb_agreement
+Les filles parlent avec ses amis.,Les filles parle avec ses amis.,Les filles,Les filles,parlent,subject_verb_agreement
+Vous parlez pendant le week-end.,Vous parlons pendant le week-end.,Vous,Vous,parlez,subject_verb_agreement
+Nous venons en été.,Nous viens en été.,Nous,Nous,venons,subject_verb_agreement
+Les garçons voient au marché.,Les garçons vois au marché.,Les garçons,Les garçons,voient,subject_verb_agreement
+Tu parles à l'école.,Tu parlent à l'école.,Tu,Tu,parles,subject_verb_agreement
+On parle en été.,On parlez en été.,On,On,parle,subject_verb_agreement
+Ils prennent rapidement.,Ils prenons rapidement.,Ils,Ils,prennent,subject_verb_agreement
+Nous venons en silence.,Nous viens en silence.,Nous,Nous,venons,subject_verb_agreement
+Nous parlons le matin.,Nous parle le matin.,Nous,Nous,parlons,subject_verb_agreement
+Le garçon voit au marché.,Le garçon vois au marché.,Le garçon,Le garçon,voit,subject_verb_agreement
+Ils voient en été.,Ils voit en été.,Ils,Ils,voient,subject_verb_agreement
+Elle finit en silence.,Elle finissons en silence.,Elle,Elle,finit,subject_verb_agreement
+Nous prenons tous les jours.,Nous prenez tous les jours.,Nous,Nous,prenons,subject_verb_agreement
+Vous finissez avec ses amis.,Vous finissent avec ses amis.,Vous,Vous,finissez,subject_verb_agreement
+Vous parlez rapidement.,Vous parlent rapidement.,Vous,Vous,parlez,subject_verb_agreement
+Le garçon parle en silence.,Le garçon parlent en silence.,Le garçon,Le garçon,parle,subject_verb_agreement
+Je vois le matin.,Je voyons le matin.,Je,Je,vois,subject_verb_agreement
+Tu viens pendant le week-end.,Tu viennent pendant le week-end.,Tu,Tu,viens,subject_verb_agreement
+Je finis à l'école.,Je finissent à l'école.,Je,Je,finis,subject_verb_agreement
+Le garçon finit le matin.,Le garçon finis le matin.,Le garçon,Le garçon,finit,subject_verb_agreement
+Nous venons le matin.,Nous venez le matin.,Nous,Nous,venons,subject_verb_agreement
+La fille prend à l'école.,La fille prenons à l'école.,La fille,La fille,prend,subject_verb_agreement
+Vous parlez chez moi.,Vous parlons chez moi.,Vous,Vous,parlez,subject_verb_agreement
+Elle parle avec ses amis.,Elle parlez avec ses amis.,Elle,Elle,parle,subject_verb_agreement
+Elles voient le matin.,Elles vois le matin.,Elles,Elles,voient,subject_verb_agreement
+Tu finis au marché.,Tu finit au marché.,Tu,Tu,finis,subject_verb_agreement
+Les filles viennent chez moi.,Les filles venons chez moi.,Les filles,Les filles,viennent,subject_verb_agreement
+On prend en silence.,On prenez en silence.,On,On,prend,subject_verb_agreement
+On vient pendant le week-end.,On viennent pendant le week-end.,On,On,vient,subject_verb_agreement
+Elle vient en silence.,Elle viens en silence.,Elle,Elle,vient,subject_verb_agreement
+Nous prenons rapidement.,Nous prennent rapidement.,Nous,Nous,prenons,subject_verb_agreement
+Tu prends en silence.,Tu prenez en silence.,Tu,Tu,prends,subject_verb_agreement
+Les filles voient tous les jours.,Les filles vois tous les jours.,Les filles,Les filles,voient,subject_verb_agreement
+Nous parlons rapidement.,Nous parle rapidement.,Nous,Nous,parlons,subject_verb_agreement
+On finit pendant le week-end.,On finissent pendant le week-end.,On,On,finit,subject_verb_agreement
+Ils prennent en été.,Ils prends en été.,Ils,Ils,prennent,subject_verb_agreement
+Elle voit tous les jours.,Elle vois tous les jours.,Elle,Elle,voit,subject_verb_agreement
+Vous parlez avec ses amis.,Vous parlent avec ses amis.,Vous,Vous,parlez,subject_verb_agreement
+Nous voyons à l'école.,Nous voient à l'école.,Nous,Nous,voyons,subject_verb_agreement
+Elle vient au marché.,Elle viennent au marché.,Elle,Elle,vient,subject_verb_agreement
+Vous voyez en été.,Vous voit en été.,Vous,Vous,voyez,subject_verb_agreement
+Vous voyez en été.,Vous voit en été.,Vous,Vous,voyez,subject_verb_agreement
+Tu prends le matin.,Tu prennent le matin.,Tu,Tu,prends,subject_verb_agreement
+La fille vient en silence.,La fille venons en silence.,La fille,La fille,vient,subject_verb_agreement
+Les garçons finissent tous les jours.,Les garçons finissez tous les jours.,Les garçons,Les garçons,finissent,subject_verb_agreement
+Ils parlent chez moi.,Ils parle chez moi.,Ils,Ils,parlent,subject_verb_agreement
+Elles parlent en silence.,Elles parlons en silence.,Elles,Elles,parlent,subject_verb_agreement
+Ils parlent en silence.,Ils parle en silence.,Ils,Ils,parlent,subject_verb_agreement
+Vous parlez rapidement.,Vous parlent rapidement.,Vous,Vous,parlez,subject_verb_agreement
+Vous finissez en silence.,Vous finissons en silence.,Vous,Vous,finissez,subject_verb_agreement
+Les garçons prennent le matin.,Les garçons prenez le matin.,Les garçons,Les garçons,prennent,subject_verb_agreement
+La fille prend le matin.,La fille prennent le matin.,La fille,La fille,prend,subject_verb_agreement
+On vient chez moi.,On venez chez moi.,On,On,vient,subject_verb_agreement
+Vous parlez tous les jours.,Vous parle tous les jours.,Vous,Vous,parlez,subject_verb_agreement
+Nous venons rapidement.,Nous vient rapidement.,Nous,Nous,venons,subject_verb_agreement
+On parle en silence.,On parlez en silence.,On,On,parle,subject_verb_agreement
+Nous voyons au marché.,Nous voient au marché.,Nous,Nous,voyons,subject_verb_agreement
+Tu prends rapidement.,Tu prenons rapidement.,Tu,Tu,prends,subject_verb_agreement
+Je finis à l'école.,Je finit à l'école.,Je,Je,finis,subject_verb_agreement
+Elles prennent avec ses amis.,Elles prend avec ses amis.,Elles,Elles,prennent,subject_verb_agreement
+On parle le matin.,On parlent le matin.,On,On,parle,subject_verb_agreement
+Elle parle en été.,Elle parles en été.,Elle,Elle,parle,subject_verb_agreement
+Elles voient le matin.,Elles voyez le matin.,Elles,Elles,voient,subject_verb_agreement
+Je finis à l'école.,Je finit à l'école.,Je,Je,finis,subject_verb_agreement
+Les filles finissent au marché.,Les filles finis au marché.,Les filles,Les filles,finissent,subject_verb_agreement
+On vient au marché.,On venez au marché.,On,On,vient,subject_verb_agreement
+Il finit chez moi.,Il finis chez moi.,Il,Il,finit,subject_verb_agreement
+Vous voyez pendant le week-end.,Vous voit pendant le week-end.,Vous,Vous,voyez,subject_verb_agreement
+Elles voient rapidement.,Elles vois rapidement.,Elles,Elles,voient,subject_verb_agreement
+Le garçon finit avec ses amis.,Le garçon finis avec ses amis.,Le garçon,Le garçon,finit,subject_verb_agreement
+Les garçons finissent pendant le week-end.,Les garçons finissez pendant le week-end.,Les garçons,Les garçons,finissent,subject_verb_agreement
+Nous finissons en été.,Nous finissent en été.,Nous,Nous,finissons,subject_verb_agreement
+On parle rapidement.,On parles rapidement.,On,On,parle,subject_verb_agreement
+Elles parlent en été.,Elles parle en été.,Elles,Elles,parlent,subject_verb_agreement
+Les filles finissent à l'école.,Les filles finit à l'école.,Les filles,Les filles,finissent,subject_verb_agreement
+On vient au marché.,On viennent au marché.,On,On,vient,subject_verb_agreement
+Je parle tous les jours.,Je parlons tous les jours.,Je,Je,parle,subject_verb_agreement
+Les filles parlent pendant le week-end.,Les filles parlez pendant le week-end.,Les filles,Les filles,parlent,subject_verb_agreement
+Elles finissent rapidement.,Elles finit rapidement.,Elles,Elles,finissent,subject_verb_agreement
+Il parle pendant le week-end.,Il parlons pendant le week-end.,Il,Il,parle,subject_verb_agreement
+Tu prends chez moi.,Tu prend chez moi.,Tu,Tu,prends,subject_verb_agreement
+Ils voient avec ses amis.,Ils vois avec ses amis.,Ils,Ils,voient,subject_verb_agreement
+Elles viennent pendant le week-end.,Elles viens pendant le week-end.,Elles,Elles,viennent,subject_verb_agreement
+Vous finissez rapidement.,Vous finit rapidement.,Vous,Vous,finissez,subject_verb_agreement
+Vous prenez chez moi.,Vous prends chez moi.,Vous,Vous,prenez,subject_verb_agreement
+Nous venons en été.,Nous vient en été.,Nous,Nous,venons,subject_verb_agreement
+Je vois en silence.,Je voient en silence.,Je,Je,vois,subject_verb_agreement
+Je finis rapidement.,Je finissons rapidement.,Je,Je,finis,subject_verb_agreement
+Vous prenez rapidement.,Vous prenons rapidement.,Vous,Vous,prenez,subject_verb_agreement
+Les garçons prennent en silence.,Les garçons prenons en silence.,Les garçons,Les garçons,prennent,subject_verb_agreement
+Tu vois tous les jours.,Tu voyez tous les jours.,Tu,Tu,vois,subject_verb_agreement
+Nous finissons au marché.,Nous finissent au marché.,Nous,Nous,finissons,subject_verb_agreement
+Je parle chez moi.,Je parlent chez moi.,Je,Je,parle,subject_verb_agreement
+Je parle en été.,Je parles en été.,Je,Je,parle,subject_verb_agreement
+Nous prenons à l'école.,Nous prends à l'école.,Nous,Nous,prenons,subject_verb_agreement
+Tu vois avec ses amis.,Tu voyez avec ses amis.,Tu,Tu,vois,subject_verb_agreement
+Tu parles avec ses amis.,Tu parle avec ses amis.,Tu,Tu,parles,subject_verb_agreement
+Ils prennent le matin.,Ils prend le matin.,Ils,Ils,prennent,subject_verb_agreement
+Les garçons finissent avec ses amis.,Les garçons finit avec ses amis.,Les garçons,Les garçons,finissent,subject_verb_agreement
+Je parle pendant le week-end.,Je parlez pendant le week-end.,Je,Je,parle,subject_verb_agreement
+Les filles viennent en été.,Les filles vient en été.,Les filles,Les filles,viennent,subject_verb_agreement
+Tu finis au marché.,Tu finissent au marché.,Tu,Tu,finis,subject_verb_agreement
+Je vois à l'école.,Je voient à l'école.,Je,Je,vois,subject_verb_agreement
+On prend pendant le week-end.,On prends pendant le week-end.,On,On,prend,subject_verb_agreement
+On prend pendant le week-end.,On prennent pendant le week-end.,On,On,prend,subject_verb_agreement
+Nous prenons pendant le week-end.,Nous prennent pendant le week-end.,Nous,Nous,prenons,subject_verb_agreement
+Elles finissent chez moi.,Elles finissons chez moi.,Elles,Elles,finissent,subject_verb_agreement
+Tu finis chez moi.,Tu finissent chez moi.,Tu,Tu,finis,subject_verb_agreement
+Le garçon prend chez moi.,Le garçon prennent chez moi.,Le garçon,Le garçon,prend,subject_verb_agreement
+La fille vient au marché.,La fille viens au marché.,La fille,La fille,vient,subject_verb_agreement
+La fille voit rapidement.,La fille vois rapidement.,La fille,La fille,voit,subject_verb_agreement
+Elles parlent pendant le week-end.,Elles parles pendant le week-end.,Elles,Elles,parlent,subject_verb_agreement
+La fille vient le matin.,La fille viens le matin.,La fille,La fille,vient,subject_verb_agreement
+Le garçon prend pendant le week-end.,Le garçon prends pendant le week-end.,Le garçon,Le garçon,prend,subject_verb_agreement
+Il finit le matin.,Il finissez le matin.,Il,Il,finit,subject_verb_agreement
+La fille parle en silence.,La fille parles en silence.,La fille,La fille,parle,subject_verb_agreement
+Le garçon finit à l'école.,Le garçon finissent à l'école.,Le garçon,Le garçon,finit,subject_verb_agreement
+La fille prend tous les jours.,La fille prennent tous les jours.,La fille,La fille,prend,subject_verb_agreement
+Ils viennent rapidement.,Ils vient rapidement.,Ils,Ils,viennent,subject_verb_agreement
+Elles viennent à l'école.,Elles viens à l'école.,Elles,Elles,viennent,subject_verb_agreement
+On parle en silence.,On parlez en silence.,On,On,parle,subject_verb_agreement
+Les garçons parlent le matin.,Les garçons parle le matin.,Les garçons,Les garçons,parlent,subject_verb_agreement
+Les garçons finissent le matin.,Les garçons finit le matin.,Les garçons,Les garçons,finissent,subject_verb_agreement
+Il voit en silence.,Il voyez en silence.,Il,Il,voit,subject_verb_agreement
+Le garçon voit avec ses amis.,Le garçon vois avec ses amis.,Le garçon,Le garçon,voit,subject_verb_agreement
+La fille voit à l'école.,La fille vois à l'école.,La fille,La fille,voit,subject_verb_agreement
+Les filles prennent en silence.,Les filles prend en silence.,Les filles,Les filles,prennent,subject_verb_agreement
+Vous prenez à l'école.,Vous prend à l'école.,Vous,Vous,prenez,subject_verb_agreement
+Nous venons en silence.,Nous viens en silence.,Nous,Nous,venons,subject_verb_agreement
+Le garçon prend pendant le week-end.,Le garçon prenons pendant le week-end.,Le garçon,Le garçon,prend,subject_verb_agreement
+Elle prend en silence.,Elle prennent en silence.,Elle,Elle,prend,subject_verb_agreement
+On parle pendant le week-end.,On parlent pendant le week-end.,On,On,parle,subject_verb_agreement
+Vous prenez avec ses amis.,Vous prends avec ses amis.,Vous,Vous,prenez,subject_verb_agreement
+La fille parle à l'école.,La fille parlent à l'école.,La fille,La fille,parle,subject_verb_agreement
+Les filles voient en silence.,Les filles voyez en silence.,Les filles,Les filles,voient,subject_verb_agreement
+Tu parles en silence.,Tu parlez en silence.,Tu,Tu,parles,subject_verb_agreement
+On voit à l'école.,On vois à l'école.,On,On,voit,subject_verb_agreement
+Vous voyez tous les jours.,Vous vois tous les jours.,Vous,Vous,voyez,subject_verb_agreement
+On prend le matin.,On prenons le matin.,On,On,prend,subject_verb_agreement
+Elle prend chez moi.,Elle prennent chez moi.,Elle,Elle,prend,subject_verb_agreement
+Les garçons voient à l'école.,Les garçons vois à l'école.,Les garçons,Les garçons,voient,subject_verb_agreement
+On finit le matin.,On finissez le matin.,On,On,finit,subject_verb_agreement
+La fille parle le matin.,La fille parlons le matin.,La fille,La fille,parle,subject_verb_agreement
+Vous venez avec ses amis.,Vous vient avec ses amis.,Vous,Vous,venez,subject_verb_agreement
+La fille vient en été.,La fille viennent en été.,La fille,La fille,vient,subject_verb_agreement
+Vous parlez au marché.,Vous parlent au marché.,Vous,Vous,parlez,subject_verb_agreement
+Le garçon prend pendant le week-end.,Le garçon prenons pendant le week-end.,Le garçon,Le garçon,prend,subject_verb_agreement
+Nous parlons chez moi.,Nous parlent chez moi.,Nous,Nous,parlons,subject_verb_agreement
+Elle parle tous les jours.,Elle parlons tous les jours.,Elle,Elle,parle,subject_verb_agreement
+Elle parle à l'école.,Elle parlent à l'école.,Elle,Elle,parle,subject_verb_agreement
+Elles voient à l'école.,Elles voit à l'école.,Elles,Elles,voient,subject_verb_agreement
+Je prends rapidement.,Je prend rapidement.,Je,Je,prends,subject_verb_agreement
+Le garçon vient à l'école.,Le garçon viennent à l'école.,Le garçon,Le garçon,vient,subject_verb_agreement
+Je finis en été.,Je finissent en été.,Je,Je,finis,subject_verb_agreement
+Il prend le matin.,Il prennent le matin.,Il,Il,prend,subject_verb_agreement
+Je viens en été.,Je vient en été.,Je,Je,viens,subject_verb_agreement
+Ils viennent chez moi.,Ils venez chez moi.,Ils,Ils,viennent,subject_verb_agreement
+Les filles finissent en silence.,Les filles finissons en silence.,Les filles,Les filles,finissent,subject_verb_agreement
+Je finis en silence.,Je finissent en silence.,Je,Je,finis,subject_verb_agreement
+Tu parles tous les jours.,Tu parlent tous les jours.,Tu,Tu,parles,subject_verb_agreement
+La fille finit avec ses amis.,La fille finis avec ses amis.,La fille,La fille,finit,subject_verb_agreement
+Elles finissent tous les jours.,Elles finit tous les jours.,Elles,Elles,finissent,subject_verb_agreement
+La fille voit le matin.,La fille vois le matin.,La fille,La fille,voit,subject_verb_agreement
+Elles prennent tous les jours.,Elles prenons tous les jours.,Elles,Elles,prennent,subject_verb_agreement
+Tu viens pendant le week-end.,Tu vient pendant le week-end.,Tu,Tu,viens,subject_verb_agreement
+Les filles voient le matin.,Les filles voit le matin.,Les filles,Les filles,voient,subject_verb_agreement
+Je parle en été.,Je parlez en été.,Je,Je,parle,subject_verb_agreement
+La fille finit avec ses amis.,La fille finissent avec ses amis.,La fille,La fille,finit,subject_verb_agreement
+Tu parles en été.,Tu parlons en été.,Tu,Tu,parles,subject_verb_agreement
+Il prend rapidement.,Il prennent rapidement.,Il,Il,prend,subject_verb_agreement
+Je viens tous les jours.,Je venez tous les jours.,Je,Je,viens,subject_verb_agreement
+Ils voient en été.,Ils vois en été.,Ils,Ils,voient,subject_verb_agreement
+Elles voient chez moi.,Elles voit chez moi.,Elles,Elles,voient,subject_verb_agreement
+On voit rapidement.,On voyons rapidement.,On,On,voit,subject_verb_agreement
+Je finis à l'école.,Je finissons à l'école.,Je,Je,finis,subject_verb_agreement
+Il voit en été.,Il voyons en été.,Il,Il,voit,subject_verb_agreement
+Elles prennent en silence.,Elles prend en silence.,Elles,Elles,prennent,subject_verb_agreement
+Elle vient en silence.,Elle viennent en silence.,Elle,Elle,vient,subject_verb_agreement
+Nous finissons rapidement.,Nous finis rapidement.,Nous,Nous,finissons,subject_verb_agreement
+Les filles viennent chez moi.,Les filles viens chez moi.,Les filles,Les filles,viennent,subject_verb_agreement
+Il vient au marché.,Il viennent au marché.,Il,Il,vient,subject_verb_agreement
+On finit au marché.,On finis au marché.,On,On,finit,subject_verb_agreement
+Je viens à l'école.,Je viennent à l'école.,Je,Je,viens,subject_verb_agreement
+Je viens en silence.,Je vient en silence.,Je,Je,viens,subject_verb_agreement
+Je prends avec ses amis.,Je prend avec ses amis.,Je,Je,prends,subject_verb_agreement
+On vient rapidement.,On viennent rapidement.,On,On,vient,subject_verb_agreement
+Nous parlons chez moi.,Nous parle chez moi.,Nous,Nous,parlons,subject_verb_agreement
+Tu finis avec ses amis.,Tu finissent avec ses amis.,Tu,Tu,finis,subject_verb_agreement
+Tu viens rapidement.,Tu vient rapidement.,Tu,Tu,viens,subject_verb_agreement
+Je viens le matin.,Je viennent le matin.,Je,Je,viens,subject_verb_agreement
+Les filles viennent en silence.,Les filles viens en silence.,Les filles,Les filles,viennent,subject_verb_agreement
+Ils viennent avec ses amis.,Ils vient avec ses amis.,Ils,Ils,viennent,subject_verb_agreement
+On vient avec ses amis.,On viens avec ses amis.,On,On,vient,subject_verb_agreement
+La fille finit pendant le week-end.,La fille finissez pendant le week-end.,La fille,La fille,finit,subject_verb_agreement
+Tu parles chez moi.,Tu parlent chez moi.,Tu,Tu,parles,subject_verb_agreement
+Le garçon finit tous les jours.,Le garçon finissez tous les jours.,Le garçon,Le garçon,finit,subject_verb_agreement
+Le garçon prend pendant le week-end.,Le garçon prends pendant le week-end.,Le garçon,Le garçon,prend,subject_verb_agreement
+Nous prenons pendant le week-end.,Nous prennent pendant le week-end.,Nous,Nous,prenons,subject_verb_agreement
+Vous parlez en silence.,Vous parle en silence.,Vous,Vous,parlez,subject_verb_agreement
+Je prends à l'école.,Je prend à l'école.,Je,Je,prends,subject_verb_agreement
+Vous parlez en silence.,Vous parle en silence.,Vous,Vous,parlez,subject_verb_agreement
+Il voit au marché.,Il voyons au marché.,Il,Il,voit,subject_verb_agreement
+Elle parle à l'école.,Elle parlons à l'école.,Elle,Elle,parle,subject_verb_agreement
+Le garçon vient rapidement.,Le garçon viens rapidement.,Le garçon,Le garçon,vient,subject_verb_agreement
+Nous prenons tous les jours.,Nous prend tous les jours.,Nous,Nous,prenons,subject_verb_agreement
+Je parle en été.,Je parlons en été.,Je,Je,parle,subject_verb_agreement
+Ils prennent à l'école.,Ils prend à l'école.,Ils,Ils,prennent,subject_verb_agreement
+Nous venons en silence.,Nous vient en silence.,Nous,Nous,venons,subject_verb_agreement
+Elle voit pendant le week-end.,Elle vois pendant le week-end.,Elle,Elle,voit,subject_verb_agreement
+Vous finissez en été.,Vous finis en été.,Vous,Vous,finissez,subject_verb_agreement
+Je viens rapidement.,Je vient rapidement.,Je,Je,viens,subject_verb_agreement
+Il finit tous les jours.,Il finis tous les jours.,Il,Il,finit,subject_verb_agreement
+Nous venons au marché.,Nous viens au marché.,Nous,Nous,venons,subject_verb_agreement
+Nous venons à l'école.,Nous viens à l'école.,Nous,Nous,venons,subject_verb_agreement
+Vous finissez au marché.,Vous finissent au marché.,Vous,Vous,finissez,subject_verb_agreement
+Tu viens pendant le week-end.,Tu viennent pendant le week-end.,Tu,Tu,viens,subject_verb_agreement
+On parle tous les jours.,On parlez tous les jours.,On,On,parle,subject_verb_agreement
+Les garçons finissent pendant le week-end.,Les garçons finissez pendant le week-end.,Les garçons,Les garçons,finissent,subject_verb_agreement
+Je vois en silence.,Je voit en silence.,Je,Je,vois,subject_verb_agreement
+Il prend tous les jours.,Il prennent tous les jours.,Il,Il,prend,subject_verb_agreement
+Elles voient en silence.,Elles voit en silence.,Elles,Elles,voient,subject_verb_agreement
+Vous parlez tous les jours.,Vous parle tous les jours.,Vous,Vous,parlez,subject_verb_agreement
+Les filles voient tous les jours.,Les filles vois tous les jours.,Les filles,Les filles,voient,subject_verb_agreement
+Vous parlez chez moi.,Vous parles chez moi.,Vous,Vous,parlez,subject_verb_agreement
+Tu vois le matin.,Tu voient le matin.,Tu,Tu,vois,subject_verb_agreement
+On finit avec ses amis.,On finissez avec ses amis.,On,On,finit,subject_verb_agreement
+Nous venons avec ses amis.,Nous vient avec ses amis.,Nous,Nous,venons,subject_verb_agreement
+Vous voyez rapidement.,Vous voient rapidement.,Vous,Vous,voyez,subject_verb_agreement
+Elles prennent à l'école.,Elles prenons à l'école.,Elles,Elles,prennent,subject_verb_agreement
+La fille voit en silence.,La fille vois en silence.,La fille,La fille,voit,subject_verb_agreement
+Nous venons rapidement.,Nous viens rapidement.,Nous,Nous,venons,subject_verb_agreement
+Vous finissez au marché.,Vous finis au marché.,Vous,Vous,finissez,subject_verb_agreement
+Tu vois pendant le week-end.,Tu voyons pendant le week-end.,Tu,Tu,vois,subject_verb_agreement
+La fille finit en silence.,La fille finissons en silence.,La fille,La fille,finit,subject_verb_agreement
+La fille parle à l'école.,La fille parlent à l'école.,La fille,La fille,parle,subject_verb_agreement
+Tu prends à l'école.,Tu prend à l'école.,Tu,Tu,prends,subject_verb_agreement
+Vous prenez le matin.,Vous prends le matin.,Vous,Vous,prenez,subject_verb_agreement
+Elles viennent au marché.,Elles vient au marché.,Elles,Elles,viennent,subject_verb_agreement
+Elles finissent en été.,Elles finit en été.,Elles,Elles,finissent,subject_verb_agreement
+Tu finis en été.,Tu finissons en été.,Tu,Tu,finis,subject_verb_agreement
+Ils viennent rapidement.,Ils venez rapidement.,Ils,Ils,viennent,subject_verb_agreement
+Les filles viennent en silence.,Les filles viens en silence.,Les filles,Les filles,viennent,subject_verb_agreement
+La fille parle le matin.,La fille parlez le matin.,La fille,La fille,parle,subject_verb_agreement
+Les filles voient en silence.,Les filles voit en silence.,Les filles,Les filles,voient,subject_verb_agreement
+Nous parlons au marché.,Nous parle au marché.,Nous,Nous,parlons,subject_verb_agreement
+Nous prenons en été.,Nous prennent en été.,Nous,Nous,prenons,subject_verb_agreement
+On parle pendant le week-end.,On parlent pendant le week-end.,On,On,parle,subject_verb_agreement
+Les filles prennent chez moi.,Les filles prend chez moi.,Les filles,Les filles,prennent,subject_verb_agreement
+Ils prennent en silence.,Ils prend en silence.,Ils,Ils,prennent,subject_verb_agreement
+Les garçons viennent avec ses amis.,Les garçons vient avec ses amis.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Je vois le matin.,Je voit le matin.,Je,Je,vois,subject_verb_agreement
+Le garçon voit chez moi.,Le garçon voyons chez moi.,Le garçon,Le garçon,voit,subject_verb_agreement
+On vient en été.,On venons en été.,On,On,vient,subject_verb_agreement
+Nous parlons avec ses amis.,Nous parlent avec ses amis.,Nous,Nous,parlons,subject_verb_agreement
+Il voit rapidement.,Il voyez rapidement.,Il,Il,voit,subject_verb_agreement
+Les garçons finissent en été.,Les garçons finissons en été.,Les garçons,Les garçons,finissent,subject_verb_agreement
+Il prend en été.,Il prenez en été.,Il,Il,prend,subject_verb_agreement
+Nous prenons au marché.,Nous prennent au marché.,Nous,Nous,prenons,subject_verb_agreement
+Elle voit au marché.,Elle voyons au marché.,Elle,Elle,voit,subject_verb_agreement
+La fille finit en silence.,La fille finissez en silence.,La fille,La fille,finit,subject_verb_agreement
+La fille voit tous les jours.,La fille voyez tous les jours.,La fille,La fille,voit,subject_verb_agreement
+Nous voyons à l'école.,Nous voyez à l'école.,Nous,Nous,voyons,subject_verb_agreement
+Les filles parlent chez moi.,Les filles parle chez moi.,Les filles,Les filles,parlent,subject_verb_agreement
+Nous prenons pendant le week-end.,Nous prends pendant le week-end.,Nous,Nous,prenons,subject_verb_agreement
+Je prends en été.,Je prennent en été.,Je,Je,prends,subject_verb_agreement
+On finit rapidement.,On finissez rapidement.,On,On,finit,subject_verb_agreement
+Vous voyez à l'école.,Vous voit à l'école.,Vous,Vous,voyez,subject_verb_agreement
+Les garçons prennent au marché.,Les garçons prends au marché.,Les garçons,Les garçons,prennent,subject_verb_agreement
+On finit avec ses amis.,On finissons avec ses amis.,On,On,finit,subject_verb_agreement
+Les garçons voient le matin.,Les garçons voit le matin.,Les garçons,Les garçons,voient,subject_verb_agreement
+Les filles viennent le matin.,Les filles venez le matin.,Les filles,Les filles,viennent,subject_verb_agreement
+Elles parlent en silence.,Elles parlez en silence.,Elles,Elles,parlent,subject_verb_agreement
+Ils viennent avec ses amis.,Ils venez avec ses amis.,Ils,Ils,viennent,subject_verb_agreement
+Nous parlons chez moi.,Nous parle chez moi.,Nous,Nous,parlons,subject_verb_agreement
+Les garçons parlent chez moi.,Les garçons parle chez moi.,Les garçons,Les garçons,parlent,subject_verb_agreement
+Tu prends au marché.,Tu prend au marché.,Tu,Tu,prends,subject_verb_agreement
+Nous prenons au marché.,Nous prennent au marché.,Nous,Nous,prenons,subject_verb_agreement
+Les filles parlent le matin.,Les filles parlons le matin.,Les filles,Les filles,parlent,subject_verb_agreement
+Vous prenez en silence.,Vous prends en silence.,Vous,Vous,prenez,subject_verb_agreement
+Nous venons chez moi.,Nous viens chez moi.,Nous,Nous,venons,subject_verb_agreement
+Nous voyons pendant le week-end.,Nous voient pendant le week-end.,Nous,Nous,voyons,subject_verb_agreement
+On prend tous les jours.,On prenez tous les jours.,On,On,prend,subject_verb_agreement
+Elles viennent au marché.,Elles vient au marché.,Elles,Elles,viennent,subject_verb_agreement
+Nous prenons en été.,Nous prenez en été.,Nous,Nous,prenons,subject_verb_agreement
+Les garçons viennent pendant le week-end.,Les garçons viens pendant le week-end.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Je finis pendant le week-end.,Je finissent pendant le week-end.,Je,Je,finis,subject_verb_agreement
+Tu parles pendant le week-end.,Tu parlent pendant le week-end.,Tu,Tu,parles,subject_verb_agreement
+Il finit en silence.,Il finissent en silence.,Il,Il,finit,subject_verb_agreement
+On parle chez moi.,On parles chez moi.,On,On,parle,subject_verb_agreement
+Les garçons prennent en silence.,Les garçons prenez en silence.,Les garçons,Les garçons,prennent,subject_verb_agreement
+Vous finissez au marché.,Vous finis au marché.,Vous,Vous,finissez,subject_verb_agreement
+Elles viennent rapidement.,Elles vient rapidement.,Elles,Elles,viennent,subject_verb_agreement
+Vous parlez pendant le week-end.,Vous parles pendant le week-end.,Vous,Vous,parlez,subject_verb_agreement
+On parle en silence.,On parlons en silence.,On,On,parle,subject_verb_agreement
+Je viens pendant le week-end.,Je venez pendant le week-end.,Je,Je,viens,subject_verb_agreement
+Il voit avec ses amis.,Il vois avec ses amis.,Il,Il,voit,subject_verb_agreement
+Il vient le matin.,Il venons le matin.,Il,Il,vient,subject_verb_agreement
+Il parle rapidement.,Il parlent rapidement.,Il,Il,parle,subject_verb_agreement
+Nous prenons avec ses amis.,Nous prend avec ses amis.,Nous,Nous,prenons,subject_verb_agreement
+Elle vient le matin.,Elle viennent le matin.,Elle,Elle,vient,subject_verb_agreement
+Tu parles le matin.,Tu parle le matin.,Tu,Tu,parles,subject_verb_agreement
+Tu prends rapidement.,Tu prennent rapidement.,Tu,Tu,prends,subject_verb_agreement
+Tu finis rapidement.,Tu finit rapidement.,Tu,Tu,finis,subject_verb_agreement
+Les filles viennent avec ses amis.,Les filles viens avec ses amis.,Les filles,Les filles,viennent,subject_verb_agreement
+Ils parlent pendant le week-end.,Ils parle pendant le week-end.,Ils,Ils,parlent,subject_verb_agreement
+Je parle au marché.,Je parlons au marché.,Je,Je,parle,subject_verb_agreement
+Vous venez le matin.,Vous vient le matin.,Vous,Vous,venez,subject_verb_agreement
+Elles parlent le matin.,Elles parle le matin.,Elles,Elles,parlent,subject_verb_agreement
+La fille finit rapidement.,La fille finissez rapidement.,La fille,La fille,finit,subject_verb_agreement
+On parle en été.,On parlent en été.,On,On,parle,subject_verb_agreement
+Tu prends au marché.,Tu prend au marché.,Tu,Tu,prends,subject_verb_agreement
+La fille vient en silence.,La fille viennent en silence.,La fille,La fille,vient,subject_verb_agreement
+Nous prenons avec ses amis.,Nous prend avec ses amis.,Nous,Nous,prenons,subject_verb_agreement
+On prend en silence.,On prenez en silence.,On,On,prend,subject_verb_agreement
+Le garçon parle en été.,Le garçon parles en été.,Le garçon,Le garçon,parle,subject_verb_agreement
+Je viens pendant le week-end.,Je venons pendant le week-end.,Je,Je,viens,subject_verb_agreement
+La fille voit avec ses amis.,La fille voient avec ses amis.,La fille,La fille,voit,subject_verb_agreement
+Nous prenons en été.,Nous prends en été.,Nous,Nous,prenons,subject_verb_agreement
+Ils viennent tous les jours.,Ils viens tous les jours.,Ils,Ils,viennent,subject_verb_agreement
+Les garçons parlent tous les jours.,Les garçons parle tous les jours.,Les garçons,Les garçons,parlent,subject_verb_agreement
+On finit le matin.,On finissent le matin.,On,On,finit,subject_verb_agreement
+Vous finissez tous les jours.,Vous finis tous les jours.,Vous,Vous,finissez,subject_verb_agreement
+Je finis au marché.,Je finit au marché.,Je,Je,finis,subject_verb_agreement
+Ils prennent en silence.,Ils prends en silence.,Ils,Ils,prennent,subject_verb_agreement
+La fille voit pendant le week-end.,La fille vois pendant le week-end.,La fille,La fille,voit,subject_verb_agreement
+Le garçon parle chez moi.,Le garçon parlent chez moi.,Le garçon,Le garçon,parle,subject_verb_agreement
+Je vois rapidement.,Je voient rapidement.,Je,Je,vois,subject_verb_agreement
+Ils viennent en silence.,Ils viens en silence.,Ils,Ils,viennent,subject_verb_agreement
+On prend avec ses amis.,On prennent avec ses amis.,On,On,prend,subject_verb_agreement
+Nous prenons tous les jours.,Nous prend tous les jours.,Nous,Nous,prenons,subject_verb_agreement
+Nous prenons chez moi.,Nous prend chez moi.,Nous,Nous,prenons,subject_verb_agreement
+Tu prends en silence.,Tu prend en silence.,Tu,Tu,prends,subject_verb_agreement
+Tu prends en silence.,Tu prend en silence.,Tu,Tu,prends,subject_verb_agreement
+Elles parlent le matin.,Elles parlez le matin.,Elles,Elles,parlent,subject_verb_agreement
+Nous venons tous les jours.,Nous vient tous les jours.,Nous,Nous,venons,subject_verb_agreement
+Je prends tous les jours.,Je prenez tous les jours.,Je,Je,prends,subject_verb_agreement
+Les garçons viennent en silence.,Les garçons vient en silence.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Elle parle le matin.,Elle parlent le matin.,Elle,Elle,parle,subject_verb_agreement
+On parle rapidement.,On parles rapidement.,On,On,parle,subject_verb_agreement
+Vous prenez chez moi.,Vous prends chez moi.,Vous,Vous,prenez,subject_verb_agreement
+Nous parlons rapidement.,Nous parle rapidement.,Nous,Nous,parlons,subject_verb_agreement
+Nous finissons tous les jours.,Nous finis tous les jours.,Nous,Nous,finissons,subject_verb_agreement
+La fille finit chez moi.,La fille finissent chez moi.,La fille,La fille,finit,subject_verb_agreement
+Ils prennent à l'école.,Ils prends à l'école.,Ils,Ils,prennent,subject_verb_agreement
+Il prend en été.,Il prends en été.,Il,Il,prend,subject_verb_agreement
+Elle parle chez moi.,Elle parlez chez moi.,Elle,Elle,parle,subject_verb_agreement
+Elles viennent tous les jours.,Elles vient tous les jours.,Elles,Elles,viennent,subject_verb_agreement
+Elle vient au marché.,Elle viennent au marché.,Elle,Elle,vient,subject_verb_agreement
+Elle parle avec ses amis.,Elle parlons avec ses amis.,Elle,Elle,parle,subject_verb_agreement
+Elles viennent au marché.,Elles viens au marché.,Elles,Elles,viennent,subject_verb_agreement
+On finit chez moi.,On finis chez moi.,On,On,finit,subject_verb_agreement
+Le garçon parle en été.,Le garçon parlez en été.,Le garçon,Le garçon,parle,subject_verb_agreement
+La fille voit rapidement.,La fille vois rapidement.,La fille,La fille,voit,subject_verb_agreement
+Le garçon parle rapidement.,Le garçon parlez rapidement.,Le garçon,Le garçon,parle,subject_verb_agreement
+On prend pendant le week-end.,On prennent pendant le week-end.,On,On,prend,subject_verb_agreement
+Nous prenons en silence.,Nous prennent en silence.,Nous,Nous,prenons,subject_verb_agreement
+Elles viennent pendant le week-end.,Elles viens pendant le week-end.,Elles,Elles,viennent,subject_verb_agreement
+Elle parle en été.,Elle parlez en été.,Elle,Elle,parle,subject_verb_agreement
+Vous voyez à l'école.,Vous voyons à l'école.,Vous,Vous,voyez,subject_verb_agreement
+Il vient en silence.,Il venons en silence.,Il,Il,vient,subject_verb_agreement
+Je viens tous les jours.,Je viennent tous les jours.,Je,Je,viens,subject_verb_agreement
+Elle finit tous les jours.,Elle finissent tous les jours.,Elle,Elle,finit,subject_verb_agreement
+Vous venez le matin.,Vous vient le matin.,Vous,Vous,venez,subject_verb_agreement
+Les garçons prennent en été.,Les garçons prend en été.,Les garçons,Les garçons,prennent,subject_verb_agreement
+Je parle chez moi.,Je parlent chez moi.,Je,Je,parle,subject_verb_agreement
+Tu finis en été.,Tu finissons en été.,Tu,Tu,finis,subject_verb_agreement
+Vous finissez au marché.,Vous finissent au marché.,Vous,Vous,finissez,subject_verb_agreement
+Elles voient rapidement.,Elles voyons rapidement.,Elles,Elles,voient,subject_verb_agreement
+Tu parles à l'école.,Tu parle à l'école.,Tu,Tu,parles,subject_verb_agreement
+Je finis au marché.,Je finit au marché.,Je,Je,finis,subject_verb_agreement
+La fille finit à l'école.,La fille finissez à l'école.,La fille,La fille,finit,subject_verb_agreement
+Nous voyons le matin.,Nous voit le matin.,Nous,Nous,voyons,subject_verb_agreement
+Nous finissons tous les jours.,Nous finissent tous les jours.,Nous,Nous,finissons,subject_verb_agreement
+Les filles viennent en silence.,Les filles vient en silence.,Les filles,Les filles,viennent,subject_verb_agreement
+Elle parle chez moi.,Elle parlez chez moi.,Elle,Elle,parle,subject_verb_agreement
+Vous venez rapidement.,Vous viens rapidement.,Vous,Vous,venez,subject_verb_agreement
+Ils prennent avec ses amis.,Ils prends avec ses amis.,Ils,Ils,prennent,subject_verb_agreement
+Je finis au marché.,Je finissez au marché.,Je,Je,finis,subject_verb_agreement
+On prend avec ses amis.,On prennent avec ses amis.,On,On,prend,subject_verb_agreement
+Nous finissons à l'école.,Nous finit à l'école.,Nous,Nous,finissons,subject_verb_agreement
+Nous venons rapidement.,Nous vient rapidement.,Nous,Nous,venons,subject_verb_agreement
+La fille parle avec ses amis.,La fille parlent avec ses amis.,La fille,La fille,parle,subject_verb_agreement
+Tu parles le matin.,Tu parlons le matin.,Tu,Tu,parles,subject_verb_agreement
+La fille prend en silence.,La fille prennent en silence.,La fille,La fille,prend,subject_verb_agreement
+Il parle en silence.,Il parlons en silence.,Il,Il,parle,subject_verb_agreement
+Les garçons prennent en été.,Les garçons prends en été.,Les garçons,Les garçons,prennent,subject_verb_agreement
+Elles viennent le matin.,Elles vient le matin.,Elles,Elles,viennent,subject_verb_agreement
+Elles finissent le matin.,Elles finit le matin.,Elles,Elles,finissent,subject_verb_agreement
+Elle finit à l'école.,Elle finissez à l'école.,Elle,Elle,finit,subject_verb_agreement
+Les filles finissent le matin.,Les filles finit le matin.,Les filles,Les filles,finissent,subject_verb_agreement
+Je prends en silence.,Je prennent en silence.,Je,Je,prends,subject_verb_agreement
+Vous parlez pendant le week-end.,Vous parle pendant le week-end.,Vous,Vous,parlez,subject_verb_agreement
+Les filles viennent à l'école.,Les filles venons à l'école.,Les filles,Les filles,viennent,subject_verb_agreement
+Le garçon vient au marché.,Le garçon venons au marché.,Le garçon,Le garçon,vient,subject_verb_agreement
+Vous venez en été.,Vous vient en été.,Vous,Vous,venez,subject_verb_agreement
+Je finis avec ses amis.,Je finit avec ses amis.,Je,Je,finis,subject_verb_agreement
+On vient chez moi.,On viennent chez moi.,On,On,vient,subject_verb_agreement
+On prend avec ses amis.,On prennent avec ses amis.,On,On,prend,subject_verb_agreement
+Vous voyez chez moi.,Vous voit chez moi.,Vous,Vous,voyez,subject_verb_agreement
+Les garçons prennent rapidement.,Les garçons prenons rapidement.,Les garçons,Les garçons,prennent,subject_verb_agreement
+Vous voyez à l'école.,Vous voient à l'école.,Vous,Vous,voyez,subject_verb_agreement
+La fille parle rapidement.,La fille parlent rapidement.,La fille,La fille,parle,subject_verb_agreement
+Ils finissent tous les jours.,Ils finis tous les jours.,Ils,Ils,finissent,subject_verb_agreement
+Les garçons prennent chez moi.,Les garçons prends chez moi.,Les garçons,Les garçons,prennent,subject_verb_agreement
+Je prends chez moi.,Je prennent chez moi.,Je,Je,prends,subject_verb_agreement
+On prend en silence.,On prennent en silence.,On,On,prend,subject_verb_agreement
+Les garçons viennent au marché.,Les garçons venez au marché.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Les filles finissent rapidement.,Les filles finit rapidement.,Les filles,Les filles,finissent,subject_verb_agreement
+Tu viens au marché.,Tu viennent au marché.,Tu,Tu,viens,subject_verb_agreement
+Tu vois en été.,Tu voit en été.,Tu,Tu,vois,subject_verb_agreement
+Elles viennent chez moi.,Elles viens chez moi.,Elles,Elles,viennent,subject_verb_agreement
+Je parle rapidement.,Je parlent rapidement.,Je,Je,parle,subject_verb_agreement
+On parle au marché.,On parlent au marché.,On,On,parle,subject_verb_agreement
+Je prends pendant le week-end.,Je prennent pendant le week-end.,Je,Je,prends,subject_verb_agreement
+Elles parlent chez moi.,Elles parle chez moi.,Elles,Elles,parlent,subject_verb_agreement
+Elles viennent à l'école.,Elles vient à l'école.,Elles,Elles,viennent,subject_verb_agreement
+Tu prends le matin.,Tu prend le matin.,Tu,Tu,prends,subject_verb_agreement
+Ils voient rapidement.,Ils voyons rapidement.,Ils,Ils,voient,subject_verb_agreement
+Je viens à l'école.,Je vient à l'école.,Je,Je,viens,subject_verb_agreement
+Vous prenez rapidement.,Vous prennent rapidement.,Vous,Vous,prenez,subject_verb_agreement
+Il vient pendant le week-end.,Il viennent pendant le week-end.,Il,Il,vient,subject_verb_agreement
+Elle voit en silence.,Elle voient en silence.,Elle,Elle,voit,subject_verb_agreement
+Je finis avec ses amis.,Je finit avec ses amis.,Je,Je,finis,subject_verb_agreement
+Vous finissez à l'école.,Vous finit à l'école.,Vous,Vous,finissez,subject_verb_agreement
+Ils viennent avec ses amis.,Ils viens avec ses amis.,Ils,Ils,viennent,subject_verb_agreement
+Vous parlez avec ses amis.,Vous parlent avec ses amis.,Vous,Vous,parlez,subject_verb_agreement
+Nous prenons le matin.,Nous prennent le matin.,Nous,Nous,prenons,subject_verb_agreement
+Tu finis le matin.,Tu finissent le matin.,Tu,Tu,finis,subject_verb_agreement
+Les filles viennent avec ses amis.,Les filles vient avec ses amis.,Les filles,Les filles,viennent,subject_verb_agreement
+Ils voient rapidement.,Ils voit rapidement.,Ils,Ils,voient,subject_verb_agreement
+Nous venons au marché.,Nous viens au marché.,Nous,Nous,venons,subject_verb_agreement
+Elle vient pendant le week-end.,Elle venons pendant le week-end.,Elle,Elle,vient,subject_verb_agreement
+Les garçons voient chez moi.,Les garçons voit chez moi.,Les garçons,Les garçons,voient,subject_verb_agreement
+Tu parles en silence.,Tu parle en silence.,Tu,Tu,parles,subject_verb_agreement
+Vous venez le matin.,Vous vient le matin.,Vous,Vous,venez,subject_verb_agreement
+Vous venez en silence.,Vous viens en silence.,Vous,Vous,venez,subject_verb_agreement
+Vous venez le matin.,Vous vient le matin.,Vous,Vous,venez,subject_verb_agreement
+Je viens en silence.,Je vient en silence.,Je,Je,viens,subject_verb_agreement
+Vous parlez avec ses amis.,Vous parle avec ses amis.,Vous,Vous,parlez,subject_verb_agreement
+La fille vient chez moi.,La fille viennent chez moi.,La fille,La fille,vient,subject_verb_agreement
+Il vient au marché.,Il venons au marché.,Il,Il,vient,subject_verb_agreement
+Les filles prennent en silence.,Les filles prends en silence.,Les filles,Les filles,prennent,subject_verb_agreement
+On parle rapidement.,On parlent rapidement.,On,On,parle,subject_verb_agreement
+Nous parlons en silence.,Nous parlent en silence.,Nous,Nous,parlons,subject_verb_agreement
+Vous voyez en silence.,Vous voit en silence.,Vous,Vous,voyez,subject_verb_agreement
+Je finis chez moi.,Je finissent chez moi.,Je,Je,finis,subject_verb_agreement
+Les filles prennent au marché.,Les filles prenons au marché.,Les filles,Les filles,prennent,subject_verb_agreement
+On parle pendant le week-end.,On parles pendant le week-end.,On,On,parle,subject_verb_agreement
+Les garçons voient chez moi.,Les garçons voyez chez moi.,Les garçons,Les garçons,voient,subject_verb_agreement
+Ils prennent avec ses amis.,Ils prend avec ses amis.,Ils,Ils,prennent,subject_verb_agreement
+La fille voit au marché.,La fille vois au marché.,La fille,La fille,voit,subject_verb_agreement
+On voit pendant le week-end.,On vois pendant le week-end.,On,On,voit,subject_verb_agreement
+Les garçons finissent en silence.,Les garçons finissez en silence.,Les garçons,Les garçons,finissent,subject_verb_agreement
+On finit le matin.,On finissent le matin.,On,On,finit,subject_verb_agreement
+Les filles prennent à l'école.,Les filles prenons à l'école.,Les filles,Les filles,prennent,subject_verb_agreement
+Elle finit tous les jours.,Elle finis tous les jours.,Elle,Elle,finit,subject_verb_agreement
+On vient en silence.,On viens en silence.,On,On,vient,subject_verb_agreement
+Vous prenez en silence.,Vous prennent en silence.,Vous,Vous,prenez,subject_verb_agreement
+Elles voient pendant le week-end.,Elles voit pendant le week-end.,Elles,Elles,voient,subject_verb_agreement
+Tu prends le matin.,Tu prennent le matin.,Tu,Tu,prends,subject_verb_agreement
+Elles parlent avec ses amis.,Elles parle avec ses amis.,Elles,Elles,parlent,subject_verb_agreement
+Vous prenez en silence.,Vous prends en silence.,Vous,Vous,prenez,subject_verb_agreement
+Tu parles chez moi.,Tu parlez chez moi.,Tu,Tu,parles,subject_verb_agreement
+Nous prenons chez moi.,Nous prend chez moi.,Nous,Nous,prenons,subject_verb_agreement
+La fille prend pendant le week-end.,La fille prenez pendant le week-end.,La fille,La fille,prend,subject_verb_agreement
+Elles prennent à l'école.,Elles prend à l'école.,Elles,Elles,prennent,subject_verb_agreement
+La fille parle au marché.,La fille parlent au marché.,La fille,La fille,parle,subject_verb_agreement
+La fille prend rapidement.,La fille prenez rapidement.,La fille,La fille,prend,subject_verb_agreement
+Nous voyons en été.,Nous voient en été.,Nous,Nous,voyons,subject_verb_agreement
+Il finit le matin.,Il finis le matin.,Il,Il,finit,subject_verb_agreement
+Tu prends chez moi.,Tu prend chez moi.,Tu,Tu,prends,subject_verb_agreement
+Ils parlent en silence.,Ils parle en silence.,Ils,Ils,parlent,subject_verb_agreement
+Tu prends avec ses amis.,Tu prend avec ses amis.,Tu,Tu,prends,subject_verb_agreement
+La fille finit chez moi.,La fille finissez chez moi.,La fille,La fille,finit,subject_verb_agreement
+Il finit le matin.,Il finissent le matin.,Il,Il,finit,subject_verb_agreement
+Le garçon vient en été.,Le garçon venez en été.,Le garçon,Le garçon,vient,subject_verb_agreement
+Elles viennent au marché.,Elles venez au marché.,Elles,Elles,viennent,subject_verb_agreement
+Elles prennent avec ses amis.,Elles prenons avec ses amis.,Elles,Elles,prennent,subject_verb_agreement
+Nous parlons à l'école.,Nous parlez à l'école.,Nous,Nous,parlons,subject_verb_agreement
+Elle prend avec ses amis.,Elle prenez avec ses amis.,Elle,Elle,prend,subject_verb_agreement
+Nous parlons en été.,Nous parlent en été.,Nous,Nous,parlons,subject_verb_agreement
+Vous parlez le matin.,Vous parle le matin.,Vous,Vous,parlez,subject_verb_agreement
+Les garçons parlent rapidement.,Les garçons parle rapidement.,Les garçons,Les garçons,parlent,subject_verb_agreement
+On prend au marché.,On prennent au marché.,On,On,prend,subject_verb_agreement
+Nous voyons chez moi.,Nous vois chez moi.,Nous,Nous,voyons,subject_verb_agreement
+Il vient tous les jours.,Il viens tous les jours.,Il,Il,vient,subject_verb_agreement
+On voit au marché.,On voient au marché.,On,On,voit,subject_verb_agreement
+On finit en silence.,On finis en silence.,On,On,finit,subject_verb_agreement
+Ils viennent le matin.,Ils venez le matin.,Ils,Ils,viennent,subject_verb_agreement
+Les filles voient en été.,Les filles vois en été.,Les filles,Les filles,voient,subject_verb_agreement
+Tu finis à l'école.,Tu finit à l'école.,Tu,Tu,finis,subject_verb_agreement
+Les garçons viennent au marché.,Les garçons venez au marché.,Les garçons,Les garçons,viennent,subject_verb_agreement
+Je vois rapidement.,Je voit rapidement.,Je,Je,vois,subject_verb_agreement
+La fille finit au marché.,La fille finissent au marché.,La fille,La fille,finit,subject_verb_agreement
+Nous voyons avec ses amis.,Nous voient avec ses amis.,Nous,Nous,voyons,subject_verb_agreement
+Le garçon prend à l'école.,Le garçon prennent à l'école.,Le garçon,Le garçon,prend,subject_verb_agreement
+Ils voient chez moi.,Ils vois chez moi.,Ils,Ils,voient,subject_verb_agreement
+Vous venez tous les jours.,Vous venons tous les jours.,Vous,Vous,venez,subject_verb_agreement
+Vous voyez à l'école.,Vous voit à l'école.,Vous,Vous,voyez,subject_verb_agreement
+Elle vient en été.,Elle viennent en été.,Elle,Elle,vient,subject_verb_agreement
+Tu viens tous les jours.,Tu vient tous les jours.,Tu,Tu,viens,subject_verb_agreement
+Elle prend en été.,Elle prennent en été.,Elle,Elle,prend,subject_verb_agreement
+Nous parlons rapidement.,Nous parlent rapidement.,Nous,Nous,parlons,subject_verb_agreement
+Nous voyons en silence.,Nous voient en silence.,Nous,Nous,voyons,subject_verb_agreement
+Vous prenez à l'école.,Vous prend à l'école.,Vous,Vous,prenez,subject_verb_agreement
 
