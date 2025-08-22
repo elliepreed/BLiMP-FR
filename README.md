@@ -7,7 +7,7 @@ Dataset Structure BLiMP-fr contains eight distinct linguistic phenomena, each re
 - **Adjective–noun agreement** – Tests agreement in gender and number between adjectives and the nouns they modify.
 - **Anaphor agreement** – Evaluates correct agreement between pronouns (anaphors) and their antecedents.
 - **Auxiliary agreement** – Checks subject–auxiliary agreement in tense, number, and person.
-- **Binding** – Tests binding principles, e.g., correct reference of pronouns and reflexives within syntactic domains.
+- **Subject-verb agreement** – Tests verb agreement 
 - **Clitic placement** – Evaluates correct positioning of clitic pronouns in French sentences.
 - **Determiner-noun agreement** – Tests appropriate use and agreement of determiners with nouns.
 - **Negation** – Checks correct formation of negative constructions in French.
