@@ -37,7 +37,7 @@ def process_files(model, mode, model_name, output_folder):
        'augmented_adjective_noun_agreement.csv',
        'augmented_anaphor_agreement.csv',
        'augmented_auxiliary_agreement.csv',
-       'augmented_binding.csv',
+       'subject_verb_agreement.csv',
        'augmented_clitic_placement.csv',
        'augmented_determiners.csv',
        'augmented_negation.csv',
